@@ -1,0 +1,123 @@
+{
+  "name": "Accompaniments",
+  "slug": "accompaniments",
+  "items": [
+    {
+      "name": "Roasted Papad",
+      "slug": "roasted-papad",
+      "category": "accompaniments",
+      "price": 15,
+      "description": "",
+      "image": null,
+      "isVeg": true,
+      "isAvailable": true,
+      "servingInfo": null,
+      "seasonal": false,
+      "isAddon": false
+    },
+    {
+      "name": "Fried Papad",
+      "slug": "fried-papad",
+      "category": "accompaniments",
+      "price": 25,
+      "description": "",
+      "image": null,
+      "isVeg": true,
+      "isAvailable": true,
+      "servingInfo": null,
+      "seasonal": false,
+      "isAddon": false
+    },
+    {
+      "name": "Masala Papad",
+      "slug": "masala-papad",
+      "category": "accompaniments",
+      "price": 35,
+      "description": "",
+      "image": null,
+      "isVeg": true,
+      "isAvailable": true,
+      "servingInfo": null,
+      "seasonal": false,
+      "isAddon": false
+    },
+    {
+      "name": "Green Salad",
+      "slug": "green-salad",
+      "category": "accompaniments",
+      "price": 65,
+      "description": "",
+      "image": null,
+      "isVeg": true,
+      "isAvailable": true,
+      "servingInfo": null,
+      "seasonal": false,
+      "isAddon": false
+    },
+    {
+      "name": "Plain Curd",
+      "slug": "plain-curd",
+      "category": "accompaniments",
+      "price": 65,
+      "description": "",
+      "image": null,
+      "isVeg": true,
+      "isAvailable": true,
+      "servingInfo": null,
+      "seasonal": false,
+      "isAddon": false
+    },
+    {
+      "name": "Boondi Raita",
+      "slug": "boondi-raita",
+      "category": "accompaniments",
+      "price": 85,
+      "description": "",
+      "image": null,
+      "isVeg": true,
+      "isAvailable": true,
+      "servingInfo": null,
+      "seasonal": false,
+      "isAddon": false
+    },
+    {
+      "name": "Plain Raita",
+      "slug": "plain-raita",
+      "category": "accompaniments",
+      "price": 65,
+      "description": "",
+      "image": null,
+      "isVeg": true,
+      "isAvailable": true,
+      "servingInfo": null,
+      "seasonal": false,
+      "isAddon": false
+    },
+    {
+      "name": "Papad Churi",
+      "slug": "papad-churi",
+      "category": "accompaniments",
+      "price": 65,
+      "description": "",
+      "image": null,
+      "isVeg": true,
+      "isAvailable": true,
+      "servingInfo": null,
+      "seasonal": false,
+      "isAddon": false
+    },
+    {
+      "name": "Khichiya Papad Fry / Masala",
+      "slug": "khichiya-papad-fry-masala",
+      "category": "accompaniments",
+      "price": 55,
+      "description": "",
+      "image": null,
+      "isVeg": true,
+      "isAvailable": true,
+      "servingInfo": null,
+      "seasonal": false,
+      "isAddon": false
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "name": "Sindh Se",
+  "slug": "sindh-se",
+  "items": [
+    {
+      "name": "Dal Pakwan",
+      "slug": "dal-pakwan",
+      "category": "sindh-se",
+      "price": 105,
+      "description": "",
+      "image": null,
+      "isVeg": true,
+      "isAvailable": true,
+      "servingInfo": null,
+      "seasonal": false,
+      "isAddon": false,
+      "descriptionStatus": "needs-review",
+      "imageSearchQuery": "Dal Pakwan Indian restaurant food",
+      "tags": [],
+      "dietary": {
+        "vegetarian": true,
+        "jain": false
+      },
+      "spiceLevel": null
+    },
+    {
+      "name": "Pyaaz Ki Koki",
+      "slug": "pyaaz-ki-koki",
+      "category": "sindh-se",
+      "price": 75,
+      "description": "",
+      "image": null,
+      "isVeg": true,
+      "isAvailable": true,
+      "servingInfo": null,
+      "seasonal": false,
+      "isAddon": false,
+      "descriptionStatus": "needs-review",
+      "imageSearchQuery": "Pyaaz Ki Koki Indian restaurant food",
+      "tags": [],
+      "dietary": {
+        "vegetarian": true,
+        "jain": false
+      },
+      "spiceLevel": null
+    },
+    {
+      "name": "Meethi Koki",
+      "slug": "meethi-koki",
+      "category": "sindh-se",
+      "price": 75,
+      "description": "",
+      "image": null,
+      "isVeg": true,
+      "isAvailable": true,
+      "servingInfo": null,
+      "seasonal": false,
+      "isAddon": false,
+      "descriptionStatus": "needs-review",
+      "imageSearchQuery": "Meethi Koki Indian restaurant food",
+      "tags": [],
+      "dietary": {
+        "vegetarian": true,
+        "jain": false
+      },
+      "spiceLevel": null
+    },
+    {
+      "name": "Sindhi Pakode",
+      "slug": "sindhi-pakode",
+      "category": "sindh-se",
+      "price": 95,
+      "description": "",
+      "image": null,
+      "isVeg": true,
+      "isAvailable": true,
+      "servingInfo": null,
+      "seasonal": false,
+      "isAddon": false,
+      "descriptionStatus": "needs-review",
+      "imageSearchQuery": "Sindhi Pakode Indian restaurant food",
+      "tags": [],
+      "dietary": {
+        "vegetarian": true,
+        "jain": false
+      },
+      "spiceLevel": null
+    }
+  ]
+}

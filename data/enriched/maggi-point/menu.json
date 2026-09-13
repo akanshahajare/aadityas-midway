@@ -1,0 +1,182 @@
+{
+  "name": "Maggi Point",
+  "slug": "maggi-point",
+  "items": [
+    {
+      "name": "Plain Maggi",
+      "slug": "plain-maggi",
+      "category": "maggi-point",
+      "price": 65,
+      "description": "A comforting bowl of noodles prepared with flavorful seasonings.",
+      "image": null,
+      "isVeg": true,
+      "isAvailable": true,
+      "servingInfo": null,
+      "seasonal": false,
+      "isAddon": false,
+      "descriptionStatus": "generated",
+      "imageSearchQuery": "Plain Maggi Indian restaurant food",
+      "tags": [],
+      "dietary": {
+        "vegetarian": true,
+        "jain": false
+      },
+      "spiceLevel": null
+    },
+    {
+      "name": "Masala Maggi",
+      "slug": "masala-maggi",
+      "category": "maggi-point",
+      "price": 75,
+      "description": "A comforting bowl of noodles prepared with flavorful seasonings.",
+      "image": null,
+      "isVeg": true,
+      "isAvailable": true,
+      "servingInfo": null,
+      "seasonal": false,
+      "isAddon": false,
+      "descriptionStatus": "generated",
+      "imageSearchQuery": "Masala Maggi Indian restaurant food",
+      "tags": [],
+      "dietary": {
+        "vegetarian": true,
+        "jain": false
+      },
+      "spiceLevel": null
+    },
+    {
+      "name": "Butter Maggi",
+      "slug": "butter-maggi",
+      "category": "maggi-point",
+      "price": 85,
+      "description": "A comforting bowl of noodles prepared with flavorful seasonings.",
+      "image": null,
+      "isVeg": true,
+      "isAvailable": true,
+      "servingInfo": null,
+      "seasonal": false,
+      "isAddon": false,
+      "descriptionStatus": "generated",
+      "imageSearchQuery": "Butter Maggi Indian restaurant food",
+      "tags": [
+        "creamy"
+      ],
+      "dietary": {
+        "vegetarian": true,
+        "jain": false
+      },
+      "spiceLevel": null
+    },
+    {
+      "name": "Punjabi Masala Maggi",
+      "slug": "punjabi-masala-maggi",
+      "category": "maggi-point",
+      "price": 85,
+      "description": "A comforting bowl of noodles prepared with flavorful seasonings.",
+      "image": null,
+      "isVeg": true,
+      "isAvailable": true,
+      "servingInfo": null,
+      "seasonal": false,
+      "isAddon": false,
+      "descriptionStatus": "generated",
+      "imageSearchQuery": "Punjabi Masala Maggi Indian restaurant food",
+      "tags": [],
+      "dietary": {
+        "vegetarian": true,
+        "jain": false
+      },
+      "spiceLevel": null
+    },
+    {
+      "name": "Schezwan Maggi",
+      "slug": "schezwan-maggi",
+      "category": "maggi-point",
+      "price": 85,
+      "description": "A comforting bowl of noodles prepared with flavorful seasonings.",
+      "image": null,
+      "isVeg": true,
+      "isAvailable": true,
+      "servingInfo": null,
+      "seasonal": false,
+      "isAddon": false,
+      "descriptionStatus": "generated",
+      "imageSearchQuery": "Schezwan Maggi Indian restaurant food",
+      "tags": [
+        "spicy"
+      ],
+      "dietary": {
+        "vegetarian": true,
+        "jain": false
+      },
+      "spiceLevel": null
+    },
+    {
+      "name": "Chilli Garlic Maggi",
+      "slug": "chilli-garlic-maggi",
+      "category": "maggi-point",
+      "price": 85,
+      "description": "A comforting bowl of noodles prepared with flavorful seasonings.",
+      "image": null,
+      "isVeg": true,
+      "isAvailable": true,
+      "servingInfo": null,
+      "seasonal": false,
+      "isAddon": false,
+      "descriptionStatus": "generated",
+      "imageSearchQuery": "Chilli Garlic Maggi Indian restaurant food",
+      "tags": [
+        "spicy"
+      ],
+      "dietary": {
+        "vegetarian": true,
+        "jain": false
+      },
+      "spiceLevel": null
+    },
+    {
+      "name": "Cheesy Maggi",
+      "slug": "cheesy-maggi",
+      "category": "maggi-point",
+      "price": 85,
+      "description": "A comforting bowl of noodles prepared with flavorful seasonings.",
+      "image": null,
+      "isVeg": true,
+      "isAvailable": true,
+      "servingInfo": null,
+      "seasonal": false,
+      "isAddon": false,
+      "descriptionStatus": "generated",
+      "imageSearchQuery": "Cheesy Maggi Indian restaurant food",
+      "tags": [],
+      "dietary": {
+        "vegetarian": true,
+        "jain": false
+      },
+      "spiceLevel": null
+    },
+    {
+      "name": "Creamilicious Maggi",
+      "slug": "creamilicious-maggi",
+      "category": "maggi-point",
+      "price": 95,
+      "description": "A comforting bowl of noodles prepared with flavorful seasonings.",
+      "image": null,
+      "isVeg": true,
+      "isAvailable": true,
+      "servingInfo": null,
+      "seasonal": false,
+      "isAddon": false,
+      "descriptionStatus": "generated",
+      "imageSearchQuery": "Creamilicious Maggi Indian restaurant food",
+      "tags": [
+        "creamy"
+      ],
+      "dietary": {
+        "vegetarian": true,
+        "jain": false
+      },
+      "spiceLevel": null
+    }
+  ]
+}

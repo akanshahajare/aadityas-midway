@@ -1,0 +1,260 @@
+{
+  "name": "Shakes",
+  "slug": "shakes",
+  "items": [
+    {
+      "name": "Chocolate Shake",
+      "slug": "chocolate-shake",
+      "category": "shakes",
+      "price": 115,
+      "description": "A creamy and refreshing milkshake blended with rich flavors.",
+      "image": null,
+      "isVeg": true,
+      "isAvailable": true,
+      "servingInfo": null,
+      "seasonal": false,
+      "isAddon": false,
+      "descriptionStatus": "generated",
+      "imageSearchQuery": "Chocolate Shake Indian restaurant food",
+      "tags": [
+        "shake"
+      ],
+      "dietary": {
+        "vegetarian": true,
+        "jain": false
+      },
+      "spiceLevel": null
+    },
+    {
+      "name": "Vanilla Shake",
+      "slug": "vanilla-shake",
+      "category": "shakes",
+      "price": 105,
+      "description": "A creamy and refreshing milkshake blended with rich flavors.",
+      "image": null,
+      "isVeg": true,
+      "isAvailable": true,
+      "servingInfo": null,
+      "seasonal": false,
+      "isAddon": false,
+      "descriptionStatus": "generated",
+      "imageSearchQuery": "Vanilla Shake Indian restaurant food",
+      "tags": [
+        "shake"
+      ],
+      "dietary": {
+        "vegetarian": true,
+        "jain": false
+      },
+      "spiceLevel": null
+    },
+    {
+      "name": "Banana Shake",
+      "slug": "banana-shake",
+      "category": "shakes",
+      "price": 115,
+      "description": "A creamy and refreshing milkshake blended with rich flavors.",
+      "image": null,
+      "isVeg": true,
+      "isAvailable": true,
+      "servingInfo": null,
+      "seasonal": false,
+      "isAddon": false,
+      "descriptionStatus": "generated",
+      "imageSearchQuery": "Banana Shake Indian restaurant food",
+      "tags": [
+        "shake"
+      ],
+      "dietary": {
+        "vegetarian": true,
+        "jain": false
+      },
+      "spiceLevel": null
+    },
+    {
+      "name": "Strawberry Shake",
+      "slug": "strawberry-shake",
+      "category": "shakes",
+      "price": 115,
+      "description": "A creamy and refreshing milkshake blended with rich flavors.",
+      "image": null,
+      "isVeg": true,
+      "isAvailable": true,
+      "servingInfo": null,
+      "seasonal": false,
+      "isAddon": false,
+      "descriptionStatus": "generated",
+      "imageSearchQuery": "Strawberry Shake Indian restaurant food",
+      "tags": [
+        "shake"
+      ],
+      "dietary": {
+        "vegetarian": true,
+        "jain": false
+      },
+      "spiceLevel": null
+    },
+    {
+      "name": "Chikoo Shake",
+      "slug": "chikoo-shake",
+      "category": "shakes",
+      "price": 115,
+      "description": "A creamy and refreshing milkshake blended with rich flavors.",
+      "image": null,
+      "isVeg": true,
+      "isAvailable": true,
+      "servingInfo": null,
+      "seasonal": false,
+      "isAddon": false,
+      "descriptionStatus": "generated",
+      "imageSearchQuery": "Chikoo Shake Indian restaurant food",
+      "tags": [
+        "shake"
+      ],
+      "dietary": {
+        "vegetarian": true,
+        "jain": false
+      },
+      "spiceLevel": null
+    },
+    {
+      "name": "Mango Shake",
+      "slug": "mango-shake",
+      "category": "shakes",
+      "price": 115,
+      "description": "A creamy and refreshing milkshake blended with rich flavors.",
+      "image": null,
+      "isVeg": true,
+      "isAvailable": true,
+      "servingInfo": null,
+      "seasonal": false,
+      "isAddon": false,
+      "descriptionStatus": "generated",
+      "imageSearchQuery": "Mango Shake Indian restaurant food",
+      "tags": [
+        "shake"
+      ],
+      "dietary": {
+        "vegetarian": true,
+        "jain": false
+      },
+      "spiceLevel": null
+    },
+    {
+      "name": "Butterscotch Shake",
+      "slug": "butterscotch-shake",
+      "category": "shakes",
+      "price": 115,
+      "description": "A creamy and refreshing milkshake blended with rich flavors.",
+      "image": null,
+      "isVeg": true,
+      "isAvailable": true,
+      "servingInfo": null,
+      "seasonal": false,
+      "isAddon": false,
+      "descriptionStatus": "generated",
+      "imageSearchQuery": "Butterscotch Shake Indian restaurant food",
+      "tags": [
+        "shake",
+        "creamy"
+      ],
+      "dietary": {
+        "vegetarian": true,
+        "jain": false
+      },
+      "spiceLevel": null
+    },
+    {
+      "name": "Badam Pista Shake",
+      "slug": "badam-pista-shake",
+      "category": "shakes",
+      "price": 125,
+      "description": "A creamy and refreshing milkshake blended with rich flavors.",
+      "image": null,
+      "isVeg": true,
+      "isAvailable": true,
+      "servingInfo": null,
+      "seasonal": false,
+      "isAddon": false,
+      "descriptionStatus": "generated",
+      "imageSearchQuery": "Badam Pista Shake Indian restaurant food",
+      "tags": [
+        "shake"
+      ],
+      "dietary": {
+        "vegetarian": true,
+        "jain": false
+      },
+      "spiceLevel": null
+    },
+    {
+      "name": "Pista ilaichi Shake",
+      "slug": "pista-ilaichi-shake",
+      "category": "shakes",
+      "price": 125,
+      "description": "A creamy and refreshing milkshake blended with rich flavors.",
+      "image": null,
+      "isVeg": true,
+      "isAvailable": true,
+      "servingInfo": null,
+      "seasonal": false,
+      "isAddon": false,
+      "descriptionStatus": "generated",
+      "imageSearchQuery": "Pista ilaichi Shake Indian restaurant food",
+      "tags": [
+        "shake"
+      ],
+      "dietary": {
+        "vegetarian": true,
+        "jain": false
+      },
+      "spiceLevel": null
+    },
+    {
+      "name": "Oreo Shake",
+      "slug": "oreo-shake",
+      "category": "shakes",
+      "price": 125,
+      "description": "A creamy and refreshing milkshake blended with rich flavors.",
+      "image": null,
+      "isVeg": true,
+      "isAvailable": true,
+      "servingInfo": null,
+      "seasonal": false,
+      "isAddon": false,
+      "descriptionStatus": "generated",
+      "imageSearchQuery": "Oreo Shake Indian restaurant food",
+      "tags": [
+        "shake"
+      ],
+      "dietary": {
+        "vegetarian": true,
+        "jain": false
+      },
+      "spiceLevel": null
+    },
+    {
+      "name": "Blueberry Shake",
+      "slug": "blueberry-shake",
+      "category": "shakes",
+      "price": 125,
+      "description": "A creamy and refreshing milkshake blended with rich flavors.",
+      "image": null,
+      "isVeg": true,
+      "isAvailable": true,
+      "servingInfo": null,
+      "seasonal": false,
+      "isAddon": false,
+      "descriptionStatus": "generated",
+      "imageSearchQuery": "Blueberry Shake Indian restaurant food",
+      "tags": [
+        "shake"
+      ],
+      "dietary": {
+        "vegetarian": true,
+        "jain": false
+      },
+      "spiceLevel": null
+    }
+  ]
+}

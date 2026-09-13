@@ -1,0 +1,75 @@
+{
+  "name": "Pastas",
+  "slug": "pastas",
+  "items": [
+    {
+      "name": "Red Sauce Pasta",
+      "slug": "red-sauce-pasta",
+      "category": "pastas",
+      "price": 195,
+      "description": "Pasta tossed in a rich and flavorful tomato-based sauce.",
+      "image": null,
+      "isVeg": true,
+      "isAvailable": true,
+      "servingInfo": null,
+      "seasonal": false,
+      "isAddon": false,
+      "descriptionStatus": "generated",
+      "imageSearchQuery": "Red Sauce Pasta Indian restaurant food",
+      "tags": [
+        "pasta"
+      ],
+      "dietary": {
+        "vegetarian": true,
+        "jain": false
+      },
+      "spiceLevel": null
+    },
+    {
+      "name": "White Sauce Pasta",
+      "slug": "white-sauce-pasta",
+      "category": "pastas",
+      "price": 195,
+      "description": "Creamy pasta tossed in a smooth and rich white sauce.",
+      "image": null,
+      "isVeg": true,
+      "isAvailable": true,
+      "servingInfo": null,
+      "seasonal": false,
+      "isAddon": false,
+      "descriptionStatus": "generated",
+      "imageSearchQuery": "White Sauce Pasta Indian restaurant food",
+      "tags": [
+        "pasta"
+      ],
+      "dietary": {
+        "vegetarian": true,
+        "jain": false
+      },
+      "spiceLevel": null
+    },
+    {
+      "name": "Pink Sauce Pasta",
+      "slug": "pink-sauce-pasta",
+      "category": "pastas",
+      "price": 195,
+      "description": "Creamy pasta prepared with a flavorful blend of tomato and white sauce.",
+      "image": null,
+      "isVeg": true,
+      "isAvailable": true,
+      "servingInfo": null,
+      "seasonal": false,
+      "isAddon": false,
+      "descriptionStatus": "generated",
+      "imageSearchQuery": "Pink Sauce Pasta Indian restaurant food",
+      "tags": [
+        "pasta"
+      ],
+      "dietary": {
+        "vegetarian": true,
+        "jain": false
+      },
+      "spiceLevel": null
+    }
+  ]
+}

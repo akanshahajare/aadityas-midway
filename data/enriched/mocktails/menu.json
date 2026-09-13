@@ -1,0 +1,305 @@
+{
+  "name": "Mocktails",
+  "slug": "mocktails",
+  "items": [
+    {
+      "name": "Virgin Mojito",
+      "slug": "virgin-mojito",
+      "category": "mocktails",
+      "price": 95,
+      "description": "A refreshing non-alcoholic beverage prepared with fruity and citrusy flavors.",
+      "image": null,
+      "isVeg": true,
+      "isAvailable": true,
+      "servingInfo": null,
+      "seasonal": false,
+      "isAddon": false,
+      "descriptionStatus": "generated",
+      "imageSearchQuery": "Virgin Mojito Indian restaurant food",
+      "tags": [
+        "mocktail"
+      ],
+      "dietary": {
+        "vegetarian": true,
+        "jain": false
+      },
+      "spiceLevel": null
+    },
+    {
+      "name": "Virgin Sunset",
+      "slug": "virgin-sunset",
+      "category": "mocktails",
+      "price": 95,
+      "description": "A refreshing non-alcoholic beverage prepared with fruity and citrusy flavors.",
+      "image": null,
+      "isVeg": true,
+      "isAvailable": true,
+      "servingInfo": null,
+      "seasonal": false,
+      "isAddon": false,
+      "descriptionStatus": "generated",
+      "imageSearchQuery": "Virgin Sunset Indian restaurant food",
+      "tags": [
+        "mocktail"
+      ],
+      "dietary": {
+        "vegetarian": true,
+        "jain": false
+      },
+      "spiceLevel": null
+    },
+    {
+      "name": "Orange blossom",
+      "slug": "orange-blossom",
+      "category": "mocktails",
+      "price": 95,
+      "description": "",
+      "image": null,
+      "isVeg": true,
+      "isAvailable": true,
+      "servingInfo": null,
+      "seasonal": false,
+      "isAddon": false,
+      "descriptionStatus": "needs-review",
+      "imageSearchQuery": "Orange blossom Indian restaurant food",
+      "tags": [
+        "mocktail"
+      ],
+      "dietary": {
+        "vegetarian": true,
+        "jain": false
+      },
+      "spiceLevel": null
+    },
+    {
+      "name": "Green hawaiian",
+      "slug": "green-hawaiian",
+      "category": "mocktails",
+      "price": 95,
+      "description": "",
+      "image": null,
+      "isVeg": true,
+      "isAvailable": true,
+      "servingInfo": null,
+      "seasonal": false,
+      "isAddon": false,
+      "descriptionStatus": "needs-review",
+      "imageSearchQuery": "Green hawaiian Indian restaurant food",
+      "tags": [
+        "mocktail"
+      ],
+      "dietary": {
+        "vegetarian": true,
+        "jain": false
+      },
+      "spiceLevel": null
+    },
+    {
+      "name": "Midnight beauty",
+      "slug": "midnight-beauty",
+      "category": "mocktails",
+      "price": 115,
+      "description": "",
+      "image": null,
+      "isVeg": true,
+      "isAvailable": true,
+      "servingInfo": null,
+      "seasonal": false,
+      "isAddon": false,
+      "descriptionStatus": "needs-review",
+      "imageSearchQuery": "Midnight beauty Indian restaurant food",
+      "tags": [
+        "mocktail"
+      ],
+      "dietary": {
+        "vegetarian": true,
+        "jain": false
+      },
+      "spiceLevel": null
+    },
+    {
+      "name": "Blue Lagoon",
+      "slug": "blue-lagoon",
+      "category": "mocktails",
+      "price": 95,
+      "description": "A refreshing non-alcoholic beverage prepared with fruity and citrusy flavors.",
+      "image": null,
+      "isVeg": true,
+      "isAvailable": true,
+      "servingInfo": null,
+      "seasonal": false,
+      "isAddon": false,
+      "descriptionStatus": "generated",
+      "imageSearchQuery": "Blue Lagoon Indian restaurant food",
+      "tags": [
+        "mocktail"
+      ],
+      "dietary": {
+        "vegetarian": true,
+        "jain": false
+      },
+      "spiceLevel": null
+    },
+    {
+      "name": "Pina Colada",
+      "slug": "pina-colada",
+      "category": "mocktails",
+      "price": 125,
+      "description": "",
+      "image": null,
+      "isVeg": true,
+      "isAvailable": true,
+      "servingInfo": null,
+      "seasonal": false,
+      "isAddon": false,
+      "descriptionStatus": "needs-review",
+      "imageSearchQuery": "Pina Colada Indian restaurant food",
+      "tags": [
+        "mocktail"
+      ],
+      "dietary": {
+        "vegetarian": true,
+        "jain": false
+      },
+      "spiceLevel": null
+    },
+    {
+      "name": "Fresh Lime Soda",
+      "slug": "fresh-lime-soda",
+      "category": "mocktails",
+      "price": 115,
+      "description": "",
+      "image": null,
+      "isVeg": true,
+      "isAvailable": true,
+      "servingInfo": null,
+      "seasonal": false,
+      "isAddon": false,
+      "descriptionStatus": "needs-review",
+      "imageSearchQuery": "Fresh Lime Soda Indian restaurant food",
+      "tags": [
+        "mocktail"
+      ],
+      "dietary": {
+        "vegetarian": true,
+        "jain": false
+      },
+      "spiceLevel": null
+    },
+    {
+      "name": "Raspberry Mint Lemonade",
+      "slug": "raspberry-mint-lemonade",
+      "category": "mocktails",
+      "price": 115,
+      "description": "A refreshing non-alcoholic beverage prepared with fruity and citrusy flavors.",
+      "image": null,
+      "isVeg": true,
+      "isAvailable": true,
+      "servingInfo": null,
+      "seasonal": false,
+      "isAddon": false,
+      "descriptionStatus": "generated",
+      "imageSearchQuery": "Raspberry Mint Lemonade Indian restaurant food",
+      "tags": [
+        "mocktail"
+      ],
+      "dietary": {
+        "vegetarian": true,
+        "jain": false
+      },
+      "spiceLevel": null
+    },
+    {
+      "name": "Cranberry Mojito",
+      "slug": "cranberry-mojito",
+      "category": "mocktails",
+      "price": 115,
+      "description": "A refreshing non-alcoholic beverage prepared with fruity and citrusy flavors.",
+      "image": null,
+      "isVeg": true,
+      "isAvailable": true,
+      "servingInfo": null,
+      "seasonal": false,
+      "isAddon": false,
+      "descriptionStatus": "generated",
+      "imageSearchQuery": "Cranberry Mojito Indian restaurant food",
+      "tags": [
+        "mocktail"
+      ],
+      "dietary": {
+        "vegetarian": true,
+        "jain": false
+      },
+      "spiceLevel": null
+    },
+    {
+      "name": "Early Morning",
+      "slug": "early-morning",
+      "category": "mocktails",
+      "price": 115,
+      "description": "",
+      "image": null,
+      "isVeg": true,
+      "isAvailable": true,
+      "servingInfo": null,
+      "seasonal": false,
+      "isAddon": false,
+      "descriptionStatus": "needs-review",
+      "imageSearchQuery": "Early Morning Indian restaurant food",
+      "tags": [
+        "mocktail"
+      ],
+      "dietary": {
+        "vegetarian": true,
+        "jain": false
+      },
+      "spiceLevel": null
+    },
+    {
+      "name": "Lonely Lady",
+      "slug": "lonely-lady",
+      "category": "mocktails",
+      "price": 115,
+      "description": "",
+      "image": null,
+      "isVeg": true,
+      "isAvailable": true,
+      "servingInfo": null,
+      "seasonal": false,
+      "isAddon": false,
+      "descriptionStatus": "needs-review",
+      "imageSearchQuery": "Lonely Lady Indian restaurant food",
+      "tags": [
+        "mocktail"
+      ],
+      "dietary": {
+        "vegetarian": true,
+        "jain": false
+      },
+      "spiceLevel": null
+    },
+    {
+      "name": "Grass Courte",
+      "slug": "grass-courte",
+      "category": "mocktails",
+      "price": 115,
+      "description": "",
+      "image": null,
+      "isVeg": true,
+      "isAvailable": true,
+      "servingInfo": null,
+      "seasonal": false,
+      "isAddon": false,
+      "descriptionStatus": "needs-review",
+      "imageSearchQuery": "Grass Courte Indian restaurant food",
+      "tags": [
+        "mocktail"
+      ],
+      "dietary": {
+        "vegetarian": true,
+        "jain": false
+      },
+      "spiceLevel": null
+    }
+  ]
+}

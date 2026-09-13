@@ -1,0 +1,315 @@
+{
+  "name": "Jain Main Course (Freshly Prepared gravy)",
+  "slug": "jain-main-course-freshly-prepared-gravy",
+  "items": [
+    {
+      "name": "Bhindi Kurkuri",
+      "slug": "bhindi-kurkuri",
+      "category": "jain-main-course-freshly-prepared-gravy",
+      "price": 195,
+      "description": "",
+      "image": null,
+      "isVeg": true,
+      "isAvailable": true,
+      "servingInfo": null,
+      "seasonal": false,
+      "isAddon": false,
+      "descriptionStatus": "needs-review",
+      "imageSearchQuery": "Bhindi Kurkuri Indian restaurant food",
+      "tags": [],
+      "dietary": {
+        "vegetarian": true,
+        "jain": false
+      },
+      "spiceLevel": null
+    },
+    {
+      "name": "Dal Tomato",
+      "slug": "dal-tomato",
+      "category": "jain-main-course-freshly-prepared-gravy",
+      "price": 195,
+      "description": "",
+      "image": null,
+      "isVeg": true,
+      "isAvailable": true,
+      "servingInfo": null,
+      "seasonal": false,
+      "isAddon": false,
+      "descriptionStatus": "needs-review",
+      "imageSearchQuery": "Dal Tomato Indian restaurant food",
+      "tags": [],
+      "dietary": {
+        "vegetarian": true,
+        "jain": false
+      },
+      "spiceLevel": null
+    },
+    {
+      "name": "Jeera Dal",
+      "slug": "jeera-dal",
+      "category": "jain-main-course-freshly-prepared-gravy",
+      "price": 195,
+      "description": "",
+      "image": null,
+      "isVeg": true,
+      "isAvailable": true,
+      "servingInfo": null,
+      "seasonal": false,
+      "isAddon": false,
+      "descriptionStatus": "needs-review",
+      "imageSearchQuery": "Jeera Dal Indian restaurant food",
+      "tags": [],
+      "dietary": {
+        "vegetarian": true,
+        "jain": false
+      },
+      "spiceLevel": null
+    },
+    {
+      "name": "Jaipuri Dal",
+      "slug": "jaipuri-dal",
+      "category": "jain-main-course-freshly-prepared-gravy",
+      "price": 195,
+      "description": "",
+      "image": null,
+      "isVeg": true,
+      "isAvailable": true,
+      "servingInfo": null,
+      "seasonal": false,
+      "isAddon": false,
+      "descriptionStatus": "needs-review",
+      "imageSearchQuery": "Jaipuri Dal Indian restaurant food",
+      "tags": [],
+      "dietary": {
+        "vegetarian": true,
+        "jain": false
+      },
+      "spiceLevel": null
+    },
+    {
+      "name": "Bhindi Masala",
+      "slug": "bhindi-masala",
+      "category": "jain-main-course-freshly-prepared-gravy",
+      "price": 215,
+      "description": "",
+      "image": null,
+      "isVeg": true,
+      "isAvailable": true,
+      "servingInfo": null,
+      "seasonal": false,
+      "isAddon": false,
+      "descriptionStatus": "needs-review",
+      "imageSearchQuery": "Bhindi Masala Indian restaurant food",
+      "tags": [],
+      "dietary": {
+        "vegetarian": true,
+        "jain": false
+      },
+      "spiceLevel": null
+    },
+    {
+      "name": "Paneer Bhurji",
+      "slug": "paneer-bhurji",
+      "category": "jain-main-course-freshly-prepared-gravy",
+      "price": 225,
+      "description": "Crumbled paneer cooked with onions, tomatoes and aromatic Indian spices.",
+      "image": null,
+      "isVeg": true,
+      "isAvailable": true,
+      "servingInfo": null,
+      "seasonal": false,
+      "isAddon": false,
+      "descriptionStatus": "generated",
+      "imageSearchQuery": "Paneer Bhurji Indian restaurant food",
+      "tags": [
+        "paneer"
+      ],
+      "dietary": {
+        "vegetarian": true,
+        "jain": false
+      },
+      "spiceLevel": null
+    },
+    {
+      "name": "Mutter Paneer",
+      "slug": "mutter-paneer",
+      "category": "jain-main-course-freshly-prepared-gravy",
+      "price": 225,
+      "description": "Paneer and green peas cooked together in a flavorful Indian gravy.",
+      "image": null,
+      "isVeg": true,
+      "isAvailable": true,
+      "servingInfo": null,
+      "seasonal": false,
+      "isAddon": false,
+      "descriptionStatus": "generated",
+      "imageSearchQuery": "Mutter Paneer Indian restaurant food",
+      "tags": [
+        "paneer"
+      ],
+      "dietary": {
+        "vegetarian": true,
+        "jain": false
+      },
+      "spiceLevel": null
+    },
+    {
+      "name": "Methi Mutter Malai",
+      "slug": "methi-mutter-malai",
+      "category": "jain-main-course-freshly-prepared-gravy",
+      "price": 255,
+      "description": "",
+      "image": null,
+      "isVeg": true,
+      "isAvailable": true,
+      "servingInfo": null,
+      "seasonal": false,
+      "isAddon": false,
+      "descriptionStatus": "needs-review",
+      "imageSearchQuery": "Methi Mutter Malai Indian restaurant food",
+      "tags": [],
+      "dietary": {
+        "vegetarian": true,
+        "jain": false
+      },
+      "spiceLevel": null
+    },
+    {
+      "name": "Paneer Capsicum",
+      "slug": "paneer-capsicum",
+      "category": "jain-main-course-freshly-prepared-gravy",
+      "price": 225,
+      "description": "",
+      "image": null,
+      "isVeg": true,
+      "isAvailable": true,
+      "servingInfo": null,
+      "seasonal": false,
+      "isAddon": false,
+      "descriptionStatus": "needs-review",
+      "imageSearchQuery": "Paneer Capsicum Indian restaurant food",
+      "tags": [
+        "paneer"
+      ],
+      "dietary": {
+        "vegetarian": true,
+        "jain": false
+      },
+      "spiceLevel": null
+    },
+    {
+      "name": "Palak Kofta",
+      "slug": "palak-kofta",
+      "category": "jain-main-course-freshly-prepared-gravy",
+      "price": 225,
+      "description": "",
+      "image": null,
+      "isVeg": true,
+      "isAvailable": true,
+      "servingInfo": null,
+      "seasonal": false,
+      "isAddon": false,
+      "descriptionStatus": "needs-review",
+      "imageSearchQuery": "Palak Kofta Indian restaurant food",
+      "tags": [],
+      "dietary": {
+        "vegetarian": true,
+        "jain": false
+      },
+      "spiceLevel": null
+    },
+    {
+      "name": "Paneer Butter Masala",
+      "slug": "paneer-butter-masala",
+      "category": "jain-main-course-freshly-prepared-gravy",
+      "price": 235,
+      "description": "Soft paneer cubes cooked in a rich, creamy and mildly spiced tomato gravy.",
+      "image": null,
+      "isVeg": true,
+      "isAvailable": true,
+      "servingInfo": null,
+      "seasonal": false,
+      "isAddon": false,
+      "descriptionStatus": "generated",
+      "imageSearchQuery": "Paneer Butter Masala Indian restaurant food",
+      "tags": [
+        "paneer",
+        "creamy"
+      ],
+      "dietary": {
+        "vegetarian": true,
+        "jain": false
+      },
+      "spiceLevel": null
+    },
+    {
+      "name": "Palak Paneer",
+      "slug": "palak-paneer",
+      "category": "jain-main-course-freshly-prepared-gravy",
+      "price": 255,
+      "description": "Soft paneer cooked in a smooth, flavorful spinach gravy.",
+      "image": null,
+      "isVeg": true,
+      "isAvailable": true,
+      "servingInfo": null,
+      "seasonal": false,
+      "isAddon": false,
+      "descriptionStatus": "generated",
+      "imageSearchQuery": "Palak Paneer Indian restaurant food",
+      "tags": [
+        "paneer"
+      ],
+      "dietary": {
+        "vegetarian": true,
+        "jain": false
+      },
+      "spiceLevel": null
+    },
+    {
+      "name": "Paneer Kofta",
+      "slug": "paneer-kofta",
+      "category": "jain-main-course-freshly-prepared-gravy",
+      "price": 255,
+      "description": "",
+      "image": null,
+      "isVeg": true,
+      "isAvailable": true,
+      "servingInfo": null,
+      "seasonal": false,
+      "isAddon": false,
+      "descriptionStatus": "needs-review",
+      "imageSearchQuery": "Paneer Kofta Indian restaurant food",
+      "tags": [
+        "paneer"
+      ],
+      "dietary": {
+        "vegetarian": true,
+        "jain": false
+      },
+      "spiceLevel": null
+    },
+    {
+      "name": "Shahi Paneer",
+      "slug": "shahi-paneer",
+      "category": "jain-main-course-freshly-prepared-gravy",
+      "price": 255,
+      "description": "Soft paneer prepared in a rich, creamy and mildly spiced gravy.",
+      "image": null,
+      "isVeg": true,
+      "isAvailable": true,
+      "servingInfo": null,
+      "seasonal": false,
+      "isAddon": false,
+      "descriptionStatus": "generated",
+      "imageSearchQuery": "Shahi Paneer Indian restaurant food",
+      "tags": [
+        "paneer"
+      ],
+      "dietary": {
+        "vegetarian": true,
+        "jain": false
+      },
+      "spiceLevel": null
+    }
+  ]
+}

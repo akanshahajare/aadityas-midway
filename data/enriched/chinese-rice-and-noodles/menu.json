@@ -1,0 +1,184 @@
+{
+  "name": "Chinese Rice & Noodles",
+  "slug": "chinese-rice-and-noodles",
+  "items": [
+    {
+      "name": "Veg Fried Rice",
+      "slug": "veg-fried-rice",
+      "category": "chinese-rice-and-noodles",
+      "price": 195,
+      "description": "Fragrant rice wok-tossed with vegetables and flavorful seasonings.",
+      "image": null,
+      "isVeg": true,
+      "isAvailable": true,
+      "servingInfo": null,
+      "seasonal": false,
+      "isAddon": false,
+      "descriptionStatus": "generated",
+      "imageSearchQuery": "Veg Fried Rice Indian restaurant food",
+      "tags": [
+        "rice",
+        "noodles",
+        "indo-chinese"
+      ],
+      "dietary": {
+        "vegetarian": true,
+        "jain": false
+      },
+      "spiceLevel": null
+    },
+    {
+      "name": "Veg Burnt Garlic Rice",
+      "slug": "veg-burnt-garlic-rice",
+      "category": "chinese-rice-and-noodles",
+      "price": 195,
+      "description": "Wok-tossed rice finished with aromatic roasted garlic and flavorful seasonings.",
+      "image": null,
+      "isVeg": true,
+      "isAvailable": true,
+      "servingInfo": null,
+      "seasonal": false,
+      "isAddon": false,
+      "descriptionStatus": "generated",
+      "imageSearchQuery": "Veg Burnt Garlic Rice Indian restaurant food",
+      "tags": [
+        "rice",
+        "noodles",
+        "indo-chinese"
+      ],
+      "dietary": {
+        "vegetarian": true,
+        "jain": false
+      },
+      "spiceLevel": null
+    },
+    {
+      "name": "Schezwan Fried Rice",
+      "slug": "schezwan-fried-rice",
+      "category": "chinese-rice-and-noodles",
+      "price": 195,
+      "description": "Fragrant rice wok-tossed with vegetables and flavorful seasonings.",
+      "image": null,
+      "isVeg": true,
+      "isAvailable": true,
+      "servingInfo": null,
+      "seasonal": false,
+      "isAddon": false,
+      "descriptionStatus": "generated",
+      "imageSearchQuery": "Schezwan Fried Rice Indian restaurant food",
+      "tags": [
+        "rice",
+        "noodles",
+        "indo-chinese",
+        "spicy"
+      ],
+      "dietary": {
+        "vegetarian": true,
+        "jain": false
+      },
+      "spiceLevel": null
+    },
+    {
+      "name": "Hakka Noodles",
+      "slug": "hakka-noodles",
+      "category": "chinese-rice-and-noodles",
+      "price": 195,
+      "description": "Wok-tossed noodles prepared with vegetables and flavorful Asian seasonings.",
+      "image": null,
+      "isVeg": true,
+      "isAvailable": true,
+      "servingInfo": null,
+      "seasonal": false,
+      "isAddon": false,
+      "descriptionStatus": "generated",
+      "imageSearchQuery": "Hakka Noodles Indian restaurant food",
+      "tags": [
+        "rice",
+        "noodles",
+        "indo-chinese"
+      ],
+      "dietary": {
+        "vegetarian": true,
+        "jain": false
+      },
+      "spiceLevel": null
+    },
+    {
+      "name": "Schezwan Noodles",
+      "slug": "schezwan-noodles",
+      "category": "chinese-rice-and-noodles",
+      "price": 195,
+      "description": "Wok-tossed noodles prepared with vegetables and flavorful Asian seasonings.",
+      "image": null,
+      "isVeg": true,
+      "isAvailable": true,
+      "servingInfo": null,
+      "seasonal": false,
+      "isAddon": false,
+      "descriptionStatus": "generated",
+      "imageSearchQuery": "Schezwan Noodles Indian restaurant food",
+      "tags": [
+        "rice",
+        "noodles",
+        "indo-chinese",
+        "spicy"
+      ],
+      "dietary": {
+        "vegetarian": true,
+        "jain": false
+      },
+      "spiceLevel": null
+    },
+    {
+      "name": "Chilli Garlic Noodles",
+      "slug": "chilli-garlic-noodles",
+      "category": "chinese-rice-and-noodles",
+      "price": 195,
+      "description": "Wok-tossed noodles prepared with vegetables and flavorful Asian seasonings.",
+      "image": null,
+      "isVeg": true,
+      "isAvailable": true,
+      "servingInfo": null,
+      "seasonal": false,
+      "isAddon": false,
+      "descriptionStatus": "generated",
+      "imageSearchQuery": "Chilli Garlic Noodles Indian restaurant food",
+      "tags": [
+        "rice",
+        "noodles",
+        "indo-chinese",
+        "spicy"
+      ],
+      "dietary": {
+        "vegetarian": true,
+        "jain": false
+      },
+      "spiceLevel": null
+    },
+    {
+      "name": "Burnt Garlic Noodles",
+      "slug": "burnt-garlic-noodles",
+      "category": "chinese-rice-and-noodles",
+      "price": 195,
+      "description": "Wok-tossed noodles prepared with vegetables and flavorful Asian seasonings.",
+      "image": null,
+      "isVeg": true,
+      "isAvailable": true,
+      "servingInfo": null,
+      "seasonal": false,
+      "isAddon": false,
+      "descriptionStatus": "generated",
+      "imageSearchQuery": "Burnt Garlic Noodles Indian restaurant food",
+      "tags": [
+        "rice",
+        "noodles",
+        "indo-chinese"
+      ],
+      "dietary": {
+        "vegetarian": true,
+        "jain": false
+      },
+      "spiceLevel": null
+    }
+  ]
+}

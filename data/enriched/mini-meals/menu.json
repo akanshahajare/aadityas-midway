@@ -1,0 +1,177 @@
+{
+  "name": "Mini Meals",
+  "slug": "mini-meals",
+  "items": [
+    {
+      "name": "Midway Special Thali",
+      "slug": "midway-special-thali",
+      "category": "mini-meals",
+      "price": 250,
+      "description": "",
+      "image": null,
+      "isVeg": true,
+      "isAvailable": true,
+      "servingInfo": null,
+      "seasonal": false,
+      "isAddon": false,
+      "descriptionStatus": "needs-review",
+      "imageSearchQuery": "Midway Special Thali Indian restaurant food",
+      "tags": [],
+      "dietary": {
+        "vegetarian": true,
+        "jain": false
+      },
+      "spiceLevel": null
+    },
+    {
+      "name": "Rajma Chawal",
+      "slug": "rajma-chawal",
+      "category": "mini-meals",
+      "price": 155,
+      "description": "",
+      "image": null,
+      "isVeg": true,
+      "isAvailable": true,
+      "servingInfo": null,
+      "seasonal": false,
+      "isAddon": false,
+      "descriptionStatus": "needs-review",
+      "imageSearchQuery": "Rajma Chawal Indian restaurant food",
+      "tags": [],
+      "dietary": {
+        "vegetarian": true,
+        "jain": false
+      },
+      "spiceLevel": null
+    },
+    {
+      "name": "Chole Chawal",
+      "slug": "chole-chawal",
+      "category": "mini-meals",
+      "price": 145,
+      "description": "",
+      "image": null,
+      "isVeg": true,
+      "isAvailable": true,
+      "servingInfo": null,
+      "seasonal": false,
+      "isAddon": false,
+      "descriptionStatus": "needs-review",
+      "imageSearchQuery": "Chole Chawal Indian restaurant food",
+      "tags": [],
+      "dietary": {
+        "vegetarian": true,
+        "jain": false
+      },
+      "spiceLevel": null
+    },
+    {
+      "name": "Dal Makhani Chawal",
+      "slug": "dal-makhani-chawal",
+      "category": "mini-meals",
+      "price": 155,
+      "description": "Rich and creamy black lentils cooked with aromatic Indian spices.",
+      "image": null,
+      "isVeg": true,
+      "isAvailable": true,
+      "servingInfo": null,
+      "seasonal": false,
+      "isAddon": false,
+      "descriptionStatus": "generated",
+      "imageSearchQuery": "Dal Makhani Chawal Indian restaurant food",
+      "tags": [],
+      "dietary": {
+        "vegetarian": true,
+        "jain": false
+      },
+      "spiceLevel": null
+    },
+    {
+      "name": "Paneer Butter Masala + 3 Roti",
+      "slug": "paneer-butter-masala-3-roti",
+      "category": "mini-meals",
+      "price": 165,
+      "description": "Soft paneer cubes cooked in a rich, creamy and mildly spiced tomato gravy.",
+      "image": null,
+      "isVeg": true,
+      "isAvailable": true,
+      "servingInfo": null,
+      "seasonal": false,
+      "isAddon": false,
+      "descriptionStatus": "generated",
+      "imageSearchQuery": "Paneer Butter Masala + 3 Roti Indian restaurant food",
+      "tags": [
+        "paneer",
+        "creamy"
+      ],
+      "dietary": {
+        "vegetarian": true,
+        "jain": false
+      },
+      "spiceLevel": null
+    },
+    {
+      "name": "Mix Veg + 3 Roti",
+      "slug": "mix-veg-3-roti",
+      "category": "mini-meals",
+      "price": 155,
+      "description": "",
+      "image": null,
+      "isVeg": true,
+      "isAvailable": true,
+      "servingInfo": null,
+      "seasonal": false,
+      "isAddon": false,
+      "descriptionStatus": "needs-review",
+      "imageSearchQuery": "Mix Veg + 3 Roti Indian restaurant food",
+      "tags": [],
+      "dietary": {
+        "vegetarian": true,
+        "jain": false
+      },
+      "spiceLevel": null
+    },
+    {
+      "name": "Sev Tomato + 3 Roti",
+      "slug": "sev-tomato-3-roti",
+      "category": "mini-meals",
+      "price": 155,
+      "description": "",
+      "image": null,
+      "isVeg": true,
+      "isAvailable": true,
+      "servingInfo": null,
+      "seasonal": false,
+      "isAddon": false,
+      "descriptionStatus": "needs-review",
+      "imageSearchQuery": "Sev Tomato + 3 Roti Indian restaurant food",
+      "tags": [],
+      "dietary": {
+        "vegetarian": true,
+        "jain": false
+      },
+      "spiceLevel": null
+    },
+    {
+      "name": "Sarso Ka Saag + 3 Makke Di Roti (Seasonal)",
+      "slug": "sarso-ka-saag-3-makke-di-roti-seasonal",
+      "category": "mini-meals",
+      "price": 165,
+      "description": "",
+      "image": null,
+      "isVeg": true,
+      "isAvailable": true,
+      "servingInfo": null,
+      "seasonal": true,
+      "isAddon": false,
+      "descriptionStatus": "needs-review",
+      "imageSearchQuery": "Sarso Ka Saag + 3 Makke Di Roti (Seasonal) Indian restaurant food",
+      "tags": [],
+      "dietary": {
+        "vegetarian": true,
+        "jain": false
+      },
+      "spiceLevel": null
+    }
+  ]
+}

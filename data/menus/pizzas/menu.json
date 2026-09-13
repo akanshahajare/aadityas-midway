@@ -1,0 +1,71 @@
+{
+  "name": "Pizzas",
+  "slug": "pizzas",
+  "items": [
+    {
+      "name": "Margherita Pizza",
+      "slug": "margherita-pizza",
+      "category": "pizzas",
+      "price": 175,
+      "description": "",
+      "image": null,
+      "isVeg": true,
+      "isAvailable": true,
+      "servingInfo": null,
+      "seasonal": false,
+      "isAddon": false
+    },
+    {
+      "name": "Fresh Veggie Pizza",
+      "slug": "fresh-veggie-pizza",
+      "category": "pizzas",
+      "price": 185,
+      "description": "",
+      "image": null,
+      "isVeg": true,
+      "isAvailable": true,
+      "servingInfo": null,
+      "seasonal": false,
+      "isAddon": false
+    },
+    {
+      "name": "Paneer Capsicum Pizza",
+      "slug": "paneer-capsicum-pizza",
+      "category": "pizzas",
+      "price": 195,
+      "description": "",
+      "image": null,
+      "isVeg": true,
+      "isAvailable": true,
+      "servingInfo": null,
+      "seasonal": false,
+      "isAddon": false
+    },
+    {
+      "name": "Cheese Corn Pizza",
+      "slug": "cheese-corn-pizza",
+      "category": "pizzas",
+      "price": 195,
+      "description": "",
+      "image": null,
+      "isVeg": true,
+      "isAvailable": true,
+      "servingInfo": null,
+      "seasonal": false,
+      "isAddon": false
+    },
+    {
+      "name": "Midway's Special Pizza",
+      "slug": "midways-special-pizza",
+      "category": "pizzas",
+      "price": 205,
+      "description": "",
+      "image": null,
+      "isVeg": true,
+      "isAvailable": true,
+      "servingInfo": null,
+      "seasonal": false,
+      "isAddon": false
+    }
+  ]
+}

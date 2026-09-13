@@ -1,0 +1,111 @@
+{
+  "name": "Dal",
+  "slug": "dal",
+  "items": [
+    {
+      "name": "Plain Dal",
+      "slug": "plain-dal",
+      "category": "dal",
+      "price": 145,
+      "description": "Simple and comforting lentils prepared with traditional Indian spices.",
+      "image": null,
+      "isVeg": true,
+      "isAvailable": true,
+      "servingInfo": null,
+      "seasonal": false,
+      "isAddon": false,
+      "descriptionStatus": "generated",
+      "imageSearchQuery": "Plain Dal Indian restaurant food",
+      "tags": [],
+      "dietary": {
+        "vegetarian": true,
+        "jain": false
+      },
+      "spiceLevel": null
+    },
+    {
+      "name": "Dal Fry",
+      "slug": "dal-fry",
+      "category": "dal",
+      "price": 155,
+      "description": "Yellow lentils tempered with aromatic spices for a comforting classic.",
+      "image": null,
+      "isVeg": true,
+      "isAvailable": true,
+      "servingInfo": null,
+      "seasonal": false,
+      "isAddon": false,
+      "descriptionStatus": "generated",
+      "imageSearchQuery": "Dal Fry Indian restaurant food",
+      "tags": [],
+      "dietary": {
+        "vegetarian": true,
+        "jain": false
+      },
+      "spiceLevel": null
+    },
+    {
+      "name": "Dal Tadka",
+      "slug": "dal-tadka",
+      "category": "dal",
+      "price": 165,
+      "description": "Comforting lentils finished with a flavorful tempering of Indian spices.",
+      "image": null,
+      "isVeg": true,
+      "isAvailable": true,
+      "servingInfo": null,
+      "seasonal": false,
+      "isAddon": false,
+      "descriptionStatus": "generated",
+      "imageSearchQuery": "Dal Tadka Indian restaurant food",
+      "tags": [],
+      "dietary": {
+        "vegetarian": true,
+        "jain": false
+      },
+      "spiceLevel": null
+    },
+    {
+      "name": "Dal Makhni",
+      "slug": "dal-makhni",
+      "category": "dal",
+      "price": 225,
+      "description": "Rich and creamy black lentils cooked with aromatic Indian spices.",
+      "image": null,
+      "isVeg": true,
+      "isAvailable": true,
+      "servingInfo": null,
+      "seasonal": false,
+      "isAddon": false,
+      "descriptionStatus": "generated",
+      "imageSearchQuery": "Dal Makhni Indian restaurant food",
+      "tags": [],
+      "dietary": {
+        "vegetarian": true,
+        "jain": false
+      },
+      "spiceLevel": null
+    },
+    {
+      "name": "Dal Varhadi",
+      "slug": "dal-varhadi",
+      "category": "dal",
+      "price": 185,
+      "description": "A flavorful Maharashtrian-style dal prepared with aromatic spices.",
+      "image": null,
+      "isVeg": true,
+      "isAvailable": true,
+      "servingInfo": null,
+      "seasonal": false,
+      "isAddon": false,
+      "descriptionStatus": "generated",
+      "imageSearchQuery": "Dal Varhadi Indian restaurant food",
+      "tags": [],
+      "dietary": {
+        "vegetarian": true,
+        "jain": false
+      },
+      "spiceLevel": null
+    }
+  ]
+}

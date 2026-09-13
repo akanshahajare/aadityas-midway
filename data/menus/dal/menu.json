@@ -1,0 +1,71 @@
+{
+  "name": "Dal",
+  "slug": "dal",
+  "items": [
+    {
+      "name": "Plain Dal",
+      "slug": "plain-dal",
+      "category": "dal",
+      "price": 145,
+      "description": "",
+      "image": null,
+      "isVeg": true,
+      "isAvailable": true,
+      "servingInfo": null,
+      "seasonal": false,
+      "isAddon": false
+    },
+    {
+      "name": "Dal Fry",
+      "slug": "dal-fry",
+      "category": "dal",
+      "price": 155,
+      "description": "",
+      "image": null,
+      "isVeg": true,
+      "isAvailable": true,
+      "servingInfo": null,
+      "seasonal": false,
+      "isAddon": false
+    },
+    {
+      "name": "Dal Tadka",
+      "slug": "dal-tadka",
+      "category": "dal",
+      "price": 165,
+      "description": "",
+      "image": null,
+      "isVeg": true,
+      "isAvailable": true,
+      "servingInfo": null,
+      "seasonal": false,
+      "isAddon": false
+    },
+    {
+      "name": "Dal Makhni",
+      "slug": "dal-makhni",
+      "category": "dal",
+      "price": 225,
+      "description": "",
+      "image": null,
+      "isVeg": true,
+      "isAvailable": true,
+      "servingInfo": null,
+      "seasonal": false,
+      "isAddon": false
+    },
+    {
+      "name": "Dal Varhadi",
+      "slug": "dal-varhadi",
+      "category": "dal",
+      "price": 185,
+      "description": "",
+      "image": null,
+      "isVeg": true,
+      "isAvailable": true,
+      "servingInfo": null,
+      "seasonal": false,
+      "isAddon": false
+    }
+  ]
+}

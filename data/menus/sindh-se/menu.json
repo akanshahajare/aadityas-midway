@@ -1,0 +1,58 @@
+{
+  "name": "Sindh Se",
+  "slug": "sindh-se",
+  "items": [
+    {
+      "name": "Dal Pakwan",
+      "slug": "dal-pakwan",
+      "category": "sindh-se",
+      "price": 105,
+      "description": "",
+      "image": null,
+      "isVeg": true,
+      "isAvailable": true,
+      "servingInfo": null,
+      "seasonal": false,
+      "isAddon": false
+    },
+    {
+      "name": "Pyaaz Ki Koki",
+      "slug": "pyaaz-ki-koki",
+      "category": "sindh-se",
+      "price": 75,
+      "description": "",
+      "image": null,
+      "isVeg": true,
+      "isAvailable": true,
+      "servingInfo": null,
+      "seasonal": false,
+      "isAddon": false
+    },
+    {
+      "name": "Meethi Koki",
+      "slug": "meethi-koki",
+      "category": "sindh-se",
+      "price": 75,
+      "description": "",
+      "image": null,
+      "isVeg": true,
+      "isAvailable": true,
+      "servingInfo": null,
+      "seasonal": false,
+      "isAddon": false
+    },
+    {
+      "name": "Sindhi Pakode",
+      "slug": "sindhi-pakode",
+      "category": "sindh-se",
+      "price": 95,
+      "description": "",
+      "image": null,
+      "isVeg": true,
+      "isAvailable": true,
+      "servingInfo": null,
+      "seasonal": false,
+      "isAddon": false
+    }
+  ]
+}

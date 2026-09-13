@@ -1,0 +1,110 @@
+{
+  "name": "Mini Meals",
+  "slug": "mini-meals",
+  "items": [
+    {
+      "name": "Midway Special Thali",
+      "slug": "midway-special-thali",
+      "category": "mini-meals",
+      "price": 250,
+      "description": "",
+      "image": null,
+      "isVeg": true,
+      "isAvailable": true,
+      "servingInfo": null,
+      "seasonal": false,
+      "isAddon": false
+    },
+    {
+      "name": "Rajma Chawal",
+      "slug": "rajma-chawal",
+      "category": "mini-meals",
+      "price": 155,
+      "description": "",
+      "image": null,
+      "isVeg": true,
+      "isAvailable": true,
+      "servingInfo": null,
+      "seasonal": false,
+      "isAddon": false
+    },
+    {
+      "name": "Chole Chawal",
+      "slug": "chole-chawal",
+      "category": "mini-meals",
+      "price": 145,
+      "description": "",
+      "image": null,
+      "isVeg": true,
+      "isAvailable": true,
+      "servingInfo": null,
+      "seasonal": false,
+      "isAddon": false
+    },
+    {
+      "name": "Dal Makhani Chawal",
+      "slug": "dal-makhani-chawal",
+      "category": "mini-meals",
+      "price": 155,
+      "description": "",
+      "image": null,
+      "isVeg": true,
+      "isAvailable": true,
+      "servingInfo": null,
+      "seasonal": false,
+      "isAddon": false
+    },
+    {
+      "name": "Paneer Butter Masala + 3 Roti",
+      "slug": "paneer-butter-masala-3-roti",
+      "category": "mini-meals",
+      "price": 165,
+      "description": "",
+      "image": null,
+      "isVeg": true,
+      "isAvailable": true,
+      "servingInfo": null,
+      "seasonal": false,
+      "isAddon": false
+    },
+    {
+      "name": "Mix Veg + 3 Roti",
+      "slug": "mix-veg-3-roti",
+      "category": "mini-meals",
+      "price": 155,
+      "description": "",
+      "image": null,
+      "isVeg": true,
+      "isAvailable": true,
+      "servingInfo": null,
+      "seasonal": false,
+      "isAddon": false
+    },
+    {
+      "name": "Sev Tomato + 3 Roti",
+      "slug": "sev-tomato-3-roti",
+      "category": "mini-meals",
+      "price": 155,
+      "description": "",
+      "image": null,
+      "isVeg": true,
+      "isAvailable": true,
+      "servingInfo": null,
+      "seasonal": false,
+      "isAddon": false
+    },
+    {
+      "name": "Sarso Ka Saag + 3 Makke Di Roti (Seasonal)",
+      "slug": "sarso-ka-saag-3-makke-di-roti-seasonal",
+      "category": "mini-meals",
+      "price": 165,
+      "description": "",
+      "image": null,
+      "isVeg": true,
+      "isAvailable": true,
+      "servingInfo": null,
+      "seasonal": true,
+      "isAddon": false
+    }
+  ]
+}

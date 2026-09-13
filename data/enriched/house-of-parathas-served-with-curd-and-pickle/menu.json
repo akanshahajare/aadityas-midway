@@ -1,0 +1,180 @@
+{
+  "name": "House of Parathas (Served with curd and pickle)",
+  "slug": "house-of-parathas-served-with-curd-and-pickle",
+  "items": [
+    {
+      "name": "Gobhi Paratha",
+      "slug": "gobhi-paratha",
+      "category": "house-of-parathas-served-with-curd-and-pickle",
+      "price": 95,
+      "description": "Indian flatbread prepared with a flavorful filling and cooked to a delicious finish.",
+      "image": null,
+      "isVeg": true,
+      "isAvailable": true,
+      "servingInfo": null,
+      "seasonal": false,
+      "isAddon": false,
+      "descriptionStatus": "generated",
+      "imageSearchQuery": "Gobhi Paratha Indian restaurant food",
+      "tags": [],
+      "dietary": {
+        "vegetarian": true,
+        "jain": false
+      },
+      "spiceLevel": null
+    },
+    {
+      "name": "Aloo Paratha",
+      "slug": "aloo-paratha",
+      "category": "house-of-parathas-served-with-curd-and-pickle",
+      "price": 95,
+      "description": "Indian flatbread prepared with a flavorful filling and cooked to a delicious finish.",
+      "image": null,
+      "isVeg": true,
+      "isAvailable": true,
+      "servingInfo": null,
+      "seasonal": false,
+      "isAddon": false,
+      "descriptionStatus": "generated",
+      "imageSearchQuery": "Aloo Paratha Indian restaurant food",
+      "tags": [],
+      "dietary": {
+        "vegetarian": true,
+        "jain": false
+      },
+      "spiceLevel": null
+    },
+    {
+      "name": "Paneer Paratha",
+      "slug": "paneer-paratha",
+      "category": "house-of-parathas-served-with-curd-and-pickle",
+      "price": 115,
+      "description": "Indian flatbread prepared with a flavorful filling and cooked to a delicious finish.",
+      "image": null,
+      "isVeg": true,
+      "isAvailable": true,
+      "servingInfo": null,
+      "seasonal": false,
+      "isAddon": false,
+      "descriptionStatus": "generated",
+      "imageSearchQuery": "Paneer Paratha Indian restaurant food",
+      "tags": [
+        "paneer"
+      ],
+      "dietary": {
+        "vegetarian": true,
+        "jain": false
+      },
+      "spiceLevel": null
+    },
+    {
+      "name": "Onion Paratha",
+      "slug": "onion-paratha",
+      "category": "house-of-parathas-served-with-curd-and-pickle",
+      "price": 95,
+      "description": "Indian flatbread prepared with a flavorful filling and cooked to a delicious finish.",
+      "image": null,
+      "isVeg": true,
+      "isAvailable": true,
+      "servingInfo": null,
+      "seasonal": false,
+      "isAddon": false,
+      "descriptionStatus": "generated",
+      "imageSearchQuery": "Onion Paratha Indian restaurant food",
+      "tags": [],
+      "dietary": {
+        "vegetarian": true,
+        "jain": false
+      },
+      "spiceLevel": null
+    },
+    {
+      "name": "Cheese Paratha",
+      "slug": "cheese-paratha",
+      "category": "house-of-parathas-served-with-curd-and-pickle",
+      "price": 105,
+      "description": "Indian flatbread prepared with a flavorful filling and cooked to a delicious finish.",
+      "image": null,
+      "isVeg": true,
+      "isAvailable": true,
+      "servingInfo": null,
+      "seasonal": false,
+      "isAddon": false,
+      "descriptionStatus": "generated",
+      "imageSearchQuery": "Cheese Paratha Indian restaurant food",
+      "tags": [
+        "creamy"
+      ],
+      "dietary": {
+        "vegetarian": true,
+        "jain": false
+      },
+      "spiceLevel": null
+    },
+    {
+      "name": "Rajwadi Paratha",
+      "slug": "rajwadi-paratha",
+      "category": "house-of-parathas-served-with-curd-and-pickle",
+      "price": 105,
+      "description": "Indian flatbread prepared with a flavorful filling and cooked to a delicious finish.",
+      "image": null,
+      "isVeg": true,
+      "isAvailable": true,
+      "servingInfo": null,
+      "seasonal": false,
+      "isAddon": false,
+      "descriptionStatus": "generated",
+      "imageSearchQuery": "Rajwadi Paratha Indian restaurant food",
+      "tags": [],
+      "dietary": {
+        "vegetarian": true,
+        "jain": false
+      },
+      "spiceLevel": null
+    },
+    {
+      "name": "Tandoori Paratha",
+      "slug": "tandoori-paratha",
+      "category": "house-of-parathas-served-with-curd-and-pickle",
+      "price": 95,
+      "description": "Indian flatbread prepared with a flavorful filling and cooked to a delicious finish.",
+      "image": null,
+      "isVeg": true,
+      "isAvailable": true,
+      "servingInfo": null,
+      "seasonal": false,
+      "isAddon": false,
+      "descriptionStatus": "generated",
+      "imageSearchQuery": "Tandoori Paratha Indian restaurant food",
+      "tags": [
+        "tandoori"
+      ],
+      "dietary": {
+        "vegetarian": true,
+        "jain": false
+      },
+      "spiceLevel": null
+    },
+    {
+      "name": "Mix Veg Paratha",
+      "slug": "mix-veg-paratha",
+      "category": "house-of-parathas-served-with-curd-and-pickle",
+      "price": 115,
+      "description": "Indian flatbread prepared with a flavorful filling and cooked to a delicious finish.",
+      "image": null,
+      "isVeg": true,
+      "isAvailable": true,
+      "servingInfo": null,
+      "seasonal": false,
+      "isAddon": false,
+      "descriptionStatus": "generated",
+      "imageSearchQuery": "Mix Veg Paratha Indian restaurant food",
+      "tags": [],
+      "dietary": {
+        "vegetarian": true,
+        "jain": false
+      },
+      "spiceLevel": null
+    }
+  ]
+}

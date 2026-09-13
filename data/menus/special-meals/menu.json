@@ -1,0 +1,123 @@
+{
+  "name": "Special Meals",
+  "slug": "special-meals",
+  "items": [
+    {
+      "name": "Pav Bhaji",
+      "slug": "pav-bhaji",
+      "category": "special-meals",
+      "price": 95,
+      "description": "",
+      "image": null,
+      "isVeg": true,
+      "isAvailable": true,
+      "servingInfo": null,
+      "seasonal": false,
+      "isAddon": false
+    },
+    {
+      "name": "Cheese Pav Bhaji",
+      "slug": "cheese-pav-bhaji",
+      "category": "special-meals",
+      "price": 105,
+      "description": "",
+      "image": null,
+      "isVeg": true,
+      "isAvailable": true,
+      "servingInfo": null,
+      "seasonal": false,
+      "isAddon": false
+    },
+    {
+      "name": "Jain Pav Bhaji",
+      "slug": "jain-pav-bhaji",
+      "category": "special-meals",
+      "price": 85,
+      "description": "",
+      "image": null,
+      "isVeg": true,
+      "isAvailable": true,
+      "servingInfo": null,
+      "seasonal": false,
+      "isAddon": false
+    },
+    {
+      "name": "Misal Pav",
+      "slug": "misal-pav",
+      "category": "special-meals",
+      "price": 75,
+      "description": "",
+      "image": null,
+      "isVeg": true,
+      "isAvailable": true,
+      "servingInfo": null,
+      "seasonal": false,
+      "isAddon": false
+    },
+    {
+      "name": "Masala Pav",
+      "slug": "masala-pav",
+      "category": "special-meals",
+      "price": 35,
+      "description": "",
+      "image": null,
+      "isVeg": true,
+      "isAvailable": true,
+      "servingInfo": null,
+      "seasonal": false,
+      "isAddon": false
+    },
+    {
+      "name": "Tawa Pulao",
+      "slug": "tawa-pulao",
+      "category": "special-meals",
+      "price": 95,
+      "description": "",
+      "image": null,
+      "isVeg": true,
+      "isAvailable": true,
+      "servingInfo": null,
+      "seasonal": false,
+      "isAddon": false
+    },
+    {
+      "name": "Delhi Chole Bhature",
+      "slug": "delhi-chole-bhature",
+      "category": "special-meals",
+      "price": 115,
+      "description": "",
+      "image": null,
+      "isVeg": true,
+      "isAvailable": true,
+      "servingInfo": null,
+      "seasonal": false,
+      "isAddon": false
+    },
+    {
+      "name": "Puri Bhaji",
+      "slug": "puri-bhaji",
+      "category": "special-meals",
+      "price": 95,
+      "description": "",
+      "image": null,
+      "isVeg": true,
+      "isAvailable": true,
+      "servingInfo": null,
+      "seasonal": false,
+      "isAddon": false
+    },
+    {
+      "name": "Amritsari Chole Kulche",
+      "slug": "amritsari-chole-kulche",
+      "category": "special-meals",
+      "price": 115,
+      "description": "",
+      "image": null,
+      "isVeg": true,
+      "isAvailable": true,
+      "servingInfo": null,
+      "seasonal": false,
+      "isAddon": false
+    }
+  ]
+}

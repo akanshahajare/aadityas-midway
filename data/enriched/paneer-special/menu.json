@@ -1,0 +1,329 @@
+{
+  "name": "Paneer Special",
+  "slug": "paneer-special",
+  "items": [
+    {
+      "name": "Paneer Bhurji",
+      "slug": "paneer-bhurji",
+      "category": "paneer-special",
+      "price": 195,
+      "description": "Crumbled paneer cooked with onions, tomatoes and aromatic Indian spices.",
+      "image": null,
+      "isVeg": true,
+      "isAvailable": true,
+      "servingInfo": null,
+      "seasonal": false,
+      "isAddon": false,
+      "descriptionStatus": "generated",
+      "imageSearchQuery": "Paneer Bhurji Indian restaurant food",
+      "tags": [
+        "paneer"
+      ],
+      "dietary": {
+        "vegetarian": true,
+        "jain": false
+      },
+      "spiceLevel": null
+    },
+    {
+      "name": "Saoji Paneer",
+      "slug": "saoji-paneer",
+      "category": "paneer-special",
+      "price": 225,
+      "description": "",
+      "image": null,
+      "isVeg": true,
+      "isAvailable": true,
+      "servingInfo": null,
+      "seasonal": false,
+      "isAddon": false,
+      "descriptionStatus": "needs-review",
+      "imageSearchQuery": "Saoji Paneer Indian restaurant food",
+      "tags": [
+        "paneer"
+      ],
+      "dietary": {
+        "vegetarian": true,
+        "jain": false
+      },
+      "spiceLevel": null
+    },
+    {
+      "name": "Paneer Lababdar",
+      "slug": "paneer-lababdar",
+      "category": "paneer-special",
+      "price": 225,
+      "description": "",
+      "image": null,
+      "isVeg": true,
+      "isAvailable": true,
+      "servingInfo": null,
+      "seasonal": false,
+      "isAddon": false,
+      "descriptionStatus": "needs-review",
+      "imageSearchQuery": "Paneer Lababdar Indian restaurant food",
+      "tags": [
+        "paneer"
+      ],
+      "dietary": {
+        "vegetarian": true,
+        "jain": false
+      },
+      "spiceLevel": null
+    },
+    {
+      "name": "Paneer Chatpata",
+      "slug": "paneer-chatpata",
+      "category": "paneer-special",
+      "price": 225,
+      "description": "",
+      "image": null,
+      "isVeg": true,
+      "isAvailable": true,
+      "servingInfo": null,
+      "seasonal": false,
+      "isAddon": false,
+      "descriptionStatus": "needs-review",
+      "imageSearchQuery": "Paneer Chatpata Indian restaurant food",
+      "tags": [
+        "paneer"
+      ],
+      "dietary": {
+        "vegetarian": true,
+        "jain": false
+      },
+      "spiceLevel": null
+    },
+    {
+      "name": "Paneer Butter Masala",
+      "slug": "paneer-butter-masala",
+      "category": "paneer-special",
+      "price": 235,
+      "description": "Soft paneer cubes cooked in a rich, creamy and mildly spiced tomato gravy.",
+      "image": null,
+      "isVeg": true,
+      "isAvailable": true,
+      "servingInfo": null,
+      "seasonal": false,
+      "isAddon": false,
+      "descriptionStatus": "generated",
+      "imageSearchQuery": "Paneer Butter Masala Indian restaurant food",
+      "tags": [
+        "paneer",
+        "creamy"
+      ],
+      "dietary": {
+        "vegetarian": true,
+        "jain": false
+      },
+      "spiceLevel": null
+    },
+    {
+      "name": "Paneer Tikka Masala",
+      "slug": "paneer-tikka-masala",
+      "category": "paneer-special",
+      "price": 255,
+      "description": "Grilled paneer pieces served in a rich and aromatic spiced gravy.",
+      "image": null,
+      "isVeg": true,
+      "isAvailable": true,
+      "servingInfo": null,
+      "seasonal": false,
+      "isAddon": false,
+      "descriptionStatus": "generated",
+      "imageSearchQuery": "Paneer Tikka Masala Indian restaurant food",
+      "tags": [
+        "paneer"
+      ],
+      "dietary": {
+        "vegetarian": true,
+        "jain": false
+      },
+      "spiceLevel": null
+    },
+    {
+      "name": "Paneer Kadhai",
+      "slug": "paneer-kadhai",
+      "category": "paneer-special",
+      "price": 255,
+      "description": "Paneer cooked with capsicum, onions and aromatic Indian spices.",
+      "image": null,
+      "isVeg": true,
+      "isAvailable": true,
+      "servingInfo": null,
+      "seasonal": false,
+      "isAddon": false,
+      "descriptionStatus": "generated",
+      "imageSearchQuery": "Paneer Kadhai Indian restaurant food",
+      "tags": [
+        "paneer"
+      ],
+      "dietary": {
+        "vegetarian": true,
+        "jain": false
+      },
+      "spiceLevel": null
+    },
+    {
+      "name": "Mutter Paneer",
+      "slug": "mutter-paneer",
+      "category": "paneer-special",
+      "price": 255,
+      "description": "Paneer and green peas cooked together in a flavorful Indian gravy.",
+      "image": null,
+      "isVeg": true,
+      "isAvailable": true,
+      "servingInfo": null,
+      "seasonal": false,
+      "isAddon": false,
+      "descriptionStatus": "generated",
+      "imageSearchQuery": "Mutter Paneer Indian restaurant food",
+      "tags": [
+        "paneer"
+      ],
+      "dietary": {
+        "vegetarian": true,
+        "jain": false
+      },
+      "spiceLevel": null
+    },
+    {
+      "name": "Palak Paneer",
+      "slug": "palak-paneer",
+      "category": "paneer-special",
+      "price": 255,
+      "description": "Soft paneer cooked in a smooth, flavorful spinach gravy.",
+      "image": null,
+      "isVeg": true,
+      "isAvailable": true,
+      "servingInfo": null,
+      "seasonal": false,
+      "isAddon": false,
+      "descriptionStatus": "generated",
+      "imageSearchQuery": "Palak Paneer Indian restaurant food",
+      "tags": [
+        "paneer"
+      ],
+      "dietary": {
+        "vegetarian": true,
+        "jain": false
+      },
+      "spiceLevel": null
+    },
+    {
+      "name": "Shahi Paneer",
+      "slug": "shahi-paneer",
+      "category": "paneer-special",
+      "price": 255,
+      "description": "Soft paneer prepared in a rich, creamy and mildly spiced gravy.",
+      "image": null,
+      "isVeg": true,
+      "isAvailable": true,
+      "servingInfo": null,
+      "seasonal": false,
+      "isAddon": false,
+      "descriptionStatus": "generated",
+      "imageSearchQuery": "Shahi Paneer Indian restaurant food",
+      "tags": [
+        "paneer"
+      ],
+      "dietary": {
+        "vegetarian": true,
+        "jain": false
+      },
+      "spiceLevel": null
+    },
+    {
+      "name": "Paneer Khurchan",
+      "slug": "paneer-khurchan",
+      "category": "paneer-special",
+      "price": 255,
+      "description": "",
+      "image": null,
+      "isVeg": true,
+      "isAvailable": true,
+      "servingInfo": null,
+      "seasonal": false,
+      "isAddon": false,
+      "descriptionStatus": "needs-review",
+      "imageSearchQuery": "Paneer Khurchan Indian restaurant food",
+      "tags": [
+        "paneer"
+      ],
+      "dietary": {
+        "vegetarian": true,
+        "jain": false
+      },
+      "spiceLevel": null
+    },
+    {
+      "name": "Paneer Tora Mora",
+      "slug": "paneer-tora-mora",
+      "category": "paneer-special",
+      "price": 255,
+      "description": "",
+      "image": null,
+      "isVeg": true,
+      "isAvailable": true,
+      "servingInfo": null,
+      "seasonal": false,
+      "isAddon": false,
+      "descriptionStatus": "needs-review",
+      "imageSearchQuery": "Paneer Tora Mora Indian restaurant food",
+      "tags": [
+        "paneer"
+      ],
+      "dietary": {
+        "vegetarian": true,
+        "jain": false
+      },
+      "spiceLevel": null
+    },
+    {
+      "name": "Paneer Patiala",
+      "slug": "paneer-patiala",
+      "category": "paneer-special",
+      "price": 265,
+      "description": "",
+      "image": null,
+      "isVeg": true,
+      "isAvailable": true,
+      "servingInfo": null,
+      "seasonal": false,
+      "isAddon": false,
+      "descriptionStatus": "needs-review",
+      "imageSearchQuery": "Paneer Patiala Indian restaurant food",
+      "tags": [
+        "paneer"
+      ],
+      "dietary": {
+        "vegetarian": true,
+        "jain": false
+      },
+      "spiceLevel": null
+    },
+    {
+      "name": "Midway's Special Paneer",
+      "slug": "midways-special-paneer",
+      "category": "paneer-special",
+      "price": 265,
+      "description": "",
+      "image": null,
+      "isVeg": true,
+      "isAvailable": true,
+      "servingInfo": null,
+      "seasonal": false,
+      "isAddon": false,
+      "descriptionStatus": "needs-review",
+      "imageSearchQuery": "Midway's Special Paneer Indian restaurant food",
+      "tags": [
+        "paneer"
+      ],
+      "dietary": {
+        "vegetarian": true,
+        "jain": false
+      },
+      "spiceLevel": null
+    }
+  ]
+}

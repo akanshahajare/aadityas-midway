@@ -1,0 +1,215 @@
+{
+  "name": "Soups",
+  "slug": "soups",
+  "items": [
+    {
+      "name": "Manchow Soup",
+      "slug": "manchow-soup",
+      "category": "soups",
+      "price": 95,
+      "description": "A warm and flavorful soup prepared with aromatic ingredients and seasonings.",
+      "image": null,
+      "isVeg": true,
+      "isAvailable": true,
+      "servingInfo": null,
+      "seasonal": false,
+      "isAddon": false,
+      "descriptionStatus": "generated",
+      "imageSearchQuery": "Manchow Soup Indian restaurant food",
+      "tags": [
+        "soup"
+      ],
+      "dietary": {
+        "vegetarian": true,
+        "jain": false
+      },
+      "spiceLevel": null
+    },
+    {
+      "name": "Hot & Sour Soup",
+      "slug": "hot-and-sour-soup",
+      "category": "soups",
+      "price": 95,
+      "description": "A warm and flavorful soup prepared with aromatic ingredients and seasonings.",
+      "image": null,
+      "isVeg": true,
+      "isAvailable": true,
+      "servingInfo": null,
+      "seasonal": false,
+      "isAddon": false,
+      "descriptionStatus": "generated",
+      "imageSearchQuery": "Hot & Sour Soup Indian restaurant food",
+      "tags": [
+        "soup"
+      ],
+      "dietary": {
+        "vegetarian": true,
+        "jain": false
+      },
+      "spiceLevel": null
+    },
+    {
+      "name": "Sweet Corn Soup",
+      "slug": "sweet-corn-soup",
+      "category": "soups",
+      "price": 95,
+      "description": "A warm and flavorful soup prepared with aromatic ingredients and seasonings.",
+      "image": null,
+      "isVeg": true,
+      "isAvailable": true,
+      "servingInfo": null,
+      "seasonal": false,
+      "isAddon": false,
+      "descriptionStatus": "generated",
+      "imageSearchQuery": "Sweet Corn Soup Indian restaurant food",
+      "tags": [
+        "soup"
+      ],
+      "dietary": {
+        "vegetarian": true,
+        "jain": false
+      },
+      "spiceLevel": null
+    },
+    {
+      "name": "Cream Of Tomato Soup",
+      "slug": "cream-of-tomato-soup",
+      "category": "soups",
+      "price": 105,
+      "description": "A warm and flavorful soup prepared with aromatic ingredients and seasonings.",
+      "image": null,
+      "isVeg": true,
+      "isAvailable": true,
+      "servingInfo": null,
+      "seasonal": false,
+      "isAddon": false,
+      "descriptionStatus": "generated",
+      "imageSearchQuery": "Cream Of Tomato Soup Indian restaurant food",
+      "tags": [
+        "soup",
+        "creamy"
+      ],
+      "dietary": {
+        "vegetarian": true,
+        "jain": false
+      },
+      "spiceLevel": null
+    },
+    {
+      "name": "Lemon Coriander Soup",
+      "slug": "lemon-coriander-soup",
+      "category": "soups",
+      "price": 95,
+      "description": "A warm and flavorful soup prepared with aromatic ingredients and seasonings.",
+      "image": null,
+      "isVeg": true,
+      "isAvailable": true,
+      "servingInfo": null,
+      "seasonal": false,
+      "isAddon": false,
+      "descriptionStatus": "generated",
+      "imageSearchQuery": "Lemon Coriander Soup Indian restaurant food",
+      "tags": [
+        "soup"
+      ],
+      "dietary": {
+        "vegetarian": true,
+        "jain": false
+      },
+      "spiceLevel": null
+    },
+    {
+      "name": "Veg Clear Soup",
+      "slug": "veg-clear-soup",
+      "category": "soups",
+      "price": 95,
+      "description": "A warm and flavorful soup prepared with aromatic ingredients and seasonings.",
+      "image": null,
+      "isVeg": true,
+      "isAvailable": true,
+      "servingInfo": null,
+      "seasonal": false,
+      "isAddon": false,
+      "descriptionStatus": "generated",
+      "imageSearchQuery": "Veg Clear Soup Indian restaurant food",
+      "tags": [
+        "soup"
+      ],
+      "dietary": {
+        "vegetarian": true,
+        "jain": false
+      },
+      "spiceLevel": null
+    },
+    {
+      "name": "Tomato Shorba",
+      "slug": "tomato-shorba",
+      "category": "soups",
+      "price": 95,
+      "description": "A warm and flavorful soup prepared with aromatic ingredients and seasonings.",
+      "image": null,
+      "isVeg": true,
+      "isAvailable": true,
+      "servingInfo": null,
+      "seasonal": false,
+      "isAddon": false,
+      "descriptionStatus": "generated",
+      "imageSearchQuery": "Tomato Shorba Indian restaurant food",
+      "tags": [
+        "soup"
+      ],
+      "dietary": {
+        "vegetarian": true,
+        "jain": false
+      },
+      "spiceLevel": null
+    },
+    {
+      "name": "Palak Shorba",
+      "slug": "palak-shorba",
+      "category": "soups",
+      "price": 95,
+      "description": "A warm and flavorful soup prepared with aromatic ingredients and seasonings.",
+      "image": null,
+      "isVeg": true,
+      "isAvailable": true,
+      "servingInfo": null,
+      "seasonal": false,
+      "isAddon": false,
+      "descriptionStatus": "generated",
+      "imageSearchQuery": "Palak Shorba Indian restaurant food",
+      "tags": [
+        "soup"
+      ],
+      "dietary": {
+        "vegetarian": true,
+        "jain": false
+      },
+      "spiceLevel": null
+    },
+    {
+      "name": "Cream Of Mushroom",
+      "slug": "cream-of-mushroom",
+      "category": "soups",
+      "price": 125,
+      "description": "",
+      "image": null,
+      "isVeg": true,
+      "isAvailable": true,
+      "servingInfo": null,
+      "seasonal": false,
+      "isAddon": false,
+      "descriptionStatus": "needs-review",
+      "imageSearchQuery": "Cream Of Mushroom Indian restaurant food",
+      "tags": [
+        "soup",
+        "creamy"
+      ],
+      "dietary": {
+        "vegetarian": true,
+        "jain": false
+      },
+      "spiceLevel": null
+    }
+  ]
+}

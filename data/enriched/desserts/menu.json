@@ -1,0 +1,284 @@
+{
+  "name": "Desserts",
+  "slug": "desserts",
+  "items": [
+    {
+      "name": "Rasgulla",
+      "slug": "rasgulla",
+      "category": "desserts",
+      "price": 45,
+      "description": "Soft and spongy Indian sweet soaked in lightly flavored sugar syrup.",
+      "image": null,
+      "isVeg": true,
+      "isAvailable": true,
+      "servingInfo": null,
+      "seasonal": false,
+      "isAddon": false,
+      "descriptionStatus": "generated",
+      "imageSearchQuery": "Rasgulla Indian restaurant food",
+      "tags": [
+        "dessert"
+      ],
+      "dietary": {
+        "vegetarian": true,
+        "jain": false
+      },
+      "spiceLevel": null
+    },
+    {
+      "name": "Hot Gulab Jamun",
+      "slug": "hot-gulab-jamun",
+      "category": "desserts",
+      "price": 55,
+      "description": "Soft and syrup-soaked Indian sweet served warm for a delicious dessert.",
+      "image": null,
+      "isVeg": true,
+      "isAvailable": true,
+      "servingInfo": null,
+      "seasonal": false,
+      "isAddon": false,
+      "descriptionStatus": "generated",
+      "imageSearchQuery": "Hot Gulab Jamun Indian restaurant food",
+      "tags": [
+        "dessert"
+      ],
+      "dietary": {
+        "vegetarian": true,
+        "jain": false
+      },
+      "spiceLevel": null
+    },
+    {
+      "name": "Rasmalai",
+      "slug": "rasmalai",
+      "category": "desserts",
+      "price": 55,
+      "description": "Soft milk-based dumplings served in a rich and creamy sweetened milk.",
+      "image": null,
+      "isVeg": true,
+      "isAvailable": true,
+      "servingInfo": null,
+      "seasonal": false,
+      "isAddon": false,
+      "descriptionStatus": "generated",
+      "imageSearchQuery": "Rasmalai Indian restaurant food",
+      "tags": [
+        "dessert"
+      ],
+      "dietary": {
+        "vegetarian": true,
+        "jain": false
+      },
+      "spiceLevel": null
+    },
+    {
+      "name": "Jalebi",
+      "slug": "jalebi",
+      "category": "desserts",
+      "price": 65,
+      "description": "Crispy spiral-shaped Indian sweet soaked in fragrant sugar syrup.",
+      "image": null,
+      "isVeg": true,
+      "isAvailable": true,
+      "servingInfo": null,
+      "seasonal": false,
+      "isAddon": false,
+      "descriptionStatus": "generated",
+      "imageSearchQuery": "Jalebi Indian restaurant food",
+      "tags": [
+        "dessert"
+      ],
+      "dietary": {
+        "vegetarian": true,
+        "jain": false
+      },
+      "spiceLevel": null
+    },
+    {
+      "name": "Rabdi",
+      "slug": "rabdi",
+      "category": "desserts",
+      "price": 65,
+      "description": "",
+      "image": null,
+      "isVeg": true,
+      "isAvailable": true,
+      "servingInfo": null,
+      "seasonal": false,
+      "isAddon": false,
+      "descriptionStatus": "needs-review",
+      "imageSearchQuery": "Rabdi Indian restaurant food",
+      "tags": [
+        "dessert"
+      ],
+      "dietary": {
+        "vegetarian": true,
+        "jain": false
+      },
+      "spiceLevel": null
+    },
+    {
+      "name": "Kalakand",
+      "slug": "kalakand",
+      "category": "desserts",
+      "price": 75,
+      "description": "",
+      "image": null,
+      "isVeg": true,
+      "isAvailable": true,
+      "servingInfo": null,
+      "seasonal": false,
+      "isAddon": false,
+      "descriptionStatus": "needs-review",
+      "imageSearchQuery": "Kalakand Indian restaurant food",
+      "tags": [
+        "dessert"
+      ],
+      "dietary": {
+        "vegetarian": true,
+        "jain": false
+      },
+      "spiceLevel": null
+    },
+    {
+      "name": "Hot Gulab Jamun With Vanilla Icecream",
+      "slug": "hot-gulab-jamun-with-vanilla-icecream",
+      "category": "desserts",
+      "price": 95,
+      "description": "Soft and syrup-soaked Indian sweet served warm for a delicious dessert.",
+      "image": null,
+      "isVeg": true,
+      "isAvailable": true,
+      "servingInfo": null,
+      "seasonal": false,
+      "isAddon": false,
+      "descriptionStatus": "generated",
+      "imageSearchQuery": "Hot Gulab Jamun With Vanilla Icecream Indian restaurant food",
+      "tags": [
+        "dessert",
+        "creamy"
+      ],
+      "dietary": {
+        "vegetarian": true,
+        "jain": false
+      },
+      "spiceLevel": null
+    },
+    {
+      "name": "Moong Dal Ka Halwa",
+      "slug": "moong-dal-ka-halwa",
+      "category": "desserts",
+      "price": 95,
+      "description": "A traditional Indian dessert prepared with rich ingredients and aromatic flavors.",
+      "image": null,
+      "isVeg": true,
+      "isAvailable": true,
+      "servingInfo": null,
+      "seasonal": false,
+      "isAddon": false,
+      "descriptionStatus": "generated",
+      "imageSearchQuery": "Moong Dal Ka Halwa Indian restaurant food",
+      "tags": [
+        "dessert"
+      ],
+      "dietary": {
+        "vegetarian": true,
+        "jain": false
+      },
+      "spiceLevel": null
+    },
+    {
+      "name": "Gajar Ka Halwa",
+      "slug": "gajar-ka-halwa",
+      "category": "desserts",
+      "price": 95,
+      "description": "A traditional Indian dessert prepared with rich ingredients and aromatic flavors.",
+      "image": null,
+      "isVeg": true,
+      "isAvailable": true,
+      "servingInfo": null,
+      "seasonal": false,
+      "isAddon": false,
+      "descriptionStatus": "generated",
+      "imageSearchQuery": "Gajar Ka Halwa Indian restaurant food",
+      "tags": [
+        "dessert"
+      ],
+      "dietary": {
+        "vegetarian": true,
+        "jain": false
+      },
+      "spiceLevel": null
+    },
+    {
+      "name": "Caramel Custard",
+      "slug": "caramel-custard",
+      "category": "desserts",
+      "price": 105,
+      "description": "A smooth and creamy dessert with a delicate caramelized sweetness.",
+      "image": null,
+      "isVeg": true,
+      "isAvailable": true,
+      "servingInfo": null,
+      "seasonal": false,
+      "isAddon": false,
+      "descriptionStatus": "generated",
+      "imageSearchQuery": "Caramel Custard Indian restaurant food",
+      "tags": [
+        "dessert"
+      ],
+      "dietary": {
+        "vegetarian": true,
+        "jain": false
+      },
+      "spiceLevel": null
+    },
+    {
+      "name": "Ice Cream Sundae",
+      "slug": "ice-cream-sundae",
+      "category": "desserts",
+      "price": 105,
+      "description": "",
+      "image": null,
+      "isVeg": true,
+      "isAvailable": true,
+      "servingInfo": null,
+      "seasonal": false,
+      "isAddon": false,
+      "descriptionStatus": "needs-review",
+      "imageSearchQuery": "Ice Cream Sundae Indian restaurant food",
+      "tags": [
+        "dessert",
+        "creamy"
+      ],
+      "dietary": {
+        "vegetarian": true,
+        "jain": false
+      },
+      "spiceLevel": null
+    },
+    {
+      "name": "Hot Sizzling Brownie",
+      "slug": "hot-sizzling-brownie",
+      "category": "desserts",
+      "price": 165,
+      "description": "A warm and indulgent chocolate dessert served with a rich, comforting texture.",
+      "image": null,
+      "isVeg": true,
+      "isAvailable": true,
+      "servingInfo": null,
+      "seasonal": false,
+      "isAddon": false,
+      "descriptionStatus": "generated",
+      "imageSearchQuery": "Hot Sizzling Brownie Indian restaurant food",
+      "tags": [
+        "dessert"
+      ],
+      "dietary": {
+        "vegetarian": true,
+        "jain": false
+      },
+      "spiceLevel": null
+    }
+  ]
+}

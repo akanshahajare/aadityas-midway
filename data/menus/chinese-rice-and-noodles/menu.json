@@ -1,0 +1,97 @@
+{
+  "name": "Chinese Rice & Noodles",
+  "slug": "chinese-rice-and-noodles",
+  "items": [
+    {
+      "name": "Veg Fried Rice",
+      "slug": "veg-fried-rice",
+      "category": "chinese-rice-and-noodles",
+      "price": 195,
+      "description": "",
+      "image": null,
+      "isVeg": true,
+      "isAvailable": true,
+      "servingInfo": null,
+      "seasonal": false,
+      "isAddon": false
+    },
+    {
+      "name": "Veg Burnt Garlic Rice",
+      "slug": "veg-burnt-garlic-rice",
+      "category": "chinese-rice-and-noodles",
+      "price": 195,
+      "description": "",
+      "image": null,
+      "isVeg": true,
+      "isAvailable": true,
+      "servingInfo": null,
+      "seasonal": false,
+      "isAddon": false
+    },
+    {
+      "name": "Schezwan Fried Rice",
+      "slug": "schezwan-fried-rice",
+      "category": "chinese-rice-and-noodles",
+      "price": 195,
+      "description": "",
+      "image": null,
+      "isVeg": true,
+      "isAvailable": true,
+      "servingInfo": null,
+      "seasonal": false,
+      "isAddon": false
+    },
+    {
+      "name": "Hakka Noodles",
+      "slug": "hakka-noodles",
+      "category": "chinese-rice-and-noodles",
+      "price": 195,
+      "description": "",
+      "image": null,
+      "isVeg": true,
+      "isAvailable": true,
+      "servingInfo": null,
+      "seasonal": false,
+      "isAddon": false
+    },
+    {
+      "name": "Schezwan Noodles",
+      "slug": "schezwan-noodles",
+      "category": "chinese-rice-and-noodles",
+      "price": 195,
+      "description": "",
+      "image": null,
+      "isVeg": true,
+      "isAvailable": true,
+      "servingInfo": null,
+      "seasonal": false,
+      "isAddon": false
+    },
+    {
+      "name": "Chilli Garlic Noodles",
+      "slug": "chilli-garlic-noodles",
+      "category": "chinese-rice-and-noodles",
+      "price": 195,
+      "description": "",
+      "image": null,
+      "isVeg": true,
+      "isAvailable": true,
+      "servingInfo": null,
+      "seasonal": false,
+      "isAddon": false
+    },
+    {
+      "name": "Burnt Garlic Noodles",
+      "slug": "burnt-garlic-noodles",
+      "category": "chinese-rice-and-noodles",
+      "price": 195,
+      "description": "",
+      "image": null,
+      "isVeg": true,
+      "isAvailable": true,
+      "servingInfo": null,
+      "seasonal": false,
+      "isAddon": false
+    }
+  ]
+}

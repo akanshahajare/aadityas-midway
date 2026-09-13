@@ -1,0 +1,123 @@
+{
+  "name": "Pizzas",
+  "slug": "pizzas",
+  "items": [
+    {
+      "name": "Margherita Pizza",
+      "slug": "margherita-pizza",
+      "category": "pizzas",
+      "price": 175,
+      "description": "Freshly baked pizza topped with flavorful ingredients and melted cheese.",
+      "image": null,
+      "isVeg": true,
+      "isAvailable": true,
+      "servingInfo": null,
+      "seasonal": false,
+      "isAddon": false,
+      "descriptionStatus": "generated",
+      "imageSearchQuery": "Margherita Pizza Indian restaurant food",
+      "tags": [
+        "pizza"
+      ],
+      "dietary": {
+        "vegetarian": true,
+        "jain": false
+      },
+      "spiceLevel": null
+    },
+    {
+      "name": "Fresh Veggie Pizza",
+      "slug": "fresh-veggie-pizza",
+      "category": "pizzas",
+      "price": 185,
+      "description": "Freshly baked pizza topped with flavorful ingredients and melted cheese.",
+      "image": null,
+      "isVeg": true,
+      "isAvailable": true,
+      "servingInfo": null,
+      "seasonal": false,
+      "isAddon": false,
+      "descriptionStatus": "generated",
+      "imageSearchQuery": "Fresh Veggie Pizza Indian restaurant food",
+      "tags": [
+        "pizza"
+      ],
+      "dietary": {
+        "vegetarian": true,
+        "jain": false
+      },
+      "spiceLevel": null
+    },
+    {
+      "name": "Paneer Capsicum Pizza",
+      "slug": "paneer-capsicum-pizza",
+      "category": "pizzas",
+      "price": 195,
+      "description": "Freshly baked pizza topped with flavorful ingredients and melted cheese.",
+      "image": null,
+      "isVeg": true,
+      "isAvailable": true,
+      "servingInfo": null,
+      "seasonal": false,
+      "isAddon": false,
+      "descriptionStatus": "generated",
+      "imageSearchQuery": "Paneer Capsicum Pizza Indian restaurant food",
+      "tags": [
+        "paneer",
+        "pizza"
+      ],
+      "dietary": {
+        "vegetarian": true,
+        "jain": false
+      },
+      "spiceLevel": null
+    },
+    {
+      "name": "Cheese Corn Pizza",
+      "slug": "cheese-corn-pizza",
+      "category": "pizzas",
+      "price": 195,
+      "description": "Freshly baked pizza topped with flavorful ingredients and melted cheese.",
+      "image": null,
+      "isVeg": true,
+      "isAvailable": true,
+      "servingInfo": null,
+      "seasonal": false,
+      "isAddon": false,
+      "descriptionStatus": "generated",
+      "imageSearchQuery": "Cheese Corn Pizza Indian restaurant food",
+      "tags": [
+        "pizza",
+        "creamy"
+      ],
+      "dietary": {
+        "vegetarian": true,
+        "jain": false
+      },
+      "spiceLevel": null
+    },
+    {
+      "name": "Midway's Special Pizza",
+      "slug": "midways-special-pizza",
+      "category": "pizzas",
+      "price": 205,
+      "description": "Freshly baked pizza topped with flavorful ingredients and melted cheese.",
+      "image": null,
+      "isVeg": true,
+      "isAvailable": true,
+      "servingInfo": null,
+      "seasonal": false,
+      "isAddon": false,
+      "descriptionStatus": "generated",
+      "imageSearchQuery": "Midway's Special Pizza Indian restaurant food",
+      "tags": [
+        "pizza"
+      ],
+      "dietary": {
+        "vegetarian": true,
+        "jain": false
+      },
+      "spiceLevel": null
+    }
+  ]
+}

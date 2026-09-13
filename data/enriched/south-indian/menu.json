@@ -1,0 +1,526 @@
+{
+  "name": "South Indian",
+  "slug": "south-indian",
+  "items": [
+    {
+      "name": "Steamed Idli",
+      "slug": "steamed-idli",
+      "category": "south-indian",
+      "price": 65,
+      "description": "Soft and fluffy South Indian steamed rice cakes served as a light and comforting meal.",
+      "image": null,
+      "isVeg": true,
+      "isAvailable": true,
+      "servingInfo": null,
+      "seasonal": false,
+      "isAddon": false,
+      "descriptionStatus": "generated",
+      "imageSearchQuery": "Steamed Idli Indian restaurant food",
+      "tags": [
+        "south-indian"
+      ],
+      "dietary": {
+        "vegetarian": true,
+        "jain": false
+      },
+      "spiceLevel": null
+    },
+    {
+      "name": "Podi Idli",
+      "slug": "podi-idli",
+      "category": "south-indian",
+      "price": 75,
+      "description": "Soft and fluffy South Indian steamed rice cakes served as a light and comforting meal.",
+      "image": null,
+      "isVeg": true,
+      "isAvailable": true,
+      "servingInfo": null,
+      "seasonal": false,
+      "isAddon": false,
+      "descriptionStatus": "generated",
+      "imageSearchQuery": "Podi Idli Indian restaurant food",
+      "tags": [
+        "south-indian"
+      ],
+      "dietary": {
+        "vegetarian": true,
+        "jain": false
+      },
+      "spiceLevel": null
+    },
+    {
+      "name": "Takatak Idli",
+      "slug": "takatak-idli",
+      "category": "south-indian",
+      "price": 95,
+      "description": "Soft and fluffy South Indian steamed rice cakes served as a light and comforting meal.",
+      "image": null,
+      "isVeg": true,
+      "isAvailable": true,
+      "servingInfo": null,
+      "seasonal": false,
+      "isAddon": false,
+      "descriptionStatus": "generated",
+      "imageSearchQuery": "Takatak Idli Indian restaurant food",
+      "tags": [
+        "south-indian"
+      ],
+      "dietary": {
+        "vegetarian": true,
+        "jain": false
+      },
+      "spiceLevel": null
+    },
+    {
+      "name": "Chilli Idli",
+      "slug": "chilli-idli",
+      "category": "south-indian",
+      "price": 85,
+      "description": "Soft and fluffy South Indian steamed rice cakes served as a light and comforting meal.",
+      "image": null,
+      "isVeg": true,
+      "isAvailable": true,
+      "servingInfo": null,
+      "seasonal": false,
+      "isAddon": false,
+      "descriptionStatus": "generated",
+      "imageSearchQuery": "Chilli Idli Indian restaurant food",
+      "tags": [
+        "south-indian",
+        "spicy"
+      ],
+      "dietary": {
+        "vegetarian": true,
+        "jain": false
+      },
+      "spiceLevel": null
+    },
+    {
+      "name": "Upma",
+      "slug": "upma",
+      "category": "south-indian",
+      "price": 75,
+      "description": "A comforting South Indian semolina preparation seasoned with aromatic spices.",
+      "image": null,
+      "isVeg": true,
+      "isAvailable": true,
+      "servingInfo": null,
+      "seasonal": false,
+      "isAddon": false,
+      "descriptionStatus": "generated",
+      "imageSearchQuery": "Upma Indian restaurant food",
+      "tags": [],
+      "dietary": {
+        "vegetarian": true,
+        "jain": false
+      },
+      "spiceLevel": null
+    },
+    {
+      "name": "Shaahi Upma",
+      "slug": "shaahi-upma",
+      "category": "south-indian",
+      "price": 95,
+      "description": "A comforting South Indian semolina preparation seasoned with aromatic spices.",
+      "image": null,
+      "isVeg": true,
+      "isAvailable": true,
+      "servingInfo": null,
+      "seasonal": false,
+      "isAddon": false,
+      "descriptionStatus": "generated",
+      "imageSearchQuery": "Shaahi Upma Indian restaurant food",
+      "tags": [],
+      "dietary": {
+        "vegetarian": true,
+        "jain": false
+      },
+      "spiceLevel": null
+    },
+    {
+      "name": "Uttapam",
+      "slug": "uttapam",
+      "category": "south-indian",
+      "price": 75,
+      "description": "Soft and savory South Indian pancake topped with flavorful ingredients.",
+      "image": null,
+      "isVeg": true,
+      "isAvailable": true,
+      "servingInfo": null,
+      "seasonal": false,
+      "isAddon": false,
+      "descriptionStatus": "generated",
+      "imageSearchQuery": "Uttapam Indian restaurant food",
+      "tags": [],
+      "dietary": {
+        "vegetarian": true,
+        "jain": false
+      },
+      "spiceLevel": null
+    },
+    {
+      "name": "Onion Uttapam",
+      "slug": "onion-uttapam",
+      "category": "south-indian",
+      "price": 85,
+      "description": "Soft and savory South Indian pancake topped with flavorful ingredients.",
+      "image": null,
+      "isVeg": true,
+      "isAvailable": true,
+      "servingInfo": null,
+      "seasonal": false,
+      "isAddon": false,
+      "descriptionStatus": "generated",
+      "imageSearchQuery": "Onion Uttapam Indian restaurant food",
+      "tags": [],
+      "dietary": {
+        "vegetarian": true,
+        "jain": false
+      },
+      "spiceLevel": null
+    },
+    {
+      "name": "Cheese Uttapam",
+      "slug": "cheese-uttapam",
+      "category": "south-indian",
+      "price": 105,
+      "description": "Soft and savory South Indian pancake topped with flavorful ingredients.",
+      "image": null,
+      "isVeg": true,
+      "isAvailable": true,
+      "servingInfo": null,
+      "seasonal": false,
+      "isAddon": false,
+      "descriptionStatus": "generated",
+      "imageSearchQuery": "Cheese Uttapam Indian restaurant food",
+      "tags": [
+        "creamy"
+      ],
+      "dietary": {
+        "vegetarian": true,
+        "jain": false
+      },
+      "spiceLevel": null
+    },
+    {
+      "name": "Appe",
+      "slug": "appe",
+      "category": "south-indian",
+      "price": 85,
+      "description": "Soft bite-sized South Indian savory dumplings prepared with a flavorful batter.",
+      "image": null,
+      "isVeg": true,
+      "isAvailable": true,
+      "servingInfo": null,
+      "seasonal": false,
+      "isAddon": false,
+      "descriptionStatus": "generated",
+      "imageSearchQuery": "Appe Indian restaurant food",
+      "tags": [],
+      "dietary": {
+        "vegetarian": true,
+        "jain": false
+      },
+      "spiceLevel": null
+    },
+    {
+      "name": "Paneer Stuffed Appe",
+      "slug": "paneer-stuffed-appe",
+      "category": "south-indian",
+      "price": 105,
+      "description": "Soft bite-sized South Indian savory dumplings prepared with a flavorful batter.",
+      "image": null,
+      "isVeg": true,
+      "isAvailable": true,
+      "servingInfo": null,
+      "seasonal": false,
+      "isAddon": false,
+      "descriptionStatus": "generated",
+      "imageSearchQuery": "Paneer Stuffed Appe Indian restaurant food",
+      "tags": [
+        "paneer"
+      ],
+      "dietary": {
+        "vegetarian": true,
+        "jain": false
+      },
+      "spiceLevel": null
+    },
+    {
+      "name": "Sambhar Wada",
+      "slug": "sambhar-wada",
+      "category": "south-indian",
+      "price": 65,
+      "description": "Crispy lentil fritters served with flavorful South Indian sambhar.",
+      "image": null,
+      "isVeg": true,
+      "isAvailable": true,
+      "servingInfo": null,
+      "seasonal": false,
+      "isAddon": false,
+      "descriptionStatus": "generated",
+      "imageSearchQuery": "Sambhar Wada Indian restaurant food",
+      "tags": [],
+      "dietary": {
+        "vegetarian": true,
+        "jain": false
+      },
+      "spiceLevel": null
+    },
+    {
+      "name": "Plain Dosa",
+      "slug": "plain-dosa",
+      "category": "south-indian",
+      "price": 75,
+      "description": "Crispy South Indian crepe prepared with a traditional fermented rice and lentil batter.",
+      "image": null,
+      "isVeg": true,
+      "isAvailable": true,
+      "servingInfo": null,
+      "seasonal": false,
+      "isAddon": false,
+      "descriptionStatus": "generated",
+      "imageSearchQuery": "Plain Dosa Indian restaurant food",
+      "tags": [
+        "south-indian"
+      ],
+      "dietary": {
+        "vegetarian": true,
+        "jain": false
+      },
+      "spiceLevel": null
+    },
+    {
+      "name": "Masala Dosa",
+      "slug": "masala-dosa",
+      "category": "south-indian",
+      "price": 85,
+      "description": "Crispy South Indian crepe prepared with a traditional fermented rice and lentil batter.",
+      "image": null,
+      "isVeg": true,
+      "isAvailable": true,
+      "servingInfo": null,
+      "seasonal": false,
+      "isAddon": false,
+      "descriptionStatus": "generated",
+      "imageSearchQuery": "Masala Dosa Indian restaurant food",
+      "tags": [
+        "south-indian"
+      ],
+      "dietary": {
+        "vegetarian": true,
+        "jain": false
+      },
+      "spiceLevel": null
+    },
+    {
+      "name": "Butter Masala Dosa",
+      "slug": "butter-masala-dosa",
+      "category": "south-indian",
+      "price": 95,
+      "description": "Crispy South Indian crepe prepared with a traditional fermented rice and lentil batter.",
+      "image": null,
+      "isVeg": true,
+      "isAvailable": true,
+      "servingInfo": null,
+      "seasonal": false,
+      "isAddon": false,
+      "descriptionStatus": "generated",
+      "imageSearchQuery": "Butter Masala Dosa Indian restaurant food",
+      "tags": [
+        "south-indian",
+        "creamy"
+      ],
+      "dietary": {
+        "vegetarian": true,
+        "jain": false
+      },
+      "spiceLevel": null
+    },
+    {
+      "name": "Paper Plain Dosa",
+      "slug": "paper-plain-dosa",
+      "category": "south-indian",
+      "price": 85,
+      "description": "Crispy South Indian crepe prepared with a traditional fermented rice and lentil batter.",
+      "image": null,
+      "isVeg": true,
+      "isAvailable": true,
+      "servingInfo": null,
+      "seasonal": false,
+      "isAddon": false,
+      "descriptionStatus": "generated",
+      "imageSearchQuery": "Paper Plain Dosa Indian restaurant food",
+      "tags": [
+        "south-indian"
+      ],
+      "dietary": {
+        "vegetarian": true,
+        "jain": false
+      },
+      "spiceLevel": null
+    },
+    {
+      "name": "Paper Masala Dosa",
+      "slug": "paper-masala-dosa",
+      "category": "south-indian",
+      "price": 145,
+      "description": "Crispy South Indian crepe prepared with a traditional fermented rice and lentil batter.",
+      "image": null,
+      "isVeg": true,
+      "isAvailable": true,
+      "servingInfo": null,
+      "seasonal": false,
+      "isAddon": false,
+      "descriptionStatus": "generated",
+      "imageSearchQuery": "Paper Masala Dosa Indian restaurant food",
+      "tags": [
+        "south-indian"
+      ],
+      "dietary": {
+        "vegetarian": true,
+        "jain": false
+      },
+      "spiceLevel": null
+    },
+    {
+      "name": "Mysore Masala Dosa",
+      "slug": "mysore-masala-dosa",
+      "category": "south-indian",
+      "price": 95,
+      "description": "Crispy South Indian crepe prepared with a traditional fermented rice and lentil batter.",
+      "image": null,
+      "isVeg": true,
+      "isAvailable": true,
+      "servingInfo": null,
+      "seasonal": false,
+      "isAddon": false,
+      "descriptionStatus": "generated",
+      "imageSearchQuery": "Mysore Masala Dosa Indian restaurant food",
+      "tags": [
+        "south-indian"
+      ],
+      "dietary": {
+        "vegetarian": true,
+        "jain": false
+      },
+      "spiceLevel": null
+    },
+    {
+      "name": "Jini Dosa",
+      "slug": "jini-dosa",
+      "category": "south-indian",
+      "price": 115,
+      "description": "Crispy South Indian crepe prepared with a traditional fermented rice and lentil batter.",
+      "image": null,
+      "isVeg": true,
+      "isAvailable": true,
+      "servingInfo": null,
+      "seasonal": false,
+      "isAddon": false,
+      "descriptionStatus": "generated",
+      "imageSearchQuery": "Jini Dosa Indian restaurant food",
+      "tags": [
+        "south-indian"
+      ],
+      "dietary": {
+        "vegetarian": true,
+        "jain": false
+      },
+      "spiceLevel": null
+    },
+    {
+      "name": "Rawa Dosa Plain",
+      "slug": "rawa-dosa-plain",
+      "category": "south-indian",
+      "price": 95,
+      "description": "Crispy South Indian crepe prepared with a traditional fermented rice and lentil batter.",
+      "image": null,
+      "isVeg": true,
+      "isAvailable": true,
+      "servingInfo": null,
+      "seasonal": false,
+      "isAddon": false,
+      "descriptionStatus": "generated",
+      "imageSearchQuery": "Rawa Dosa Plain Indian restaurant food",
+      "tags": [
+        "south-indian"
+      ],
+      "dietary": {
+        "vegetarian": true,
+        "jain": false
+      },
+      "spiceLevel": null
+    },
+    {
+      "name": "Rawa Masala Dosa",
+      "slug": "rawa-masala-dosa",
+      "category": "south-indian",
+      "price": 115,
+      "description": "Crispy South Indian crepe prepared with a traditional fermented rice and lentil batter.",
+      "image": null,
+      "isVeg": true,
+      "isAvailable": true,
+      "servingInfo": null,
+      "seasonal": false,
+      "isAddon": false,
+      "descriptionStatus": "generated",
+      "imageSearchQuery": "Rawa Masala Dosa Indian restaurant food",
+      "tags": [
+        "south-indian"
+      ],
+      "dietary": {
+        "vegetarian": true,
+        "jain": false
+      },
+      "spiceLevel": null
+    },
+    {
+      "name": "Schezwan Dosa",
+      "slug": "schezwan-dosa",
+      "category": "south-indian",
+      "price": 115,
+      "description": "Crispy South Indian crepe prepared with a traditional fermented rice and lentil batter.",
+      "image": null,
+      "isVeg": true,
+      "isAvailable": true,
+      "servingInfo": null,
+      "seasonal": false,
+      "isAddon": false,
+      "descriptionStatus": "generated",
+      "imageSearchQuery": "Schezwan Dosa Indian restaurant food",
+      "tags": [
+        "south-indian",
+        "spicy"
+      ],
+      "dietary": {
+        "vegetarian": true,
+        "jain": false
+      },
+      "spiceLevel": null
+    },
+    {
+      "name": "Midway's Special Dosa",
+      "slug": "midways-special-dosa",
+      "category": "south-indian",
+      "price": 145,
+      "description": "Crispy South Indian crepe prepared with a traditional fermented rice and lentil batter.",
+      "image": null,
+      "isVeg": true,
+      "isAvailable": true,
+      "servingInfo": null,
+      "seasonal": false,
+      "isAddon": false,
+      "descriptionStatus": "generated",
+      "imageSearchQuery": "Midway's Special Dosa Indian restaurant food",
+      "tags": [
+        "south-indian"
+      ],
+      "dietary": {
+        "vegetarian": true,
+        "jain": false
+      },
+      "spiceLevel": null
+    }
+  ]
+}

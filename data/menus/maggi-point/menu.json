@@ -1,0 +1,110 @@
+{
+  "name": "Maggi Point",
+  "slug": "maggi-point",
+  "items": [
+    {
+      "name": "Plain Maggi",
+      "slug": "plain-maggi",
+      "category": "maggi-point",
+      "price": 65,
+      "description": "",
+      "image": null,
+      "isVeg": true,
+      "isAvailable": true,
+      "servingInfo": null,
+      "seasonal": false,
+      "isAddon": false
+    },
+    {
+      "name": "Masala Maggi",
+      "slug": "masala-maggi",
+      "category": "maggi-point",
+      "price": 75,
+      "description": "",
+      "image": null,
+      "isVeg": true,
+      "isAvailable": true,
+      "servingInfo": null,
+      "seasonal": false,
+      "isAddon": false
+    },
+    {
+      "name": "Butter Maggi",
+      "slug": "butter-maggi",
+      "category": "maggi-point",
+      "price": 85,
+      "description": "",
+      "image": null,
+      "isVeg": true,
+      "isAvailable": true,
+      "servingInfo": null,
+      "seasonal": false,
+      "isAddon": false
+    },
+    {
+      "name": "Punjabi Masala Maggi",
+      "slug": "punjabi-masala-maggi",
+      "category": "maggi-point",
+      "price": 85,
+      "description": "",
+      "image": null,
+      "isVeg": true,
+      "isAvailable": true,
+      "servingInfo": null,
+      "seasonal": false,
+      "isAddon": false
+    },
+    {
+      "name": "Schezwan Maggi",
+      "slug": "schezwan-maggi",
+      "category": "maggi-point",
+      "price": 85,
+      "description": "",
+      "image": null,
+      "isVeg": true,
+      "isAvailable": true,
+      "servingInfo": null,
+      "seasonal": false,
+      "isAddon": false
+    },
+    {
+      "name": "Chilli Garlic Maggi",
+      "slug": "chilli-garlic-maggi",
+      "category": "maggi-point",
+      "price": 85,
+      "description": "",
+      "image": null,
+      "isVeg": true,
+      "isAvailable": true,
+      "servingInfo": null,
+      "seasonal": false,
+      "isAddon": false
+    },
+    {
+      "name": "Cheesy Maggi",
+      "slug": "cheesy-maggi",
+      "category": "maggi-point",
+      "price": 85,
+      "description": "",
+      "image": null,
+      "isVeg": true,
+      "isAvailable": true,
+      "servingInfo": null,
+      "seasonal": false,
+      "isAddon": false
+    },
+    {
+      "name": "Creamilicious Maggi",
+      "slug": "creamilicious-maggi",
+      "category": "maggi-point",
+      "price": 95,
+      "description": "",
+      "image": null,
+      "isVeg": true,
+      "isAvailable": true,
+      "servingInfo": null,
+      "seasonal": false,
+      "isAddon": false
+    }
+  ]
+}

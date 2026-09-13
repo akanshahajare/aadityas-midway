@@ -1,0 +1,84 @@
+{
+  "name": "Munchies",
+  "slug": "munchies",
+  "items": [
+    {
+      "name": "Classic French Fries",
+      "slug": "classic-french-fries",
+      "category": "munchies",
+      "price": 95,
+      "description": "",
+      "image": null,
+      "isVeg": true,
+      "isAvailable": true,
+      "servingInfo": null,
+      "seasonal": false,
+      "isAddon": false
+    },
+    {
+      "name": "Peri Peri French Fries",
+      "slug": "peri-peri-french-fries",
+      "category": "munchies",
+      "price": 105,
+      "description": "",
+      "image": null,
+      "isVeg": true,
+      "isAvailable": true,
+      "servingInfo": null,
+      "seasonal": false,
+      "isAddon": false
+    },
+    {
+      "name": "Cheesy French Fries",
+      "slug": "cheesy-french-fries",
+      "category": "munchies",
+      "price": 115,
+      "description": "",
+      "image": null,
+      "isVeg": true,
+      "isAvailable": true,
+      "servingInfo": null,
+      "seasonal": false,
+      "isAddon": false
+    },
+    {
+      "name": "Masala Peanut Chaat",
+      "slug": "masala-peanut-chaat",
+      "category": "munchies",
+      "price": 95,
+      "description": "",
+      "image": null,
+      "isVeg": true,
+      "isAvailable": true,
+      "servingInfo": null,
+      "seasonal": false,
+      "isAddon": false
+    },
+    {
+      "name": "Classic Nachos",
+      "slug": "classic-nachos",
+      "category": "munchies",
+      "price": 95,
+      "description": "",
+      "image": null,
+      "isVeg": true,
+      "isAvailable": true,
+      "servingInfo": null,
+      "seasonal": false,
+      "isAddon": false
+    },
+    {
+      "name": "Cheesy Nachos",
+      "slug": "cheesy-nachos",
+      "category": "munchies",
+      "price": 105,
+      "description": "",
+      "image": null,
+      "isVeg": true,
+      "isAvailable": true,
+      "servingInfo": null,
+      "seasonal": false,
+      "isAddon": false
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "name": "aadityas-midway",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "generate:image-manifest": "node scripts/generate-image-manifest.js",
+    "seed:menu": "node scripts/seed-menu.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/akanshahajare/aadityas-midway.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/akanshahajare/aadityas-midway/issues"
+  },
+  "homepage": "https://github.com/akanshahajare/aadityas-midway#readme",
+  "dependencies": {
+    "dotenv": "^17.4.2",
+    "mongoose": "^9.10.0"
+  }
+}

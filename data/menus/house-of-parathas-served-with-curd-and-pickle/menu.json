@@ -1,0 +1,110 @@
+{
+  "name": "House of Parathas (Served with curd and pickle)",
+  "slug": "house-of-parathas-served-with-curd-and-pickle",
+  "items": [
+    {
+      "name": "Gobhi Paratha",
+      "slug": "gobhi-paratha",
+      "category": "house-of-parathas-served-with-curd-and-pickle",
+      "price": 95,
+      "description": "",
+      "image": null,
+      "isVeg": true,
+      "isAvailable": true,
+      "servingInfo": null,
+      "seasonal": false,
+      "isAddon": false
+    },
+    {
+      "name": "Aloo Paratha",
+      "slug": "aloo-paratha",
+      "category": "house-of-parathas-served-with-curd-and-pickle",
+      "price": 95,
+      "description": "",
+      "image": null,
+      "isVeg": true,
+      "isAvailable": true,
+      "servingInfo": null,
+      "seasonal": false,
+      "isAddon": false
+    },
+    {
+      "name": "Paneer Paratha",
+      "slug": "paneer-paratha",
+      "category": "house-of-parathas-served-with-curd-and-pickle",
+      "price": 115,
+      "description": "",
+      "image": null,
+      "isVeg": true,
+      "isAvailable": true,
+      "servingInfo": null,
+      "seasonal": false,
+      "isAddon": false
+    },
+    {
+      "name": "Onion Paratha",
+      "slug": "onion-paratha",
+      "category": "house-of-parathas-served-with-curd-and-pickle",
+      "price": 95,
+      "description": "",
+      "image": null,
+      "isVeg": true,
+      "isAvailable": true,
+      "servingInfo": null,
+      "seasonal": false,
+      "isAddon": false
+    },
+    {
+      "name": "Cheese Paratha",
+      "slug": "cheese-paratha",
+      "category": "house-of-parathas-served-with-curd-and-pickle",
+      "price": 105,
+      "description": "",
+      "image": null,
+      "isVeg": true,
+      "isAvailable": true,
+      "servingInfo": null,
+      "seasonal": false,
+      "isAddon": false
+    },
+    {
+      "name": "Rajwadi Paratha",
+      "slug": "rajwadi-paratha",
+      "category": "house-of-parathas-served-with-curd-and-pickle",
+      "price": 105,
+      "description": "",
+      "image": null,
+      "isVeg": true,
+      "isAvailable": true,
+      "servingInfo": null,
+      "seasonal": false,
+      "isAddon": false
+    },
+    {
+      "name": "Tandoori Paratha",
+      "slug": "tandoori-paratha",
+      "category": "house-of-parathas-served-with-curd-and-pickle",
+      "price": 95,
+      "description": "",
+      "image": null,
+      "isVeg": true,
+      "isAvailable": true,
+      "servingInfo": null,
+      "seasonal": false,
+      "isAddon": false
+    },
+    {
+      "name": "Mix Veg Paratha",
+      "slug": "mix-veg-paratha",
+      "category": "house-of-parathas-served-with-curd-and-pickle",
+      "price": 115,
+      "description": "",
+      "image": null,
+      "isVeg": true,
+      "isAvailable": true,
+      "servingInfo": null,
+      "seasonal": false,
+      "isAddon": false
+    }
+  ]
+}

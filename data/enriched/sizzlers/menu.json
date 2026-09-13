@@ -1,0 +1,137 @@
+{
+  "name": "Sizzlers",
+  "slug": "sizzlers",
+  "items": [
+    {
+      "name": "Bar-Be-Que Sizzler",
+      "slug": "bar-be-que-sizzler",
+      "category": "sizzlers",
+      "price": 295,
+      "description": "",
+      "image": null,
+      "isVeg": true,
+      "isAvailable": true,
+      "servingInfo": null,
+      "seasonal": false,
+      "isAddon": false,
+      "descriptionStatus": "needs-review",
+      "imageSearchQuery": "Bar-Be-Que Sizzler Indian restaurant food",
+      "tags": [],
+      "dietary": {
+        "vegetarian": true,
+        "jain": false
+      },
+      "spiceLevel": null
+    },
+    {
+      "name": "Chilli Paneer Sizzler",
+      "slug": "chilli-paneer-sizzler",
+      "category": "sizzlers",
+      "price": 295,
+      "description": "Paneer tossed with peppers, onions and flavorful Indo-Chinese chilli sauce.",
+      "image": null,
+      "isVeg": true,
+      "isAvailable": true,
+      "servingInfo": null,
+      "seasonal": false,
+      "isAddon": false,
+      "descriptionStatus": "generated",
+      "imageSearchQuery": "Chilli Paneer Sizzler Indian restaurant food",
+      "tags": [
+        "paneer",
+        "spicy"
+      ],
+      "dietary": {
+        "vegetarian": true,
+        "jain": false
+      },
+      "spiceLevel": null
+    },
+    {
+      "name": "Paneer Tikka Sizzler",
+      "slug": "paneer-tikka-sizzler",
+      "category": "sizzlers",
+      "price": 295,
+      "description": "Marinated paneer pieces grilled with aromatic spices for a smoky finish.",
+      "image": null,
+      "isVeg": true,
+      "isAvailable": true,
+      "servingInfo": null,
+      "seasonal": false,
+      "isAddon": false,
+      "descriptionStatus": "generated",
+      "imageSearchQuery": "Paneer Tikka Sizzler Indian restaurant food",
+      "tags": [
+        "paneer"
+      ],
+      "dietary": {
+        "vegetarian": true,
+        "jain": false
+      },
+      "spiceLevel": null
+    },
+    {
+      "name": "Manchurian Sizzler",
+      "slug": "manchurian-sizzler",
+      "category": "sizzlers",
+      "price": 285,
+      "description": "Crispy vegetable bites tossed in a flavorful Indo-Chinese Manchurian sauce.",
+      "image": null,
+      "isVeg": true,
+      "isAvailable": true,
+      "servingInfo": null,
+      "seasonal": false,
+      "isAddon": false,
+      "descriptionStatus": "generated",
+      "imageSearchQuery": "Manchurian Sizzler Indian restaurant food",
+      "tags": [],
+      "dietary": {
+        "vegetarian": true,
+        "jain": false
+      },
+      "spiceLevel": null
+    },
+    {
+      "name": "Veg Cutlet Sizzler",
+      "slug": "veg-cutlet-sizzler",
+      "category": "sizzlers",
+      "price": 285,
+      "description": "",
+      "image": null,
+      "isVeg": true,
+      "isAvailable": true,
+      "servingInfo": null,
+      "seasonal": false,
+      "isAddon": false,
+      "descriptionStatus": "needs-review",
+      "imageSearchQuery": "Veg Cutlet Sizzler Indian restaurant food",
+      "tags": [],
+      "dietary": {
+        "vegetarian": true,
+        "jain": false
+      },
+      "spiceLevel": null
+    },
+    {
+      "name": "Italian Sizzler",
+      "slug": "italian-sizzler",
+      "category": "sizzlers",
+      "price": 315,
+      "description": "",
+      "image": null,
+      "isVeg": true,
+      "isAvailable": true,
+      "servingInfo": null,
+      "seasonal": false,
+      "isAddon": false,
+      "descriptionStatus": "needs-review",
+      "imageSearchQuery": "Italian Sizzler Indian restaurant food",
+      "tags": [],
+      "dietary": {
+        "vegetarian": true,
+        "jain": false
+      },
+      "spiceLevel": null
+    }
+  ]
+}

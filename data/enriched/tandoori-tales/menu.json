@@ -1,0 +1,575 @@
+{
+  "name": "Tandoori Tales",
+  "slug": "tandoori-tales",
+  "items": [
+    {
+      "name": "Aloo Nazakat",
+      "slug": "aloo-nazakat",
+      "category": "tandoori-tales",
+      "price": 185,
+      "description": "",
+      "image": null,
+      "isVeg": true,
+      "isAvailable": true,
+      "servingInfo": null,
+      "seasonal": false,
+      "isAddon": false,
+      "descriptionStatus": "needs-review",
+      "imageSearchQuery": "Aloo Nazakat Indian restaurant food",
+      "tags": [
+        "tandoori"
+      ],
+      "dietary": {
+        "vegetarian": true,
+        "jain": false
+      },
+      "spiceLevel": null
+    },
+    {
+      "name": "Aloo Adraki Tikki",
+      "slug": "aloo-adraki-tikki",
+      "category": "tandoori-tales",
+      "price": 185,
+      "description": "",
+      "image": null,
+      "isVeg": true,
+      "isAvailable": true,
+      "servingInfo": null,
+      "seasonal": false,
+      "isAddon": false,
+      "descriptionStatus": "needs-review",
+      "imageSearchQuery": "Aloo Adraki Tikki Indian restaurant food",
+      "tags": [
+        "tandoori"
+      ],
+      "dietary": {
+        "vegetarian": true,
+        "jain": false
+      },
+      "spiceLevel": null
+    },
+    {
+      "name": "Paneer Tikka",
+      "slug": "paneer-tikka",
+      "category": "tandoori-tales",
+      "price": 215,
+      "description": "Marinated paneer pieces grilled with aromatic spices for a smoky finish.",
+      "image": null,
+      "isVeg": true,
+      "isAvailable": true,
+      "servingInfo": null,
+      "seasonal": false,
+      "isAddon": false,
+      "descriptionStatus": "generated",
+      "imageSearchQuery": "Paneer Tikka Indian restaurant food",
+      "tags": [
+        "paneer",
+        "tandoori"
+      ],
+      "dietary": {
+        "vegetarian": true,
+        "jain": false
+      },
+      "spiceLevel": null
+    },
+    {
+      "name": "Garlic Paneer Tikka",
+      "slug": "garlic-paneer-tikka",
+      "category": "tandoori-tales",
+      "price": 215,
+      "description": "Marinated paneer pieces grilled with aromatic spices for a smoky finish.",
+      "image": null,
+      "isVeg": true,
+      "isAvailable": true,
+      "servingInfo": null,
+      "seasonal": false,
+      "isAddon": false,
+      "descriptionStatus": "generated",
+      "imageSearchQuery": "Garlic Paneer Tikka Indian restaurant food",
+      "tags": [
+        "paneer",
+        "tandoori"
+      ],
+      "dietary": {
+        "vegetarian": true,
+        "jain": false
+      },
+      "spiceLevel": null
+    },
+    {
+      "name": "Paneer Malaidar Tikka",
+      "slug": "paneer-malaidar-tikka",
+      "category": "tandoori-tales",
+      "price": 225,
+      "description": "",
+      "image": null,
+      "isVeg": true,
+      "isAvailable": true,
+      "servingInfo": null,
+      "seasonal": false,
+      "isAddon": false,
+      "descriptionStatus": "needs-review",
+      "imageSearchQuery": "Paneer Malaidar Tikka Indian restaurant food",
+      "tags": [
+        "paneer",
+        "tandoori"
+      ],
+      "dietary": {
+        "vegetarian": true,
+        "jain": false
+      },
+      "spiceLevel": null
+    },
+    {
+      "name": "Peri Peri Paneer Tikka",
+      "slug": "peri-peri-paneer-tikka",
+      "category": "tandoori-tales",
+      "price": 225,
+      "description": "Marinated paneer pieces grilled with aromatic spices for a smoky finish.",
+      "image": null,
+      "isVeg": true,
+      "isAvailable": true,
+      "servingInfo": null,
+      "seasonal": false,
+      "isAddon": false,
+      "descriptionStatus": "generated",
+      "imageSearchQuery": "Peri Peri Paneer Tikka Indian restaurant food",
+      "tags": [
+        "paneer",
+        "tandoori",
+        "spicy"
+      ],
+      "dietary": {
+        "vegetarian": true,
+        "jain": false
+      },
+      "spiceLevel": null
+    },
+    {
+      "name": "Paneer Hariyali Tikka",
+      "slug": "paneer-hariyali-tikka",
+      "category": "tandoori-tales",
+      "price": 225,
+      "description": "",
+      "image": null,
+      "isVeg": true,
+      "isAvailable": true,
+      "servingInfo": null,
+      "seasonal": false,
+      "isAddon": false,
+      "descriptionStatus": "needs-review",
+      "imageSearchQuery": "Paneer Hariyali Tikka Indian restaurant food",
+      "tags": [
+        "paneer",
+        "tandoori"
+      ],
+      "dietary": {
+        "vegetarian": true,
+        "jain": false
+      },
+      "spiceLevel": null
+    },
+    {
+      "name": "Afghani Paneer Tikka",
+      "slug": "afghani-paneer-tikka",
+      "category": "tandoori-tales",
+      "price": 245,
+      "description": "Marinated paneer pieces grilled with aromatic spices for a smoky finish.",
+      "image": null,
+      "isVeg": true,
+      "isAvailable": true,
+      "servingInfo": null,
+      "seasonal": false,
+      "isAddon": false,
+      "descriptionStatus": "generated",
+      "imageSearchQuery": "Afghani Paneer Tikka Indian restaurant food",
+      "tags": [
+        "paneer",
+        "tandoori"
+      ],
+      "dietary": {
+        "vegetarian": true,
+        "jain": false
+      },
+      "spiceLevel": null
+    },
+    {
+      "name": "Paneer Parda",
+      "slug": "paneer-parda",
+      "category": "tandoori-tales",
+      "price": 255,
+      "description": "",
+      "image": null,
+      "isVeg": true,
+      "isAvailable": true,
+      "servingInfo": null,
+      "seasonal": false,
+      "isAddon": false,
+      "descriptionStatus": "needs-review",
+      "imageSearchQuery": "Paneer Parda Indian restaurant food",
+      "tags": [
+        "paneer",
+        "tandoori"
+      ],
+      "dietary": {
+        "vegetarian": true,
+        "jain": false
+      },
+      "spiceLevel": null
+    },
+    {
+      "name": "Paneer Darbari Tikka",
+      "slug": "paneer-darbari-tikka",
+      "category": "tandoori-tales",
+      "price": 245,
+      "description": "",
+      "image": null,
+      "isVeg": true,
+      "isAvailable": true,
+      "servingInfo": null,
+      "seasonal": false,
+      "isAddon": false,
+      "descriptionStatus": "needs-review",
+      "imageSearchQuery": "Paneer Darbari Tikka Indian restaurant food",
+      "tags": [
+        "paneer",
+        "tandoori"
+      ],
+      "dietary": {
+        "vegetarian": true,
+        "jain": false
+      },
+      "spiceLevel": null
+    },
+    {
+      "name": "Paneer Tiranga Tikka",
+      "slug": "paneer-tiranga-tikka",
+      "category": "tandoori-tales",
+      "price": 245,
+      "description": "",
+      "image": null,
+      "isVeg": true,
+      "isAvailable": true,
+      "servingInfo": null,
+      "seasonal": false,
+      "isAddon": false,
+      "descriptionStatus": "needs-review",
+      "imageSearchQuery": "Paneer Tiranga Tikka Indian restaurant food",
+      "tags": [
+        "paneer",
+        "tandoori"
+      ],
+      "dietary": {
+        "vegetarian": true,
+        "jain": false
+      },
+      "spiceLevel": null
+    },
+    {
+      "name": "Hara Bhara Kebab",
+      "slug": "hara-bhara-kebab",
+      "category": "tandoori-tales",
+      "price": 245,
+      "description": "A flavorful vegetarian kebab prepared with green vegetables and aromatic spices.",
+      "image": null,
+      "isVeg": true,
+      "isAvailable": true,
+      "servingInfo": null,
+      "seasonal": false,
+      "isAddon": false,
+      "descriptionStatus": "generated",
+      "imageSearchQuery": "Hara Bhara Kebab Indian restaurant food",
+      "tags": [
+        "tandoori",
+        "kebab"
+      ],
+      "dietary": {
+        "vegetarian": true,
+        "jain": false
+      },
+      "spiceLevel": null
+    },
+    {
+      "name": "Veg Seekh Kebab",
+      "slug": "veg-seekh-kebab",
+      "category": "tandoori-tales",
+      "price": 245,
+      "description": "Flavorful vegetarian kebabs seasoned with aromatic spices and grilled to perfection.",
+      "image": null,
+      "isVeg": true,
+      "isAvailable": true,
+      "servingInfo": null,
+      "seasonal": false,
+      "isAddon": false,
+      "descriptionStatus": "generated",
+      "imageSearchQuery": "Veg Seekh Kebab Indian restaurant food",
+      "tags": [
+        "tandoori",
+        "kebab"
+      ],
+      "dietary": {
+        "vegetarian": true,
+        "jain": false
+      },
+      "spiceLevel": null
+    },
+    {
+      "name": "Cheese Seekh Kebab",
+      "slug": "cheese-seekh-kebab",
+      "category": "tandoori-tales",
+      "price": 255,
+      "description": "Flavorful vegetarian kebabs seasoned with aromatic spices and grilled to perfection.",
+      "image": null,
+      "isVeg": true,
+      "isAvailable": true,
+      "servingInfo": null,
+      "seasonal": false,
+      "isAddon": false,
+      "descriptionStatus": "generated",
+      "imageSearchQuery": "Cheese Seekh Kebab Indian restaurant food",
+      "tags": [
+        "tandoori",
+        "kebab",
+        "creamy"
+      ],
+      "dietary": {
+        "vegetarian": true,
+        "jain": false
+      },
+      "spiceLevel": null
+    },
+    {
+      "name": "Tandoori Mushroom",
+      "slug": "tandoori-mushroom",
+      "category": "tandoori-tales",
+      "price": 245,
+      "description": "Mushrooms marinated with aromatic spices and prepared with a smoky tandoori finish.",
+      "image": null,
+      "isVeg": true,
+      "isAvailable": true,
+      "servingInfo": null,
+      "seasonal": false,
+      "isAddon": false,
+      "descriptionStatus": "generated",
+      "imageSearchQuery": "Tandoori Mushroom Indian restaurant food",
+      "tags": [
+        "tandoori"
+      ],
+      "dietary": {
+        "vegetarian": true,
+        "jain": false
+      },
+      "spiceLevel": null
+    },
+    {
+      "name": "Stuffed Mushroom",
+      "slug": "stuffed-mushroom",
+      "category": "tandoori-tales",
+      "price": 255,
+      "description": "Mushrooms filled with a flavorful stuffing and prepared with aromatic spices.",
+      "image": null,
+      "isVeg": true,
+      "isAvailable": true,
+      "servingInfo": null,
+      "seasonal": false,
+      "isAddon": false,
+      "descriptionStatus": "generated",
+      "imageSearchQuery": "Stuffed Mushroom Indian restaurant food",
+      "tags": [
+        "tandoori"
+      ],
+      "dietary": {
+        "vegetarian": true,
+        "jain": false
+      },
+      "spiceLevel": null
+    },
+    {
+      "name": "Soya Tikka",
+      "slug": "soya-tikka",
+      "category": "tandoori-tales",
+      "price": 235,
+      "description": "",
+      "image": null,
+      "isVeg": true,
+      "isAvailable": true,
+      "servingInfo": null,
+      "seasonal": false,
+      "isAddon": false,
+      "descriptionStatus": "needs-review",
+      "imageSearchQuery": "Soya Tikka Indian restaurant food",
+      "tags": [
+        "tandoori"
+      ],
+      "dietary": {
+        "vegetarian": true,
+        "jain": false
+      },
+      "spiceLevel": null
+    },
+    {
+      "name": "Soya Sticks",
+      "slug": "soya-sticks",
+      "category": "tandoori-tales",
+      "price": 235,
+      "description": "",
+      "image": null,
+      "isVeg": true,
+      "isAvailable": true,
+      "servingInfo": null,
+      "seasonal": false,
+      "isAddon": false,
+      "descriptionStatus": "needs-review",
+      "imageSearchQuery": "Soya Sticks Indian restaurant food",
+      "tags": [
+        "tandoori"
+      ],
+      "dietary": {
+        "vegetarian": true,
+        "jain": false
+      },
+      "spiceLevel": null
+    },
+    {
+      "name": "Soya Chaap",
+      "slug": "soya-chaap",
+      "category": "tandoori-tales",
+      "price": 235,
+      "description": "",
+      "image": null,
+      "isVeg": true,
+      "isAvailable": true,
+      "servingInfo": null,
+      "seasonal": false,
+      "isAddon": false,
+      "descriptionStatus": "needs-review",
+      "imageSearchQuery": "Soya Chaap Indian restaurant food",
+      "tags": [
+        "tandoori"
+      ],
+      "dietary": {
+        "vegetarian": true,
+        "jain": false
+      },
+      "spiceLevel": null
+    },
+    {
+      "name": "Paneer Banjara",
+      "slug": "paneer-banjara",
+      "category": "tandoori-tales",
+      "price": 255,
+      "description": "",
+      "image": null,
+      "isVeg": true,
+      "isAvailable": true,
+      "servingInfo": null,
+      "seasonal": false,
+      "isAddon": false,
+      "descriptionStatus": "needs-review",
+      "imageSearchQuery": "Paneer Banjara Indian restaurant food",
+      "tags": [
+        "paneer",
+        "tandoori"
+      ],
+      "dietary": {
+        "vegetarian": true,
+        "jain": false
+      },
+      "spiceLevel": null
+    },
+    {
+      "name": "Lava Paneer Tikka",
+      "slug": "lava-paneer-tikka",
+      "category": "tandoori-tales",
+      "price": 255,
+      "description": "Marinated paneer pieces grilled with aromatic spices for a smoky finish.",
+      "image": null,
+      "isVeg": true,
+      "isAvailable": true,
+      "servingInfo": null,
+      "seasonal": false,
+      "isAddon": false,
+      "descriptionStatus": "generated",
+      "imageSearchQuery": "Lava Paneer Tikka Indian restaurant food",
+      "tags": [
+        "paneer",
+        "tandoori"
+      ],
+      "dietary": {
+        "vegetarian": true,
+        "jain": false
+      },
+      "spiceLevel": null
+    },
+    {
+      "name": "Crispy Corn Tikki",
+      "slug": "crispy-corn-tikki",
+      "category": "tandoori-tales",
+      "price": 255,
+      "description": "",
+      "image": null,
+      "isVeg": true,
+      "isAvailable": true,
+      "servingInfo": null,
+      "seasonal": false,
+      "isAddon": false,
+      "descriptionStatus": "needs-review",
+      "imageSearchQuery": "Crispy Corn Tikki Indian restaurant food",
+      "tags": [
+        "tandoori"
+      ],
+      "dietary": {
+        "vegetarian": true,
+        "jain": false
+      },
+      "spiceLevel": null
+    },
+    {
+      "name": "Dahi Kebab",
+      "slug": "dahi-kebab",
+      "category": "tandoori-tales",
+      "price": 255,
+      "description": "",
+      "image": null,
+      "isVeg": true,
+      "isAvailable": true,
+      "servingInfo": null,
+      "seasonal": false,
+      "isAddon": false,
+      "descriptionStatus": "needs-review",
+      "imageSearchQuery": "Dahi Kebab Indian restaurant food",
+      "tags": [
+        "tandoori",
+        "kebab"
+      ],
+      "dietary": {
+        "vegetarian": true,
+        "jain": false
+      },
+      "spiceLevel": null
+    },
+    {
+      "name": "Veg Platter",
+      "slug": "veg-platter",
+      "category": "tandoori-tales",
+      "price": 395,
+      "description": "",
+      "image": null,
+      "isVeg": true,
+      "isAvailable": true,
+      "servingInfo": null,
+      "seasonal": false,
+      "isAddon": false,
+      "descriptionStatus": "needs-review",
+      "imageSearchQuery": "Veg Platter Indian restaurant food",
+      "tags": [
+        "tandoori"
+      ],
+      "dietary": {
+        "vegetarian": true,
+        "jain": false
+      },
+      "spiceLevel": null
+    }
+  ]
+}

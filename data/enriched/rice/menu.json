@@ -1,0 +1,284 @@
+{
+  "name": "Rice",
+  "slug": "rice",
+  "items": [
+    {
+      "name": "Steamed Rice (Half)",
+      "slug": "steamed-rice-half",
+      "category": "rice",
+      "price": 85,
+      "description": "",
+      "image": null,
+      "isVeg": true,
+      "isAvailable": true,
+      "servingInfo": null,
+      "seasonal": false,
+      "isAddon": false,
+      "descriptionStatus": "needs-review",
+      "imageSearchQuery": "Steamed Rice (Half) Indian restaurant food",
+      "tags": [
+        "rice"
+      ],
+      "dietary": {
+        "vegetarian": true,
+        "jain": false
+      },
+      "spiceLevel": null
+    },
+    {
+      "name": "Steamed Rice (Full)",
+      "slug": "steamed-rice-full",
+      "category": "rice",
+      "price": 135,
+      "description": "",
+      "image": null,
+      "isVeg": true,
+      "isAvailable": true,
+      "servingInfo": null,
+      "seasonal": false,
+      "isAddon": false,
+      "descriptionStatus": "needs-review",
+      "imageSearchQuery": "Steamed Rice (Full) Indian restaurant food",
+      "tags": [
+        "rice"
+      ],
+      "dietary": {
+        "vegetarian": true,
+        "jain": false
+      },
+      "spiceLevel": null
+    },
+    {
+      "name": "Jeera Rice (Half)",
+      "slug": "jeera-rice-half",
+      "category": "rice",
+      "price": 105,
+      "description": "",
+      "image": null,
+      "isVeg": true,
+      "isAvailable": true,
+      "servingInfo": null,
+      "seasonal": false,
+      "isAddon": false,
+      "descriptionStatus": "needs-review",
+      "imageSearchQuery": "Jeera Rice (Half) Indian restaurant food",
+      "tags": [
+        "rice"
+      ],
+      "dietary": {
+        "vegetarian": true,
+        "jain": false
+      },
+      "spiceLevel": null
+    },
+    {
+      "name": "Jeera Rice (Full)",
+      "slug": "jeera-rice-full",
+      "category": "rice",
+      "price": 155,
+      "description": "",
+      "image": null,
+      "isVeg": true,
+      "isAvailable": true,
+      "servingInfo": null,
+      "seasonal": false,
+      "isAddon": false,
+      "descriptionStatus": "needs-review",
+      "imageSearchQuery": "Jeera Rice (Full) Indian restaurant food",
+      "tags": [
+        "rice"
+      ],
+      "dietary": {
+        "vegetarian": true,
+        "jain": false
+      },
+      "spiceLevel": null
+    },
+    {
+      "name": "Butter Garlic Rice",
+      "slug": "butter-garlic-rice",
+      "category": "rice",
+      "price": 175,
+      "description": "",
+      "image": null,
+      "isVeg": true,
+      "isAvailable": true,
+      "servingInfo": null,
+      "seasonal": false,
+      "isAddon": false,
+      "descriptionStatus": "needs-review",
+      "imageSearchQuery": "Butter Garlic Rice Indian restaurant food",
+      "tags": [
+        "rice",
+        "creamy"
+      ],
+      "dietary": {
+        "vegetarian": true,
+        "jain": false
+      },
+      "spiceLevel": null
+    },
+    {
+      "name": "Veg Pulao",
+      "slug": "veg-pulao",
+      "category": "rice",
+      "price": 185,
+      "description": "Fragrant rice cooked with vegetables and aromatic spices.",
+      "image": null,
+      "isVeg": true,
+      "isAvailable": true,
+      "servingInfo": null,
+      "seasonal": false,
+      "isAddon": false,
+      "descriptionStatus": "generated",
+      "imageSearchQuery": "Veg Pulao Indian restaurant food",
+      "tags": [
+        "rice"
+      ],
+      "dietary": {
+        "vegetarian": true,
+        "jain": false
+      },
+      "spiceLevel": null
+    },
+    {
+      "name": "Kashmiri Pulao",
+      "slug": "kashmiri-pulao",
+      "category": "rice",
+      "price": 195,
+      "description": "Fragrant rice cooked with vegetables and aromatic spices.",
+      "image": null,
+      "isVeg": true,
+      "isAvailable": true,
+      "servingInfo": null,
+      "seasonal": false,
+      "isAddon": false,
+      "descriptionStatus": "generated",
+      "imageSearchQuery": "Kashmiri Pulao Indian restaurant food",
+      "tags": [
+        "rice"
+      ],
+      "dietary": {
+        "vegetarian": true,
+        "jain": false
+      },
+      "spiceLevel": null
+    },
+    {
+      "name": "Veg Dum Biryani",
+      "slug": "veg-dum-biryani",
+      "category": "rice",
+      "price": 205,
+      "description": "Aromatic rice layered with flavorful spices and prepared in a biryani style.",
+      "image": null,
+      "isVeg": true,
+      "isAvailable": true,
+      "servingInfo": null,
+      "seasonal": false,
+      "isAddon": false,
+      "descriptionStatus": "generated",
+      "imageSearchQuery": "Veg Dum Biryani Indian restaurant food",
+      "tags": [
+        "rice"
+      ],
+      "dietary": {
+        "vegetarian": true,
+        "jain": false
+      },
+      "spiceLevel": null
+    },
+    {
+      "name": "Paneer Dum Biryani",
+      "slug": "paneer-dum-biryani",
+      "category": "rice",
+      "price": 215,
+      "description": "Aromatic rice layered with flavorful spices and prepared in a biryani style.",
+      "image": null,
+      "isVeg": true,
+      "isAvailable": true,
+      "servingInfo": null,
+      "seasonal": false,
+      "isAddon": false,
+      "descriptionStatus": "generated",
+      "imageSearchQuery": "Paneer Dum Biryani Indian restaurant food",
+      "tags": [
+        "paneer",
+        "rice"
+      ],
+      "dietary": {
+        "vegetarian": true,
+        "jain": false
+      },
+      "spiceLevel": null
+    },
+    {
+      "name": "Dal Khichdi",
+      "slug": "dal-khichdi",
+      "category": "rice",
+      "price": 185,
+      "description": "Comforting rice and lentils cooked together with aromatic Indian spices.",
+      "image": null,
+      "isVeg": true,
+      "isAvailable": true,
+      "servingInfo": null,
+      "seasonal": false,
+      "isAddon": false,
+      "descriptionStatus": "generated",
+      "imageSearchQuery": "Dal Khichdi Indian restaurant food",
+      "tags": [
+        "rice"
+      ],
+      "dietary": {
+        "vegetarian": true,
+        "jain": false
+      },
+      "spiceLevel": null
+    },
+    {
+      "name": "Palak Khichdi",
+      "slug": "palak-khichdi",
+      "category": "rice",
+      "price": 185,
+      "description": "Comforting rice and lentils cooked together with aromatic Indian spices.",
+      "image": null,
+      "isVeg": true,
+      "isAvailable": true,
+      "servingInfo": null,
+      "seasonal": false,
+      "isAddon": false,
+      "descriptionStatus": "generated",
+      "imageSearchQuery": "Palak Khichdi Indian restaurant food",
+      "tags": [
+        "rice"
+      ],
+      "dietary": {
+        "vegetarian": true,
+        "jain": false
+      },
+      "spiceLevel": null
+    },
+    {
+      "name": "Midway's Special Rice",
+      "slug": "midways-special-rice",
+      "category": "rice",
+      "price": 225,
+      "description": "",
+      "image": null,
+      "isVeg": true,
+      "isAvailable": true,
+      "servingInfo": null,
+      "seasonal": false,
+      "isAddon": false,
+      "descriptionStatus": "needs-review",
+      "imageSearchQuery": "Midway's Special Rice Indian restaurant food",
+      "tags": [
+        "rice"
+      ],
+      "dietary": {
+        "vegetarian": true,
+        "jain": false
+      },
+      "spiceLevel": null
+    }
+  ]
+}

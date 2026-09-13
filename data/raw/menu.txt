@@ -1,0 +1,384 @@
+Here is the extracted menu and price data in raw plain text format categorized by sections:
+Dal
+Plain Dal - 145
+Dal Fry - 155
+Dal Tadka - 165
+Dal Makhni - 225
+Dal Varhadi - 185
+Paneer Special
+Paneer Bhurji - 195
+Saoji Paneer - 225
+Paneer Lababdar - 225
+Paneer Chatpata - 225
+Paneer Butter Masala - 235
+Paneer Tikka Masala - 255
+Paneer Kadhai - 255
+Mutter Paneer - 255
+Palak Paneer - 255
+Shahi Paneer - 255
+Paneer Khurchan - 255
+Paneer Tora Mora - 255
+Paneer Patiala - 265
+Midway's Special Paneer - 265
+Jain Main Course (Freshly Prepared gravy)
+Bhindi Kurkuri - 195
+Dal Tomato - 195
+Jeera Dal - 195
+Jaipuri Dal - 195
+Bhindi Masala - 215
+Paneer Bhurji - 225
+Mutter Paneer - 225
+Methi Mutter Malai - 255
+Paneer Capsicum - 225
+Palak Kofta - 225
+Paneer Butter Masala - 235
+Palak Paneer - 255
+Paneer Kofta - 255
+Shahi Paneer - 255
+Tandoori Tales
+Aloo Nazakat - 185
+Aloo Adraki Tikki - 185
+Paneer Tikka - 215
+Garlic Paneer Tikka - 215
+Paneer Malaidar Tikka - 225
+Peri Peri Paneer Tikka - 225
+Paneer Hariyali Tikka - 225
+Afghani Paneer Tikka - 245
+Paneer Parda - 255
+Paneer Darbari Tikka - 245
+Paneer Tiranga Tikka - 245
+Hara Bhara Kebab - 245
+Veg Seekh Kebab - 245
+Cheese Seekh Kebab - 255
+Tandoori Mushroom - 245
+Stuffed Mushroom - 255
+Soya Tikka - 235
+Soya Sticks - 235
+Soya Chaap - 235
+Paneer Banjara - 255
+Lava Paneer Tikka - 255
+Crispy Corn Tikki - 255
+Dahi Kebab - 255
+Veg Platter - 395
+Chinese Starters
+Chilli Paneer - 225
+Manchurian Dry - 215
+Veg Crispy - 215
+Honey Chilli Potato - 195
+Paneer 65 - 225
+Achari Paneer Lapeta - 195
+Spider's Web - 215
+Soya Chilli - 235
+Chana Chilli - 195
+Chilli Corn - 215
+Crispy Corn - 215
+Chilli Garlic Mushroom - 235
+Spring Rolls - 215
+Midway's 56 Bhog Thali (Serves 4 persons) - 1995
+Mini Meals
+Midway Special Thali - 250
+Rajma Chawal - 155
+Chole Chawal - 145
+Dal Makhani Chawal - 155
+Paneer Butter Masala + 3 Roti - 165
+Mix Veg + 3 Roti - 155
+Sev Tomato + 3 Roti - 155
+Sarso Ka Saag + 3 Makke Di Roti (Seasonal) - 165
+Special Meals
+Pav Bhaji - 95
+Cheese Pav Bhaji - 105
+Jain Pav Bhaji - 85
+Misal Pav - 75
+Masala Pav - 35
+Tawa Pulao - 95
+Delhi Chole Bhature - 115
+Puri Bhaji - 95
+Amritsari Chole Kulche - 115
+Sandwiches and more
+Cheese Sandwich - 75
+Veg Sandwich - 95
+Veg Cheese Grill Sandwich - 105
+Cheese Chilli Toast - 105
+Jumbo Sandwich - 105
+Paneer Delight Sandwich - 125
+Choco Burst Sandwich - 105
+Bombay Special Sandwich - 125
+Garlic Bread - 95
+Cheese Garlic Bread - 115
+South Indian
+Steamed Idli - 65
+Podi Idli - 75
+Takatak Idli - 95
+Chilli Idli - 85
+Upma - 75
+Shaahi Upma - 95
+Uttapam - 75
+Onion Uttapam - 85
+Cheese Uttapam - 105
+Appe - 85
+Paneer Stuffed Appe - 105
+Sambhar Wada - 65
+Plain Dosa - 75
+Masala Dosa - 85
+Butter Masala Dosa - 95
+Paper Plain Dosa - 85
+Paper Masala Dosa - 145
+Mysore Masala Dosa - 95
+Jini Dosa - 115
+Rawa Dosa Plain - 95
+Rawa Masala Dosa - 115
+Schezwan Dosa - 115
+Midway's Special Dosa - 145
+Chinese Rice & Noodles
+Veg Fried Rice - 195
+Veg Burnt Garlic Rice - 195
+Schezwan Fried Rice - 195
+Hakka Noodles - 195
+Schezwan Noodles - 195
+Chilli Garlic Noodles - 195
+Burnt Garlic Noodles - 195
+Rolls Mania
+Paneer Tikka Roll - 155
+Paneer Chilli Roll - 155
+Saoji Paneer Roll - 155
+Paneer Lababdar Roll - 155
+Paneer Malaidar Roll - 155
+Paneer Malai Tikka Roll - 155
+Aloo Chilli Roll - 125
+Veg Delight Roll - 125
+Cheese Chilli Roll - 125
+Afghani Paneer Roll - 155
+Pastas
+Red Sauce Pasta - 195
+White Sauce Pasta - 195
+Pink Sauce Pasta - 195
+Sindh Se
+Dal Pakwan - 105
+Pyaaz Ki Koki - 75
+Meethi Koki - 75
+Sindhi Pakode - 95
+Chatkaaz
+Pani Puri - 25
+Sev Puri - 35
+Dahi Puri - 35
+Masala Puri - 35
+Sev Puri Dahi Puri - 40
+Bhel - 50
+Bhel Puri - 35
+Aloo Chat - 50
+Aloo Tikki Chat - 60
+Cheese Puri - 50
+Samosa - 35
+Samosa Chat / Curry - 55
+Samose Chole - 55
+Kachori - 35
+Kachori Chat / Curry - 55
+Aloo Vada - 35
+Cutlet Patties - 35
+Patodi - 45
+Dahi Vada - 45
+Kanji Vada - 40
+Mirchi Vada - 45
+Dahi Ghujia - 45
+Paneer Pakoda - 85
+Vada Pav - 40
+Khaman Dhokla - 45
+Poha - 30
+Tari Poha - 40
+Bhaji Vada - 45
+Pyaaz ki Kachori - 45
+Midway Special Pakoda - 95
+Pizzas
+Margherita Pizza - 175
+Fresh Veggie Pizza - 185
+Paneer Capsicum Pizza - 195
+Cheese Corn Pizza - 195
+Midway's Special Pizza - 205
+Rice
+Steamed Rice (Half) - 85
+Steamed Rice (Full) - 135
+Jeera Rice (Half) - 105
+Jeera Rice (Full) - 155
+Butter Garlic Rice - 175
+Veg Pulao - 185
+Kashmiri Pulao - 195
+Veg Dum Biryani - 205
+Paneer Dum Biryani - 215
+Dal Khichdi - 185
+Palak Khichdi - 185
+Midway's Special Rice - 225
+Indian Breads
+Tawa Roti / Fulka - 20
+Butter Tawa Roti - 25
+Tandoor Roti - 25
+Butter Tandoori Roti - 35
+Khasta Roti - 35
+Laccha Paratha - 55
+Naan Plain - 45
+Butter Naan - 55
+Garlic Naan - 55
+Butter Garlic Naan - 65
+Cheese Garlic Naan - 75
+Missi Roti - 45
+Gud Ki Roti - 75
+Premium Malabar Paratha - 75
+Chur Chur Naan - 75
+Kerala Paratha - 125
+Reshmi Paratha - 125
+Dry Fruit Kashmiri Naan - 135
+Roti Basket Assorted - 195
+Add Butter - +10
+Add Cheese - +20
+Sizzlers
+Bar-Be-Que Sizzler - 295
+Chilli Paneer Sizzler - 295
+Paneer Tikka Sizzler - 295
+Manchurian Sizzler - 285
+Veg Cutlet Sizzler - 285
+Italian Sizzler - 315
+Main Course
+Jeera Aloo - 155
+Lasooni Aloo - 165
+Kurkuri Bhindi - 175
+Tomato Chutney - 175
+Baingan Bharta - 175
+Varhadi Baingan - 175
+Baingan Masala - 175
+Curry Pakoda - 175
+Bhindi Do Pyaza - 185
+Dum Aloo Kashmiri - 215
+Methi Malai Mutter - 235
+Masala Malai Corn - 235
+Kashmiri Rajma - 235
+Gobhi Mutter Masala - 195
+Mushroom Baby Corn - 285
+Veg Keema - 235
+Veg Kolhapuri - 235
+Veg Kadhai - 235
+Veg Egg Curry / Masala - 245
+Mushroom Masala - 245
+Veg Lababdar - 235
+Corn Palak Masala - 235
+Amritsari Chole - 205
+Kofta Curry - 215
+Sev Tomato - 195
+Navratna Korma - 245
+Soya Veg Keema - 265
+Malai Kofta - 245
+Subj Kumari Kofta - 245
+Midway's Sabji Of The Day - 245
+Mocktails
+Virgin Mojito - 95
+Virgin Sunset - 95
+Orange blossom - 95
+Green hawaiian - 95
+Midnight beauty - 115
+Blue Lagoon - 95
+Pina Colada - 125
+Fresh Lime Soda - 115
+Raspberry Mint Lemonade - 115
+Cranberry Mojito - 115
+Early Morning - 115
+Lonely Lady - 115
+Grass Courte - 115
+Shakes
+Chocolate Shake - 115
+Vanilla Shake - 105
+Banana Shake - 115
+Strawberry Shake - 115
+Chikoo Shake - 115
+Mango Shake - 115
+Butterscotch Shake - 115
+Badam Pista Shake - 125
+Pista ilaichi Shake - 125
+Oreo Shake - 125
+Blueberry Shake - 125
+Soups
+ * Manchow Soup — ₹95
+ * Hot & Sour Soup — ₹95
+ * Sweet Corn Soup — ₹95
+ * Cream Of Tomato Soup — ₹105
+ * Lemon Coriander Soup — ₹95
+ * Veg Clear Soup — ₹95
+ * Tomato Shorba — ₹95
+ * Palak Shorba — ₹95
+ * Cream Of Mushroom — ₹125
+Munchies
+ * Classic French Fries — ₹95
+ * Peri Peri French Fries — ₹105
+ * Cheesy French Fries — ₹115
+ * Masala Peanut Chaat — ₹95
+ * Classic Nachos — ₹95
+ * Cheesy Nachos — ₹105
+Maggi Point
+ * Plain Maggi — ₹65
+ * Masala Maggi — ₹75
+ * Butter Maggi — ₹85
+ * Punjabi Masala Maggi — ₹85
+ * Schezwan Maggi — ₹85
+ * Chilli Garlic Maggi — ₹85
+ * Cheesy Maggi — ₹85
+ * Creamilicious Maggi — ₹95
+House of Parathas (Served with curd and pickle)
+ * Gobhi Paratha — ₹95
+ * Aloo Paratha — ₹95
+ * Paneer Paratha — ₹115
+ * Onion Paratha — ₹95
+ * Cheese Paratha — ₹105
+ * Rajwadi Paratha — ₹105
+ * Tandoori Paratha — ₹95
+ * Mix Veg Paratha — ₹115
+Accompaniments
+ * Roasted Papad — ₹15
+ * Fried Papad — ₹25
+ * Masala Papad — ₹35
+ * Green Salad — ₹65
+ * Plain Curd — ₹65
+ * Boondi Raita — ₹85
+ * Plain Raita — ₹65
+ * Papad Churi — ₹65
+ * Khichiya Papad Fry / Masala — ₹55
+Desserts
+ * Rasgulla — ₹45
+ * Hot Gulab Jamun — ₹55
+ * Rasmalai — ₹55
+ * Jalebi — ₹65
+ * Rabdi — ₹65
+ * Kalakand — ₹75
+ * Hot Gulab Jamun With Vanilla Icecream — ₹95
+ * Moong Dal Ka Halwa — ₹95
+ * Gajar Ka Halwa — ₹95
+ * Caramel Custard — ₹105
+ * Ice Cream Sundae — ₹105
+ * Hot Sizzling Brownie — ₹165
+Beverages
+ * Water Bottle — ₹25
+ * Aerated Drinks — ₹25
+ * Butter Milk — ₹45
+ * Lassi — ₹55
+ * Kesar Dry Fruit Lassi — ₹95
+ * Mango Lassi — ₹85
+ * Strawberry Lassi — ₹85
+ * Fresh Lime Water — ₹35
+ * Fresh Lime Soda — ₹45
+ * Masala Soda — ₹45
+ * Masala Tea — ₹20
+ * Tandoori Tea — ₹30
+ * Masala Milk — ₹45
+ * Hot Coffee — ₹30
+ * Cold Coffee — ₹95
+ * Creamy Cold Coffee — ₹105
+ * Cold Coffee with Ice Cream — ₹115
+Juices
+ * Mousambi Juice — ₹65
+ * Pomegranate Juice — ₹75
+ * Mix Fruit Juice — ₹75
+ * Watermelon Juice — ₹65
+ * Pineapple Juice — ₹65
+ * Litchi Juice — ₹75
+ * Mango Juice — ₹75
+ * Cranberry Juice — ₹75
+ * Orange Juice — ₹75
+ * Grape Juice — ₹75
+ * Guava Juice — ₹75
+(Note: The promotional posters for Grilled Sandwiches and Sizzlers do not list individual prices).

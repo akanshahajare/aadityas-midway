@@ -1,0 +1,45 @@
+{
+  "name": "Pastas",
+  "slug": "pastas",
+  "items": [
+    {
+      "name": "Red Sauce Pasta",
+      "slug": "red-sauce-pasta",
+      "category": "pastas",
+      "price": 195,
+      "description": "",
+      "image": null,
+      "isVeg": true,
+      "isAvailable": true,
+      "servingInfo": null,
+      "seasonal": false,
+      "isAddon": false
+    },
+    {
+      "name": "White Sauce Pasta",
+      "slug": "white-sauce-pasta",
+      "category": "pastas",
+      "price": 195,
+      "description": "",
+      "image": null,
+      "isVeg": true,
+      "isAvailable": true,
+      "servingInfo": null,
+      "seasonal": false,
+      "isAddon": false
+    },
+    {
+      "name": "Pink Sauce Pasta",
+      "slug": "pink-sauce-pasta",
+      "category": "pastas",
+      "price": 195,
+      "description": "",
+      "image": null,
+      "isVeg": true,
+      "isAvailable": true,
+      "servingInfo": null,
+      "seasonal": false,
+      "isAddon": false
+    }
+  ]
+}

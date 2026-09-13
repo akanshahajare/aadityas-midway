@@ -1,0 +1,259 @@
+{
+  "name": "Juices",
+  "slug": "juices",
+  "items": [
+    {
+      "name": "Mousambi Juice",
+      "slug": "mousambi-juice",
+      "category": "juices",
+      "price": 65,
+      "description": "A refreshing fruit juice prepared for a naturally fruity and refreshing drink.",
+      "image": null,
+      "isVeg": true,
+      "isAvailable": true,
+      "servingInfo": null,
+      "seasonal": false,
+      "isAddon": false,
+      "descriptionStatus": "generated",
+      "imageSearchQuery": "Mousambi Juice Indian restaurant food",
+      "tags": [
+        "juice"
+      ],
+      "dietary": {
+        "vegetarian": true,
+        "jain": false
+      },
+      "spiceLevel": null
+    },
+    {
+      "name": "Pomegranate Juice",
+      "slug": "pomegranate-juice",
+      "category": "juices",
+      "price": 75,
+      "description": "A refreshing fruit juice prepared for a naturally fruity and refreshing drink.",
+      "image": null,
+      "isVeg": true,
+      "isAvailable": true,
+      "servingInfo": null,
+      "seasonal": false,
+      "isAddon": false,
+      "descriptionStatus": "generated",
+      "imageSearchQuery": "Pomegranate Juice Indian restaurant food",
+      "tags": [
+        "juice"
+      ],
+      "dietary": {
+        "vegetarian": true,
+        "jain": false
+      },
+      "spiceLevel": null
+    },
+    {
+      "name": "Mix Fruit Juice",
+      "slug": "mix-fruit-juice",
+      "category": "juices",
+      "price": 75,
+      "description": "A refreshing fruit juice prepared for a naturally fruity and refreshing drink.",
+      "image": null,
+      "isVeg": true,
+      "isAvailable": true,
+      "servingInfo": null,
+      "seasonal": false,
+      "isAddon": false,
+      "descriptionStatus": "generated",
+      "imageSearchQuery": "Mix Fruit Juice Indian restaurant food",
+      "tags": [
+        "juice"
+      ],
+      "dietary": {
+        "vegetarian": true,
+        "jain": false
+      },
+      "spiceLevel": null
+    },
+    {
+      "name": "Watermelon Juice",
+      "slug": "watermelon-juice",
+      "category": "juices",
+      "price": 65,
+      "description": "A refreshing fruit juice prepared for a naturally fruity and refreshing drink.",
+      "image": null,
+      "isVeg": true,
+      "isAvailable": true,
+      "servingInfo": null,
+      "seasonal": false,
+      "isAddon": false,
+      "descriptionStatus": "generated",
+      "imageSearchQuery": "Watermelon Juice Indian restaurant food",
+      "tags": [
+        "juice"
+      ],
+      "dietary": {
+        "vegetarian": true,
+        "jain": false
+      },
+      "spiceLevel": null
+    },
+    {
+      "name": "Pineapple Juice",
+      "slug": "pineapple-juice",
+      "category": "juices",
+      "price": 65,
+      "description": "A refreshing fruit juice prepared for a naturally fruity and refreshing drink.",
+      "image": null,
+      "isVeg": true,
+      "isAvailable": true,
+      "servingInfo": null,
+      "seasonal": false,
+      "isAddon": false,
+      "descriptionStatus": "generated",
+      "imageSearchQuery": "Pineapple Juice Indian restaurant food",
+      "tags": [
+        "juice"
+      ],
+      "dietary": {
+        "vegetarian": true,
+        "jain": false
+      },
+      "spiceLevel": null
+    },
+    {
+      "name": "Litchi Juice",
+      "slug": "litchi-juice",
+      "category": "juices",
+      "price": 75,
+      "description": "A refreshing fruit juice prepared for a naturally fruity and refreshing drink.",
+      "image": null,
+      "isVeg": true,
+      "isAvailable": true,
+      "servingInfo": null,
+      "seasonal": false,
+      "isAddon": false,
+      "descriptionStatus": "generated",
+      "imageSearchQuery": "Litchi Juice Indian restaurant food",
+      "tags": [
+        "juice"
+      ],
+      "dietary": {
+        "vegetarian": true,
+        "jain": false
+      },
+      "spiceLevel": null
+    },
+    {
+      "name": "Mango Juice",
+      "slug": "mango-juice",
+      "category": "juices",
+      "price": 75,
+      "description": "A refreshing fruit juice prepared for a naturally fruity and refreshing drink.",
+      "image": null,
+      "isVeg": true,
+      "isAvailable": true,
+      "servingInfo": null,
+      "seasonal": false,
+      "isAddon": false,
+      "descriptionStatus": "generated",
+      "imageSearchQuery": "Mango Juice Indian restaurant food",
+      "tags": [
+        "juice"
+      ],
+      "dietary": {
+        "vegetarian": true,
+        "jain": false
+      },
+      "spiceLevel": null
+    },
+    {
+      "name": "Cranberry Juice",
+      "slug": "cranberry-juice",
+      "category": "juices",
+      "price": 75,
+      "description": "A refreshing fruit juice prepared for a naturally fruity and refreshing drink.",
+      "image": null,
+      "isVeg": true,
+      "isAvailable": true,
+      "servingInfo": null,
+      "seasonal": false,
+      "isAddon": false,
+      "descriptionStatus": "generated",
+      "imageSearchQuery": "Cranberry Juice Indian restaurant food",
+      "tags": [
+        "juice"
+      ],
+      "dietary": {
+        "vegetarian": true,
+        "jain": false
+      },
+      "spiceLevel": null
+    },
+    {
+      "name": "Orange Juice",
+      "slug": "orange-juice",
+      "category": "juices",
+      "price": 75,
+      "description": "A refreshing fruit juice prepared for a naturally fruity and refreshing drink.",
+      "image": null,
+      "isVeg": true,
+      "isAvailable": true,
+      "servingInfo": null,
+      "seasonal": false,
+      "isAddon": false,
+      "descriptionStatus": "generated",
+      "imageSearchQuery": "Orange Juice Indian restaurant food",
+      "tags": [
+        "juice"
+      ],
+      "dietary": {
+        "vegetarian": true,
+        "jain": false
+      },
+      "spiceLevel": null
+    },
+    {
+      "name": "Grape Juice",
+      "slug": "grape-juice",
+      "category": "juices",
+      "price": 75,
+      "description": "A refreshing fruit juice prepared for a naturally fruity and refreshing drink.",
+      "image": null,
+      "isVeg": true,
+      "isAvailable": true,
+      "servingInfo": null,
+      "seasonal": false,
+      "isAddon": false,
+      "descriptionStatus": "generated",
+      "imageSearchQuery": "Grape Juice Indian restaurant food",
+      "tags": [
+        "juice"
+      ],
+      "dietary": {
+        "vegetarian": true,
+        "jain": false
+      },
+      "spiceLevel": null
+    },
+    {
+      "name": "Guava Juice",
+      "slug": "guava-juice",
+      "category": "juices",
+      "price": 75,
+      "description": "A refreshing fruit juice prepared for a naturally fruity and refreshing drink.",
+      "image": null,
+      "isVeg": true,
+      "isAvailable": true,
+      "servingInfo": null,
+      "seasonal": false,
+      "isAddon": false,
+      "descriptionStatus": "generated",
+      "imageSearchQuery": "Guava Juice Indian restaurant food",
+      "tags": [
+        "juice"
+      ],
+      "dietary": {
+        "vegetarian": true,
+        "jain": false
+      },
+      "spiceLevel": null
+    }
+  ]
+}

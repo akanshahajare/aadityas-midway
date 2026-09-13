@@ -1,0 +1,134 @@
+{
+  "name": "Munchies",
+  "slug": "munchies",
+  "items": [
+    {
+      "name": "Classic French Fries",
+      "slug": "classic-french-fries",
+      "category": "munchies",
+      "price": 95,
+      "description": "Crispy golden potato fries seasoned for a delicious snack.",
+      "image": null,
+      "isVeg": true,
+      "isAvailable": true,
+      "servingInfo": null,
+      "seasonal": false,
+      "isAddon": false,
+      "descriptionStatus": "generated",
+      "imageSearchQuery": "Classic French Fries Indian restaurant food",
+      "tags": [],
+      "dietary": {
+        "vegetarian": true,
+        "jain": false
+      },
+      "spiceLevel": null
+    },
+    {
+      "name": "Peri Peri French Fries",
+      "slug": "peri-peri-french-fries",
+      "category": "munchies",
+      "price": 105,
+      "description": "Crispy golden potato fries seasoned for a delicious snack.",
+      "image": null,
+      "isVeg": true,
+      "isAvailable": true,
+      "servingInfo": null,
+      "seasonal": false,
+      "isAddon": false,
+      "descriptionStatus": "generated",
+      "imageSearchQuery": "Peri Peri French Fries Indian restaurant food",
+      "tags": [
+        "spicy"
+      ],
+      "dietary": {
+        "vegetarian": true,
+        "jain": false
+      },
+      "spiceLevel": null
+    },
+    {
+      "name": "Cheesy French Fries",
+      "slug": "cheesy-french-fries",
+      "category": "munchies",
+      "price": 115,
+      "description": "Crispy golden potato fries seasoned for a delicious snack.",
+      "image": null,
+      "isVeg": true,
+      "isAvailable": true,
+      "servingInfo": null,
+      "seasonal": false,
+      "isAddon": false,
+      "descriptionStatus": "generated",
+      "imageSearchQuery": "Cheesy French Fries Indian restaurant food",
+      "tags": [],
+      "dietary": {
+        "vegetarian": true,
+        "jain": false
+      },
+      "spiceLevel": null
+    },
+    {
+      "name": "Masala Peanut Chaat",
+      "slug": "masala-peanut-chaat",
+      "category": "munchies",
+      "price": 95,
+      "description": "",
+      "image": null,
+      "isVeg": true,
+      "isAvailable": true,
+      "servingInfo": null,
+      "seasonal": false,
+      "isAddon": false,
+      "descriptionStatus": "needs-review",
+      "imageSearchQuery": "Masala Peanut Chaat Indian restaurant food",
+      "tags": [],
+      "dietary": {
+        "vegetarian": true,
+        "jain": false
+      },
+      "spiceLevel": null
+    },
+    {
+      "name": "Classic Nachos",
+      "slug": "classic-nachos",
+      "category": "munchies",
+      "price": 95,
+      "description": "Crispy nachos served with flavorful toppings for a satisfying snack.",
+      "image": null,
+      "isVeg": true,
+      "isAvailable": true,
+      "servingInfo": null,
+      "seasonal": false,
+      "isAddon": false,
+      "descriptionStatus": "generated",
+      "imageSearchQuery": "Classic Nachos Indian restaurant food",
+      "tags": [],
+      "dietary": {
+        "vegetarian": true,
+        "jain": false
+      },
+      "spiceLevel": null
+    },
+    {
+      "name": "Cheesy Nachos",
+      "slug": "cheesy-nachos",
+      "category": "munchies",
+      "price": 105,
+      "description": "Crispy nachos served with flavorful toppings for a satisfying snack.",
+      "image": null,
+      "isVeg": true,
+      "isAvailable": true,
+      "servingInfo": null,
+      "seasonal": false,
+      "isAddon": false,
+      "descriptionStatus": "generated",
+      "imageSearchQuery": "Cheesy Nachos Indian restaurant food",
+      "tags": [],
+      "dietary": {
+        "vegetarian": true,
+        "jain": false
+      },
+      "spiceLevel": null
+    }
+  ]
+}

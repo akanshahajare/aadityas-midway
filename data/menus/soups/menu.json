@@ -1,0 +1,123 @@
+{
+  "name": "Soups",
+  "slug": "soups",
+  "items": [
+    {
+      "name": "Manchow Soup",
+      "slug": "manchow-soup",
+      "category": "soups",
+      "price": 95,
+      "description": "",
+      "image": null,
+      "isVeg": true,
+      "isAvailable": true,
+      "servingInfo": null,
+      "seasonal": false,
+      "isAddon": false
+    },
+    {
+      "name": "Hot & Sour Soup",
+      "slug": "hot-and-sour-soup",
+      "category": "soups",
+      "price": 95,
+      "description": "",
+      "image": null,
+      "isVeg": true,
+      "isAvailable": true,
+      "servingInfo": null,
+      "seasonal": false,
+      "isAddon": false
+    },
+    {
+      "name": "Sweet Corn Soup",
+      "slug": "sweet-corn-soup",
+      "category": "soups",
+      "price": 95,
+      "description": "",
+      "image": null,
+      "isVeg": true,
+      "isAvailable": true,
+      "servingInfo": null,
+      "seasonal": false,
+      "isAddon": false
+    },
+    {
+      "name": "Cream Of Tomato Soup",
+      "slug": "cream-of-tomato-soup",
+      "category": "soups",
+      "price": 105,
+      "description": "",
+      "image": null,
+      "isVeg": true,
+      "isAvailable": true,
+      "servingInfo": null,
+      "seasonal": false,
+      "isAddon": false
+    },
+    {
+      "name": "Lemon Coriander Soup",
+      "slug": "lemon-coriander-soup",
+      "category": "soups",
+      "price": 95,
+      "description": "",
+      "image": null,
+      "isVeg": true,
+      "isAvailable": true,
+      "servingInfo": null,
+      "seasonal": false,
+      "isAddon": false
+    },
+    {
+      "name": "Veg Clear Soup",
+      "slug": "veg-clear-soup",
+      "category": "soups",
+      "price": 95,
+      "description": "",
+      "image": null,
+      "isVeg": true,
+      "isAvailable": true,
+      "servingInfo": null,
+      "seasonal": false,
+      "isAddon": false
+    },
+    {
+      "name": "Tomato Shorba",
+      "slug": "tomato-shorba",
+      "category": "soups",
+      "price": 95,
+      "description": "",
+      "image": null,
+      "isVeg": true,
+      "isAvailable": true,
+      "servingInfo": null,
+      "seasonal": false,
+      "isAddon": false
+    },
+    {
+      "name": "Palak Shorba",
+      "slug": "palak-shorba",
+      "category": "soups",
+      "price": 95,
+      "description": "",
+      "image": null,
+      "isVeg": true,
+      "isAvailable": true,
+      "servingInfo": null,
+      "seasonal": false,
+      "isAddon": false
+    },
+    {
+      "name": "Cream Of Mushroom",
+      "slug": "cream-of-mushroom",
+      "category": "soups",
+      "price": 125,
+      "description": "",
+      "image": null,
+      "isVeg": true,
+      "isAvailable": true,
+      "servingInfo": null,
+      "seasonal": false,
+      "isAddon": false
+    }
+  ]
+}

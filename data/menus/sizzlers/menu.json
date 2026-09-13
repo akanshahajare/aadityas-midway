@@ -1,0 +1,84 @@
+{
+  "name": "Sizzlers",
+  "slug": "sizzlers",
+  "items": [
+    {
+      "name": "Bar-Be-Que Sizzler",
+      "slug": "bar-be-que-sizzler",
+      "category": "sizzlers",
+      "price": 295,
+      "description": "",
+      "image": null,
+      "isVeg": true,
+      "isAvailable": true,
+      "servingInfo": null,
+      "seasonal": false,
+      "isAddon": false
+    },
+    {
+      "name": "Chilli Paneer Sizzler",
+      "slug": "chilli-paneer-sizzler",
+      "category": "sizzlers",
+      "price": 295,
+      "description": "",
+      "image": null,
+      "isVeg": true,
+      "isAvailable": true,
+      "servingInfo": null,
+      "seasonal": false,
+      "isAddon": false
+    },
+    {
+      "name": "Paneer Tikka Sizzler",
+      "slug": "paneer-tikka-sizzler",
+      "category": "sizzlers",
+      "price": 295,
+      "description": "",
+      "image": null,
+      "isVeg": true,
+      "isAvailable": true,
+      "servingInfo": null,
+      "seasonal": false,
+      "isAddon": false
+    },
+    {
+      "name": "Manchurian Sizzler",
+      "slug": "manchurian-sizzler",
+      "category": "sizzlers",
+      "price": 285,
+      "description": "",
+      "image": null,
+      "isVeg": true,
+      "isAvailable": true,
+      "servingInfo": null,
+      "seasonal": false,
+      "isAddon": false
+    },
+    {
+      "name": "Veg Cutlet Sizzler",
+      "slug": "veg-cutlet-sizzler",
+      "category": "sizzlers",
+      "price": 285,
+      "description": "",
+      "image": null,
+      "isVeg": true,
+      "isAvailable": true,
+      "servingInfo": null,
+      "seasonal": false,
+      "isAddon": false
+    },
+    {
+      "name": "Italian Sizzler",
+      "slug": "italian-sizzler",
+      "category": "sizzlers",
+      "price": 315,
+      "description": "",
+      "image": null,
+      "isVeg": true,
+      "isAvailable": true,
+      "servingInfo": null,
+      "seasonal": false,
+      "isAddon": false
+    }
+  ]
+}

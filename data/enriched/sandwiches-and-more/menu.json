@@ -1,0 +1,227 @@
+{
+  "name": "Sandwiches and more",
+  "slug": "sandwiches-and-more",
+  "items": [
+    {
+      "name": "Cheese Sandwich",
+      "slug": "cheese-sandwich",
+      "category": "sandwiches-and-more",
+      "price": 75,
+      "description": "A freshly prepared sandwich with flavorful fillings and a satisfying toasted finish.",
+      "image": null,
+      "isVeg": true,
+      "isAvailable": true,
+      "servingInfo": null,
+      "seasonal": false,
+      "isAddon": false,
+      "descriptionStatus": "generated",
+      "imageSearchQuery": "Cheese Sandwich Indian restaurant food",
+      "tags": [
+        "creamy"
+      ],
+      "dietary": {
+        "vegetarian": true,
+        "jain": false
+      },
+      "spiceLevel": null
+    },
+    {
+      "name": "Veg Sandwich",
+      "slug": "veg-sandwich",
+      "category": "sandwiches-and-more",
+      "price": 95,
+      "description": "A freshly prepared sandwich with flavorful fillings and a satisfying toasted finish.",
+      "image": null,
+      "isVeg": true,
+      "isAvailable": true,
+      "servingInfo": null,
+      "seasonal": false,
+      "isAddon": false,
+      "descriptionStatus": "generated",
+      "imageSearchQuery": "Veg Sandwich Indian restaurant food",
+      "tags": [],
+      "dietary": {
+        "vegetarian": true,
+        "jain": false
+      },
+      "spiceLevel": null
+    },
+    {
+      "name": "Veg Cheese Grill Sandwich",
+      "slug": "veg-cheese-grill-sandwich",
+      "category": "sandwiches-and-more",
+      "price": 105,
+      "description": "A freshly prepared sandwich with flavorful fillings and a satisfying toasted finish.",
+      "image": null,
+      "isVeg": true,
+      "isAvailable": true,
+      "servingInfo": null,
+      "seasonal": false,
+      "isAddon": false,
+      "descriptionStatus": "generated",
+      "imageSearchQuery": "Veg Cheese Grill Sandwich Indian restaurant food",
+      "tags": [
+        "creamy"
+      ],
+      "dietary": {
+        "vegetarian": true,
+        "jain": false
+      },
+      "spiceLevel": null
+    },
+    {
+      "name": "Cheese Chilli Toast",
+      "slug": "cheese-chilli-toast",
+      "category": "sandwiches-and-more",
+      "price": 105,
+      "description": "",
+      "image": null,
+      "isVeg": true,
+      "isAvailable": true,
+      "servingInfo": null,
+      "seasonal": false,
+      "isAddon": false,
+      "descriptionStatus": "needs-review",
+      "imageSearchQuery": "Cheese Chilli Toast Indian restaurant food",
+      "tags": [
+        "spicy",
+        "creamy"
+      ],
+      "dietary": {
+        "vegetarian": true,
+        "jain": false
+      },
+      "spiceLevel": null
+    },
+    {
+      "name": "Jumbo Sandwich",
+      "slug": "jumbo-sandwich",
+      "category": "sandwiches-and-more",
+      "price": 105,
+      "description": "A freshly prepared sandwich with flavorful fillings and a satisfying toasted finish.",
+      "image": null,
+      "isVeg": true,
+      "isAvailable": true,
+      "servingInfo": null,
+      "seasonal": false,
+      "isAddon": false,
+      "descriptionStatus": "generated",
+      "imageSearchQuery": "Jumbo Sandwich Indian restaurant food",
+      "tags": [],
+      "dietary": {
+        "vegetarian": true,
+        "jain": false
+      },
+      "spiceLevel": null
+    },
+    {
+      "name": "Paneer Delight Sandwich",
+      "slug": "paneer-delight-sandwich",
+      "category": "sandwiches-and-more",
+      "price": 125,
+      "description": "A freshly prepared sandwich with flavorful fillings and a satisfying toasted finish.",
+      "image": null,
+      "isVeg": true,
+      "isAvailable": true,
+      "servingInfo": null,
+      "seasonal": false,
+      "isAddon": false,
+      "descriptionStatus": "generated",
+      "imageSearchQuery": "Paneer Delight Sandwich Indian restaurant food",
+      "tags": [
+        "paneer"
+      ],
+      "dietary": {
+        "vegetarian": true,
+        "jain": false
+      },
+      "spiceLevel": null
+    },
+    {
+      "name": "Choco Burst Sandwich",
+      "slug": "choco-burst-sandwich",
+      "category": "sandwiches-and-more",
+      "price": 105,
+      "description": "A freshly prepared sandwich with flavorful fillings and a satisfying toasted finish.",
+      "image": null,
+      "isVeg": true,
+      "isAvailable": true,
+      "servingInfo": null,
+      "seasonal": false,
+      "isAddon": false,
+      "descriptionStatus": "generated",
+      "imageSearchQuery": "Choco Burst Sandwich Indian restaurant food",
+      "tags": [],
+      "dietary": {
+        "vegetarian": true,
+        "jain": false
+      },
+      "spiceLevel": null
+    },
+    {
+      "name": "Bombay Special Sandwich",
+      "slug": "bombay-special-sandwich",
+      "category": "sandwiches-and-more",
+      "price": 125,
+      "description": "A freshly prepared sandwich with flavorful fillings and a satisfying toasted finish.",
+      "image": null,
+      "isVeg": true,
+      "isAvailable": true,
+      "servingInfo": null,
+      "seasonal": false,
+      "isAddon": false,
+      "descriptionStatus": "generated",
+      "imageSearchQuery": "Bombay Special Sandwich Indian restaurant food",
+      "tags": [],
+      "dietary": {
+        "vegetarian": true,
+        "jain": false
+      },
+      "spiceLevel": null
+    },
+    {
+      "name": "Garlic Bread",
+      "slug": "garlic-bread",
+      "category": "sandwiches-and-more",
+      "price": 95,
+      "description": "Toasted bread topped with aromatic garlic and herbs.",
+      "image": null,
+      "isVeg": true,
+      "isAvailable": true,
+      "servingInfo": null,
+      "seasonal": false,
+      "isAddon": false,
+      "descriptionStatus": "generated",
+      "imageSearchQuery": "Garlic Bread Indian restaurant food",
+      "tags": [],
+      "dietary": {
+        "vegetarian": true,
+        "jain": false
+      },
+      "spiceLevel": null
+    },
+    {
+      "name": "Cheese Garlic Bread",
+      "slug": "cheese-garlic-bread",
+      "category": "sandwiches-and-more",
+      "price": 115,
+      "description": "Toasted bread topped with aromatic garlic and herbs.",
+      "image": null,
+      "isVeg": true,
+      "isAvailable": true,
+      "servingInfo": null,
+      "seasonal": false,
+      "isAddon": false,
+      "descriptionStatus": "generated",
+      "imageSearchQuery": "Cheese Garlic Bread Indian restaurant food",
+      "tags": [
+        "creamy"
+      ],
+      "dietary": {
+        "vegetarian": true,
+        "jain": false
+      },
+      "spiceLevel": null
+    }
+  ]
+}
