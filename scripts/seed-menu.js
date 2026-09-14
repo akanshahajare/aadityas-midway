@@ -4,22 +4,13 @@ require("dotenv").config({
   path: path.join(__dirname, "..", "backend", ".env"),
 });
 
-const {
-  connectDatabase,
-  mongoose,
-} = require("../backend/src/config/database");
+const { connectDatabase, mongoose } = require("../backend/src/config/database");
 
 const MenuItem = require("../backend/src/models/MenuItem");
 
 const fs = require("fs");
 
-const MENU_FILE = path.join(
-  __dirname,
-  "..",
-  "data",
-  "enriched",
-  "menu.json"
-);
+const MENU_FILE = path.join(__dirname, "..", "data", "enriched", "menu.json");
 
 const seedMenu = async () => {
   try {
@@ -29,9 +20,7 @@ const seedMenu = async () => {
 
     console.log("Loading menu data...");
 
-    const menu = JSON.parse(
-      fs.readFileSync(MENU_FILE, "utf8")
-    );
+    const menu = JSON.parse(fs.readFileSync(MENU_FILE, "utf8"));
 
     const items = [];
 
@@ -48,8 +37,7 @@ const seedMenu = async () => {
 
           price: item.price,
 
-          description:
-            item.description || "",
+          description: item.description || "",
 
           image: item.image || {
             src: null,
@@ -58,6 +46,9 @@ const seedMenu = async () => {
             provider: null,
           },
 
+          imageSearchQuery:
+            item.imageSearchQuery || `${item.name} Indian restaurant food`,
+
           tags: item.tags || [],
 
           dietary: item.dietary || {
@@ -65,20 +56,15 @@ const seedMenu = async () => {
             jain: false,
           },
 
-          spiceLevel:
-            item.spiceLevel || null,
+          spiceLevel: item.spiceLevel || null,
 
-          servingInfo:
-            item.servingInfo || null,
+          servingInfo: item.servingInfo || null,
 
-          seasonal:
-            item.seasonal || false,
+          seasonal: item.seasonal || false,
 
-          isAddon:
-            item.isAddon || false,
+          isAddon: item.isAddon || false,
 
-          isAvailable:
-            item.isAvailable !== false,
+          isAvailable: item.isAvailable !== false,
         });
       }
     }
@@ -101,29 +87,18 @@ const seedMenu = async () => {
 
     console.log("Writing menu items to MongoDB...");
 
-    const result = await MenuItem.bulkWrite(
-      operations,
-      {
-        ordered: false,
-      }
-    );
+    const result = await MenuItem.bulkWrite(operations, {
+      ordered: false,
+    });
 
     console.log("");
     console.log("=================================");
     console.log("Menu seed completed successfully");
     console.log("=================================");
-    console.log(
-      `Matched  : ${result.matchedCount}`
-    );
-    console.log(
-      `Modified : ${result.modifiedCount}`
-    );
-    console.log(
-      `Upserted : ${result.upsertedCount}`
-    );
-    console.log(
-      `Total    : ${items.length}`
-    );
+    console.log(`Matched  : ${result.matchedCount}`);
+    console.log(`Modified : ${result.modifiedCount}`);
+    console.log(`Upserted : ${result.upsertedCount}`);
+    console.log(`Total    : ${items.length}`);
   } catch (error) {
     console.error("");
     console.error("Menu seed failed.");

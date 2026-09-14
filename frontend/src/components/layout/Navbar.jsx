@@ -1,10 +1,14 @@
 import { useState } from "react";
 import { Link } from "react-router-dom";
 import { useCart } from "../../context/CartContext";
+import { useAuth } from "../../context/AuthContext";
 
 const Navbar = () => {
   const [mobileMenuOpen, setMobileMenuOpen] = useState(false);
+  const [profileMenuOpen, setProfileMenuOpen] = useState(false);
+
   const { cartCount } = useCart();
+  const { user, isAuthenticated, logout } = useAuth();
 
   const navLinks = [
     { label: "Home", href: "/" },
@@ -15,6 +19,16 @@ const Navbar = () => {
   ];
 
   const closeMobileMenu = () => setMobileMenuOpen(false);
+
+  const handleLogout = () => {
+    logout();
+    setProfileMenuOpen(false);
+    closeMobileMenu();
+  };
+
+  const profileInitial = user?.name
+    ? user.name.charAt(0).toUpperCase()
+    : "A";
 
   return (
     <header className="sticky top-0 z-50 border-b border-brand-green/10 bg-brand-white/95 backdrop-blur-md">
@@ -37,6 +51,7 @@ const Navbar = () => {
               <p className="font-display text-lg font-bold tracking-wide text-brand-green">
                 AADITYA'S
               </p>
+
               <p className="mt-1 text-[0.6rem] font-semibold uppercase tracking-[0.28em] text-brand-brown">
                 Midway & Restaurant
               </p>
@@ -61,6 +76,7 @@ const Navbar = () => {
 
           {/* Desktop Actions */}
           <div className="hidden items-center gap-3 lg:flex">
+            {/* Cart */}
             <Link
               to="/cart"
               className="relative flex h-11 w-11 items-center justify-center rounded-full border border-brand-green/20 text-brand-green transition hover:bg-brand-cream"
@@ -87,6 +103,100 @@ const Navbar = () => {
                 </span>
               )}
             </Link>
+
+            {/* Profile */}
+            <div className="relative">
+              <button
+                type="button"
+                onClick={() =>
+                  setProfileMenuOpen((current) => !current)
+                }
+                className="flex h-11 w-11 items-center justify-center rounded-full border border-brand-green/20 bg-brand-white text-sm font-bold text-brand-green transition hover:bg-brand-cream"
+                aria-label="Account menu"
+                aria-expanded={profileMenuOpen}
+              >
+                {isAuthenticated ? (
+                  profileInitial
+                ) : (
+                  <svg
+                    width="21"
+                    height="21"
+                    viewBox="0 0 24 24"
+                    fill="none"
+                    stroke="currentColor"
+                    strokeWidth="1.8"
+                    strokeLinecap="round"
+                    strokeLinejoin="round"
+                  >
+                    <circle cx="12" cy="8" r="4" />
+                    <path d="M4 21a8 8 0 0 1 16 0" />
+                  </svg>
+                )}
+              </button>
+
+              {profileMenuOpen && (
+                <div className="absolute right-0 top-14 w-64 overflow-hidden rounded-2xl border border-brand-green/10 bg-brand-white shadow-xl">
+                  {isAuthenticated ? (
+                    <>
+                      <div className="border-b border-brand-green/10 px-5 py-4">
+                        <p className="font-semibold text-text-primary">
+                          {user.name}
+                        </p>
+
+                        <p className="mt-1 truncate text-xs text-text-secondary">
+                          {user.email}
+                        </p>
+                      </div>
+
+                      <div className="p-2">
+                        <Link
+                          to="/orders"
+                          onClick={() =>
+                            setProfileMenuOpen(false)
+                          }
+                          className="block rounded-xl px-4 py-3 text-sm font-semibold text-text-primary transition hover:bg-brand-cream hover:text-brand-green"
+                        >
+                          My Orders
+                        </Link>
+
+                        <button
+                          type="button"
+                          onClick={handleLogout}
+                          className="w-full rounded-xl px-4 py-3 text-left text-sm font-semibold text-red-600 transition hover:bg-red-50"
+                        >
+                          Logout
+                        </button>
+                      </div>
+                    </>
+                  ) : (
+                    <>
+                      <div className="px-5 py-4">
+                        <p className="font-semibold text-text-primary">
+                          Welcome
+                        </p>
+
+                        <p className="mt-1 text-xs leading-5 text-text-secondary">
+                          Login to manage your orders and
+                          account.
+                        </p>
+                      </div>
+
+                      <div className="border-t border-brand-green/10 p-2">
+                        <Link
+                          to="/auth"
+                          onClick={() =>
+                            setProfileMenuOpen(false)
+                          }
+                          className="block rounded-xl bg-brand-green px-4 py-3 text-center text-sm font-semibold text-white transition hover:bg-brand-green-dark"
+                        >
+                          Login / Register
+                        </Link>
+                      </div>
+                    </>
+                  )}
+                </div>
+              )}
+            </div>
 
             <Link to="/menu" className="btn-primary">
               Explore Menu
@@ -159,6 +269,55 @@ const Navbar = () => {
               ))}
             </nav>
 
+            {/* Mobile Account */}
+            <div className="mt-4 border-t border-brand-green/10 pt-4">
+              {isAuthenticated ? (
+                <div className="rounded-xl bg-brand-cream p-4">
+                  <div className="flex items-center gap-3">
+                    <div className="flex h-10 w-10 items-center justify-center rounded-full bg-brand-green font-bold text-brand-gold">
+                      {profileInitial}
+                    </div>
+
+                    <div className="min-w-0">
+                      <p className="truncate text-sm font-bold text-text-primary">
+                        {user.name}
+                      </p>
+
+                      <p className="truncate text-xs text-text-secondary">
+                        {user.email}
+                      </p>
+                    </div>
+                  </div>
+
+                  <div className="mt-3 grid grid-cols-2 gap-2">
+                    <Link
+                      to="/orders"
+                      onClick={closeMobileMenu}
+                      className="rounded-lg border border-brand-green/20 px-3 py-2 text-center text-xs font-semibold text-brand-green"
+                    >
+                      My Orders
+                    </Link>
+
+                    <button
+                      type="button"
+                      onClick={handleLogout}
+                      className="rounded-lg border border-red-200 px-3 py-2 text-xs font-semibold text-red-600"
+                    >
+                      Logout
+                    </button>
+                  </div>
+                </div>
+              ) : (
+                <Link
+                  to="/auth"
+                  onClick={closeMobileMenu}
+                  className="flex items-center justify-center rounded-lg bg-brand-green px-4 py-3 text-sm font-semibold text-white"
+                >
+                  Login / Register
+                </Link>
+              )}
+            </div>
+
             <div className="mt-4 grid grid-cols-3 gap-3 border-t border-brand-green/10 pt-4">
               <Link
                 to="/cart"
@@ -166,6 +325,7 @@ const Navbar = () => {
                 className="relative flex items-center justify-center rounded-lg border border-brand-green/20 py-3 text-sm font-semibold text-brand-green"
               >
                 Cart
+
                 {cartCount > 0 && (
                   <span className="ml-2 rounded-full bg-brand-gold px-2 py-0.5 text-[10px] font-bold text-brand-green-dark">
                     {cartCount}

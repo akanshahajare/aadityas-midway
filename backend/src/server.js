@@ -7,6 +7,14 @@ const {
 } = require("./config/database");
 
 const menuRoutes = require("./routes/menuRoutes");
+const authRoutes = require("./routes/authRoutes");
+const orderRoutes = require("./routes/orderRoutes");
+const userRoutes = require("./routes/userRoutes");
+const categoryRoutes = require("./routes/categoryRoutes");
+
+const {
+  authenticateUser,
+} = require("./middleware/authMiddleware");
 
 const app = express();
 
@@ -31,6 +39,27 @@ app.use(express.json());
 // -------------------------
 
 app.use("/api/menu", menuRoutes);
+
+app.use("/api/auth", authRoutes);
+
+app.use("/api/orders", orderRoutes);
+
+app.use("/api/users", userRoutes);
+
+app.use("/api/categories", categoryRoutes);
+
+// Protected authentication test
+app.get(
+  "/api/auth/me",
+  authenticateUser,
+  (req, res) => {
+    res.status(200).json({
+      success: true,
+      message: "Authentication successful",
+      user: req.user,
+    });
+  }
+);
 
 // Health check
 app.get("/api/health", (req, res) => {

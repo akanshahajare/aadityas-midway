@@ -49,3 +49,15 @@ export const getMenuItem = async (slug) => {
 
   return response.json();
 };
+
+export const getMenuItemImage = async (slug) => {
+  const response = await fetch(
+    `${API_BASE_URL}/api/menu/${slug}/image`
+  );
+
+  if (!response.ok) {
+    throw new Error("Failed to fetch menu item image");
+  }
+
+  return response.json();
+};

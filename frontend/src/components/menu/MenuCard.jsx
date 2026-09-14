@@ -1,9 +1,65 @@
-import { useState } from "react";
+import { useEffect, useRef, useState } from "react";
 import { useCart } from "../../context/CartContext";
+import { getMenuItemImage } from "../../services/menuService";
 
 const MenuCard = ({ item }) => {
   const { addToCart } = useCart();
+
   const [added, setAdded] = useState(false);
+  const [imageData, setImageData] = useState(item.image || null);
+  const [imageLoading, setImageLoading] = useState(false);
+
+  const cardRef = useRef(null);
+  const imageRequestedRef = useRef(false);
+
+  useEffect(() => {
+    // If the menu item already has an image, no API call is needed.
+    if (imageData?.src || imageRequestedRef.current) {
+      return;
+    }
+
+    const card = cardRef.current;
+
+    if (!card) {
+      return;
+    }
+
+    const observer = new IntersectionObserver(
+      async ([entry]) => {
+        if (!entry.isIntersecting || imageRequestedRef.current) {
+          return;
+        }
+
+        imageRequestedRef.current = true;
+        setImageLoading(true);
+
+        try {
+          const response = await getMenuItemImage(item.slug);
+
+          if (response?.data?.src) {
+            setImageData(response.data);
+          }
+        } catch (error) {
+          console.error(
+            `Failed to load image for ${item.name}:`,
+            error
+          );
+        } finally {
+          setImageLoading(false);
+          observer.disconnect();
+        }
+      },
+      {
+        rootMargin: "300px",
+      }
+    );
+
+    observer.observe(card);
+
+    return () => {
+      observer.disconnect();
+    };
+  }, [item.slug, item.name, imageData]);
 
   const handleAddToCart = () => {
     addToCart(item);
@@ -14,16 +70,34 @@ const MenuCard = ({ item }) => {
     }, 1500);
   };
 
+  const isPexelsImage =
+    imageData?.provider === "pexels" ||
+    imageData?.src?.includes("images.pexels.com");
+
   return (
-    <article className="group overflow-hidden rounded-2xl border border-brand-green/10 bg-brand-white transition-all duration-300 hover:-translate-y-1 hover:shadow-lg">
+    <article
+      ref={cardRef}
+      className="group overflow-hidden rounded-2xl border border-brand-green/10 bg-brand-white transition-all duration-300 hover:-translate-y-1 hover:shadow-lg"
+    >
       {/* Image */}
       <div className="relative aspect-[4/3] overflow-hidden bg-brand-green">
-        {item.image?.src ? (
+        {imageData?.src ? (
           <img
-            src={item.image.src}
-            alt={item.image.alt || item.name}
+            src={imageData.src}
+            alt={imageData.alt || item.name}
+            loading="lazy"
             className="h-full w-full object-cover transition-transform duration-500 group-hover:scale-105"
           />
+        ) : imageLoading ? (
+          <div className="flex h-full items-center justify-center">
+            <div className="text-center">
+              <div className="mx-auto mb-3 h-10 w-10 animate-pulse rounded-full border-2 border-brand-gold/50" />
+
+              <p className="text-xs font-semibold uppercase tracking-wider text-brand-gold-light">
+                Loading image...
+              </p>
+            </div>
+          </div>
         ) : (
           <div className="flex h-full items-center justify-center">
             <div className="text-center">
@@ -50,6 +124,41 @@ const MenuCard = ({ item }) => {
           </span>
         )}
       </div>
+
+      {/* Pexels Attribution */}
+      {isPexelsImage && (
+        <div className="px-4 pt-2 text-xs text-text-secondary">
+          Photo by{" "}
+          {imageData.photographer ? (
+            imageData.photographerUrl ? (
+              <a
+                href={imageData.photographerUrl}
+                target="_blank"
+                rel="noreferrer"
+                className="underline hover:text-brand-green"
+              >
+                {imageData.photographer}
+              </a>
+            ) : (
+              imageData.photographer
+            )
+          ) : (
+            "Pexels"
+          )}{" "}
+          on{" "}
+          <a
+            href={
+              imageData.providerUrl ||
+              "https://www.pexels.com/"
+            }
+            target="_blank"
+            rel="noreferrer"
+            className="underline hover:text-brand-green"
+          >
+            Pexels
+          </a>
+        </div>
+      )}
 
       {/* Content */}
       <div className="p-5">
@@ -110,3 +219,4 @@ const MenuCard = ({ item }) => {
 };
 
 export default MenuCard;
+

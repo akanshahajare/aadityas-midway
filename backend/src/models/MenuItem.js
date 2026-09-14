@@ -16,17 +16,9 @@ const menuItemSchema = new mongoose.Schema(
     },
 
     category: {
-      name: {
-        type: String,
-        required: true,
-        trim: true,
-      },
-
-      slug: {
-        type: String,
-        required: true,
-        trim: true,
-      },
+      type: mongoose.Schema.Types.ObjectId,
+      ref: "Category",
+      required: true,
     },
 
     price: {
@@ -62,6 +54,32 @@ const menuItemSchema = new mongoose.Schema(
         type: String,
         default: null,
       },
+
+      providerPhotoId: {
+        type: Number,
+        default: null,
+      },
+
+      providerUrl: {
+        type: String,
+        default: null,
+      },
+
+      photographer: {
+        type: String,
+        default: null,
+      },
+
+      photographerUrl: {
+        type: String,
+        default: null,
+      },
+    },
+
+    imageSearchQuery: {
+      type: String,
+      default: "",
+      trim: true,
     },
 
     tags: {

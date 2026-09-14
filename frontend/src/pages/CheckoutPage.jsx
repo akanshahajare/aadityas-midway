@@ -1,24 +1,32 @@
-import { Link, useNavigate } from "react-router-dom";
+import { Link, useLocation, useNavigate } from "react-router-dom";
 import { useState } from "react";
+
 import { useCart } from "../context/CartContext";
+import { useAuth } from "../context/AuthContext";
+import { createOrder } from "../services/orderService";
 
 const CheckoutPage = () => {
   const navigate = useNavigate();
+  const location = useLocation();
 
   const { cartItems, subtotal, clearCart } = useCart();
+  const { token, user, isAuthenticated } = useAuth();
 
   const [orderType, setOrderType] = useState("dine-in");
   const [paymentMethod, setPaymentMethod] = useState("cash");
 
   const [formData, setFormData] = useState({
-    name: "",
+    name: user?.name || "",
     phone: "",
-    email: "",
+    email: user?.email || "",
     tableNumber: "",
     address: "",
     city: "",
     pincode: "",
   });
+
+  const [loading, setLoading] = useState(false);
+  const [error, setError] = useState("");
 
   const gst = subtotal * 0.05;
   const total = subtotal + gst;
@@ -32,17 +40,87 @@ const CheckoutPage = () => {
     }));
   };
 
-  const handleSubmit = (event) => {
+  const handleSubmit = async (event) => {
     event.preventDefault();
+
+    setError("");
 
     if (cartItems.length === 0) {
       return;
     }
 
-    alert("Order placed successfully!");
+    // Login is required only when placing the order.
+    if (!isAuthenticated) {
+      navigate("/auth", {
+        state: {
+          from: location.pathname,
+        },
+      });
 
-    clearCart();
-    navigate("/");
+      return;
+    }
+
+    setLoading(true);
+
+    try {
+      const orderData = {
+        items: cartItems.map((item) => ({
+          menuItem: item._id,
+          quantity: Number(item.quantity),
+        })),
+
+        orderType,
+
+        customer: {
+          name: formData.name,
+          phone: formData.phone,
+          email: formData.email,
+        },
+
+        tableNumber:
+          orderType === "dine-in"
+            ? formData.tableNumber
+            : undefined,
+
+        deliveryAddress:
+          orderType === "delivery"
+            ? {
+                address: formData.address,
+                city: formData.city,
+                pincode: formData.pincode,
+              }
+            : undefined,
+
+        payment: {
+          method: paymentMethod,
+        },
+      };
+
+      const response = await createOrder(orderData, token);
+
+      if (!response.success) {
+        throw new Error(
+          response.message || "Failed to place order"
+        );
+      }
+
+      clearCart();
+
+      navigate("/", {
+        state: {
+          orderPlaced: true,
+          orderId: response.data?._id,
+          total: response.data?.pricing?.total,
+        },
+      });
+    } catch (requestError) {
+      setError(
+        requestError.message ||
+          "Unable to place your order. Please try again."
+      );
+    } finally {
+      setLoading(false);
+    }
   };
 
   if (cartItems.length === 0) {
@@ -67,11 +145,14 @@ const CheckoutPage = () => {
             </h2>
 
             <p className="mt-3 text-sm leading-6 text-text-secondary">
-              Add some delicious dishes to your cart before proceeding to
-              checkout.
+              Add some delicious dishes to your cart before
+              proceeding to checkout.
             </p>
 
-            <Link to="/menu" className="btn-primary mt-7 inline-flex">
+            <Link
+              to="/menu"
+              className="btn-primary mt-7 inline-flex"
+            >
               Explore Menu
             </Link>
           </div>
@@ -100,6 +181,26 @@ const CheckoutPage = () => {
       </section>
 
       <section className="container-midway py-12">
+        {error && (
+          <div className="mb-6 rounded-xl border border-red-200 bg-red-50 px-5 py-4 text-sm text-red-700">
+            {error}
+          </div>
+        )}
+
+        {!isAuthenticated && (
+          <div className="mb-6 rounded-xl border border-brand-gold/30 bg-brand-gold/10 px-5 py-4">
+            <p className="font-semibold text-text-primary">
+              Login required to place your order
+            </p>
+
+            <p className="mt-1 text-sm text-text-secondary">
+              You can browse the menu and use your cart without
+              logging in. Login is only required when you place
+              the order.
+            </p>
+          </div>
+        )}
+
         <form
           onSubmit={handleSubmit}
           className="grid gap-8 lg:grid-cols-[1fr_380px]"
@@ -214,7 +315,9 @@ const CheckoutPage = () => {
                       name="orderType"
                       value={option.value}
                       checked={orderType === option.value}
-                      onChange={(event) => setOrderType(event.target.value)}
+                      onChange={(event) =>
+                        setOrderType(event.target.value)
+                      }
                       className="sr-only"
                     />
 
@@ -411,7 +514,8 @@ const CheckoutPage = () => {
                   <p className="shrink-0 text-sm font-semibold text-text-primary">
                     ₹
                     {(
-                      (Number(item.price) || 0) * item.quantity
+                      (Number(item.price) || 0) *
+                      item.quantity
                     ).toFixed(2)}
                   </p>
                 </div>
@@ -420,14 +524,20 @@ const CheckoutPage = () => {
 
             <div className="mt-6 border-t border-brand-green/10 pt-5">
               <div className="flex justify-between text-sm">
-                <span className="text-text-secondary">Subtotal</span>
+                <span className="text-text-secondary">
+                  Subtotal
+                </span>
+
                 <span className="font-semibold">
                   ₹{subtotal.toFixed(2)}
                 </span>
               </div>
 
               <div className="mt-3 flex justify-between text-sm">
-                <span className="text-text-secondary">GST (5%)</span>
+                <span className="text-text-secondary">
+                  GST (5%)
+                </span>
+
                 <span className="font-semibold">
                   ₹{gst.toFixed(2)}
                 </span>
@@ -448,9 +558,14 @@ const CheckoutPage = () => {
 
             <button
               type="submit"
-              className="btn-primary mt-7 w-full"
+              disabled={loading}
+              className="btn-primary mt-7 w-full disabled:cursor-not-allowed disabled:opacity-60"
             >
-              Place Order
+              {loading
+                ? "Placing Order..."
+                : isAuthenticated
+                ? "Place Order"
+                : "Login to Place Order"}
             </button>
 
             <Link
